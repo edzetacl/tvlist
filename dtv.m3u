@@ -45,6 +45,13 @@ https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=e97438334f9259b5879ffff21631f2c4&key=20a2c7f102fd3e96bacda90c24df3e95
 https://dtvott-abc.akamaized.net/dash_live_1105/manifest.mpd
 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Colombia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=2444f7f19b29352eb6d1c7f9d8f71d59&key=027fc4f3b6275111c0c8b5ae84933ea8
+https://dtvott-abc.akamaized.net/dash_live_1106/manifest.mpd
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
