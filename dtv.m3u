@@ -38,21 +38,21 @@ https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=64e744367e16508f98ba279b3357ed28&key=9bd679a43a4b57864959db105a42faea
 https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Chile
+#EXTINF:-1, ESPN Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=e97438334f9259b5879ffff21631f2c4&key=20a2c7f102fd3e96bacda90c24df3e95
 https://dtvott-abc.akamaized.net/dash_live_1105/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Colombia
+#EXTINF:-1, ESPN Colombia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=2444f7f19b29352eb6d1c7f9d8f71d59&key=027fc4f3b6275111c0c8b5ae84933ea8
-https://dtvott-abc.akamaized.net/dash_live_1106/manifest.mpd
+https://dtvott-akaws.akamaized.net/live_1106/DASH/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Argentina
+#EXTINF:-1, ESPN Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -66,16 +66,16 @@ https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=933de8e915535ae18c2558a5a76318c9&key=e1fc1eed4eae83e0dc1b3705cb62ca64
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/FIpSLFW.png", ESPN 3 Argentina
+#EXTINF:-1, ESPN 3 Argentina
 https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I0ECSpt.png" , ESPN Premium
+#EXTINF:-1, ESPN Premium
 https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/LWPjMmL.png", Fox Sports Argentina
+#EXTINF:-1, Fox Sports Argentina
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/LWPjMmL.png", Fox Sports 2 Argentina
+#EXTINF:-1, Fox Sports 2 Argentina
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
 
 #EXTINF:-1 , FSP1
@@ -205,6 +205,16 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/licen0620/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 
+#EXTINF:-1, FOX SPORTS 2 MX
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api5/
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1, FOX SPORTS 3 MX
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api5/
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
 #EXTINF:-1 , Fox Sports 3 Mexico
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -219,21 +229,11 @@ https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/licen0620/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/AFIZZIONADOS-HD/dash/default.mpd
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/F6N1fyp.png", Claro Sports (Opcion 2)
+#EXTINF:-1, Claro Sports (Opcion 2)
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_0=64000-video=6499968.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/XgjZPy3.png", TNT Sports 3 (Opcion 2)
+#EXTINF:-1, TNT Sports 3 (Opcion 2)
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" tvg-group="DEPORTES", FOX SPORTS 2 MX
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api5/
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9wf6FXv/ar-fox-sports-3-m.png" tvg-group="DEPORTES", FOX SPORTS 3 MX
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api5/
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 #EXTINF:-1 tvg-group="DEPORTES", Test
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -244,7 +244,7 @@ https://channel-atrescine-cdn.blim.com/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CNNInternationalAsiaPacific.us" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/cnninternational.png" group-title="News",CNN International
+#EXTINF:-1, CNN International
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #EXTINF:-1, A3S
