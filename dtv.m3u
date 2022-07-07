@@ -85,6 +85,20 @@ https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxS
 #KODIPROP:inputstream.adaptive.license_key=
 https://1117-vos.dtvott.com/DASH/manifest.mpd
 
+#EXTINF:-1, DTV Sports CL.
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=6acff80330fd5da6961e33d84dff4d03&key=c1dff4e0cbd2c594cbd83e9ba6debe4d
+https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd
+
+#EXTINF:-1, DTV Sports Ec.
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=e9bc6a1c64e05c35aa72e12b16d35247&key=07c1735adac15de877df3f81b4fc4731
+https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
+
 #EXTINF:-1, DTV Sports Arg.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
