@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 , America TV
+https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
+
 #EXTINF:-1 , TVPublica
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -78,12 +81,12 @@ https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSpor
 #EXTINF:-1, Fox Sports 2 Argentina
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
 
-#EXTINF:-1 , FSP1
+#EXTINF:-1 , TNT Sports Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=5804b7a24ca1303d8511b6d49278610c&key=fc0a63fd4fb80fd67ad25646857082f5
-https://1117-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=c4697bf458da52f8b96b36cce761d571&key=a4dee77615279c858b19e5bb69ab6755
+https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 #EXTINF:-1, DTV Sports CL.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -155,10 +158,39 @@ https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=6df41a825a3e5fb092e980e4873bcf07&key=fda83457d54092f972f8e1a7e608f102
 https://dtvott-abc.akamaized.net/dash_live_1238/manifest.mpd
 
-#EXTINF:-1, DeporTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/.m3u8
+#EXTINF:-1, Smithsonian
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=8dac986c59b7535da4c3c79e0d55ee43&key=30b9f30bb7ba3b1a51d7e39f46f371ad
+https://dtvott-abc.akamaized.net/dash_live_1188/manifest.mpd
 
-#EXTINF:-1 ,------------------------------------------------------------
+#EXTINF:-1 , FSP1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=5804b7a24ca1303d8511b6d49278610c&key=fc0a63fd4fb80fd67ad25646857082f5
+https://1117-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 , ESPNPrem.
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=4cb49df341423cb597bf3e79b78f2a52c&key=11ad69d2c84f41dbb520abfe38b19fe7
+https://1125-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 , VTVPlus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=0b23302438ff324dab2eeaca5ea9f554&key=cd59eb711c8ac4ee0bf0c66f3e967a9c
+https://1246-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 , Test ETNT
+https://nedestadio2.akamaized.net/hls/live/2034320/feedtv/index.m3u8?hdnts=st=1657431961~exp=1657432021~acl=*~hmac=2580ad2749259d1135a27390d45ab3f07c77d93218f2576edf8dc9606b718ef8
+
+#EXTINF:-1 , Test Mexicanos
+<<<<<<<<<<<---------->>>>>>>>>>
 
 #EXTINF:-1 , Azteca 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -259,14 +291,31 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 #EXTINF:-1 tvg-group="DEPORTES", Test
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://api.blim.com/license/widevine
-https://channel-atrescine-cdn.blim.com/manifest.mpd
+https://channel-antena3-cdn.blim.com/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1, CNN International
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+#EXTINF:-1, Trece Colombia
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1, Telepacifico Colombia
+https://stream.logicideas.media/telepacifico-live/live.smil/.m3u8
+
+#EXTINF:-1, RCN Colombia
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVxRCO1Wl6-oa9ZvvQyjQiFV1KOTnPNNrky0N7Y8fAwE)/dm/3/x7vyv0z/s/live-3.m3u8
+
+
+
+#EXTINF:-1, Eurosport 1
+https://piratilla.com/496042/hls/eurosport1.m3u8
+
+#EXTINF:-1, Eurosport 2
+https://piratilla.com/496042/hls/eurosport2.m3u8
 
 #EXTINF:-1, Fox Deportes
 https://lnc-fox-sports-espanol2.tubi.video/index.m3u8
