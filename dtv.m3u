@@ -309,8 +309,6 @@ https://stream.logicideas.media/telepacifico-live/live.smil/.m3u8
 #EXTINF:-1, RCN Colombia
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVxRCO1Wl6-oa9ZvvQyjQiFV1KOTnPNNrky0N7Y8fAwE)/dm/3/x7vyv0z/s/live-3.m3u8
 
-
-
 #EXTINF:-1, Eurosport 1
 https://piratilla.com/496042/hls/eurosport1.m3u8
 
@@ -370,6 +368,9 @@ https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1, Pluto Classic Music
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=64c9&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1, CM
+http://g3.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1, TLNovelas
 https://linear-421.frequency.stream/421/hls/master/playlist.m3u8
