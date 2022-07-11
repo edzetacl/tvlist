@@ -73,6 +73,13 @@ https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
 #EXTINF:-1, ESPN Arg. Op2
 https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 
+#EXTINF:-1, ESPN 2 Mx
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3Msv8QTfC7xU3gazwnhvXA","kid":"BrOt-6mEXHySRwT9i43NZA"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 , ESPN2 Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -89,8 +96,29 @@ https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 #EXTINF:-1, ESPN 3 Arg. Op2
 https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
 
+#EXTINF:-1 , ESPN 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8SpnwA1O8olVByrsMWom8A","kid":"v2i0CrnCWFmLcyBFCauGDQ"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , ESPN 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WbJpuAvs0DYwemBdmTgWDw","kid":"UiK9jCiYWTmC_CVQ5JOqaQ"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1, ESPN Extra
 https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+
+#EXTINF:-1 , ESPN Extra
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iG1hL7FqzrFy22j9MBanNw","kid":"ZtoxBw6sWPytuRGASRfqKA"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, ESPN Premium Op1
 https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
@@ -115,11 +143,25 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Mgduj0idcq4IR-syVs6tHQ","kid":"uUr354epW_C32Dj7NPJ4Qg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, Fox Sports Mx
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gG8YHFRdzJsugpWGbX_LWA","kid":"7t4TEF53XPGOetIFeKtwHA"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1, Fox Sports Arg. Op1
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 #EXTINF:-1, Fox Sports Arg. Op2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+
+#EXTINF:-1, Fox Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6MVaVb+X450iOAVs82hXOw","kid":"CMPmVA3PVrqZwShgZfwNFA"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Fox Sports 2 Arg.
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
@@ -192,6 +234,42 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=36b2c6b7736a5901bf408916a454abf9&key=f0d2254f85b73717f4c2cd81bda71889
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
+
+#EXTINF:-1 , DeporTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OlbfAEfdcJOIxgb5_y-63Q","kid":"AKd10blrWVGzw6tXmfmGjg"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , ECDF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C2uGIpiRBPabLbkWMO0Orw","kid":"ZXXiy4SbWBSAqyYLcMz6tg"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , GOL TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p_1JgI-JDCUAvyGAqvQjBw","kid":"MwO0xpgvOB6p4wkAn7s_Jw"}],"type":"temporary"}
+https://api1.tvgratis.live/streams/1134/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , TyC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TE8ChmR5Y67AXBXfG6USJA","kid":"Y-aw22ZDRVaiPIVb1bbn0g"}],"type":"temporary"}
+https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
+
+#EXTINF:-1 , Win Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aW3nqCJX3bUe0_3sBLbsiw","kid":"NNYrIu_GP2WerFuoIomILQ"}],"type":"temporary"}
+https://api1.tvgratis.live/streams/1251/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 , UPremiere
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -266,19 +344,14 @@ https://1246-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 https://dtvott-akaws.akamaized.net/live_1106/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, QUIERO
-https://anbalancer.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_Musica.mpd |User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1OsF8mC8Xc5l_w-HVA-wKQ","kid":"43K82z9RTqqSdGwMCgR6ew"}],"type":"temporary"}
-
-#EXTINF:-1 , Test Mexicanos
-<<<<<<<<<<<---------->>>>>>>>>>
-
-#EXTINF:-1, TUDN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
-https://channel-tdn-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1OsF8mC8Xc5l_w-HVA-wKQ","kid":"43K82z9RTqqSdGwMCgR6ew"}],"type":"temporary"}
+https://anbalancer.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_Musica.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , Test Mexicanos
+<<<<<<<<<<<---------->>>>>>>>>>
 
 #EXTINF:-1 , Azteca 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -300,6 +373,14 @@ https://d2ya662kz0kh0s.cloudfront.net/out/u/dash/CDMX/AZTECA-UNO-HD/dash/AZTECA-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/licen0620/mxup.php
 https://abc.iptvtucuman.com/live1/out/u/dash/CANAL-2-HD/default.mpd
+
+
+#EXTINF:-1, Canal 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
+https://channel-canal5-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 , ESPN Mexico
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -335,6 +416,13 @@ https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-PLUS-HD/dash/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/licen0620/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/TUDN-HD/default.mpd
+
+#EXTINF:-1, TUDN Blim
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
+https://channel-tdn-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 , Fox Sports Mexico
 #KODIPROP:inputstreamaddon=inputstream.adaptive
