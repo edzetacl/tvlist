@@ -10,6 +10,12 @@ https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=5f789ebbb6495578b42267b650574f62&key=0b37b263a0aca7b08f12014b2b7b9248
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 
+#EXTINF:-1, TVP
+https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
+
+#EXTINF:-1, Canal 9
+https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
 #EXTINF:-1 , Telefe
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -20,12 +26,21 @@ https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 #EXTINF:-1, El Trece
 http://181.30.129.66:80/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 
+#EXTINF:-1, El 13
+https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
+
 #EXTINF:-1 , Todo Noticias
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=b363e35a5075589983fec4e2f74f90b9&key=8f7c53bfe02df34d253eb61e7d01ae79
 https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
+
+#EXTINF:-1, TN
+https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
+
+#EXTINF:-1, Cronica
+https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
 
 #EXTINF:-1 , CNN Es
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -62,6 +77,9 @@ https://dtvott-akaws.akamaized.net/live_1106/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=66a61cf22e5956c49b89ecbc56049248&key=51fc45f5a6f184b9916631ac31f95653
 https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
 
+#EXTINF:-1, ESPN Arg. Op2
+https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
+
 #EXTINF:-1 , ESPN2 Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -69,24 +87,48 @@ https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=933de8e915535ae18c2558a5a76318c9&key=e1fc1eed4eae83e0dc1b3705cb62ca64
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 
+#EXTINF:-1, ESPN 2 Arg. Op2
+https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
+
 #EXTINF:-1, ESPN 3 Argentina
 https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 
-#EXTINF:-1, ESPN Premium
+#EXTINF:-1, ESPN 3 Arg. Op2
+https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
+
+#EXTINF:-1, ESPN Extra
+https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+
+#EXTINF:-1, ESPN Premium Op1
 https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
 
-#EXTINF:-1, Fox Sports Argentina
-https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+#EXTINF:-1, ESPN Premium Op2
+https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
-#EXTINF:-1, Fox Sports 2 Argentina
-https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+#EXTINF:-1, TNT Sports Arg. Op1
+https://delivery.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
-#EXTINF:-1 , TNT Sports Argentina
+#EXTINF:-1 , TNT Sports Arg. Op2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=c4697bf458da52f8b96b36cce761d571&key=a4dee77615279c858b19e5bb69ab6755
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
+
+#EXTINF:-1, Fox Sports Arg. Op1
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+
+#EXTINF:-1, Fox Sports Arg. Op2
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+
+#EXTINF:-1, Fox Sports 2 Arg.
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+
+#EXTINF:-1, Fox Sports 2 Arg. 2
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+
+#EXTINF:-1, Fox Sports 3 Arg.
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 #EXTINF:-1, DTV Sports CL.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -186,8 +228,11 @@ https://1125-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=0b23302438ff324dab2eeaca5ea9f554&key=cd59eb711c8ac4ee0bf0c66f3e967a9c
 https://1246-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 , Test ETNT
-https://nedestadio2.akamaized.net/hls/live/2034320/feedtv/index.m3u8?hdnts=st=1657431961~exp=1657432021~acl=*~hmac=2580ad2749259d1135a27390d45ab3f07c77d93218f2576edf8dc9606b718ef8
+#EXTINF:-1, MTV
+https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
+
+#EXTINF:-1, Golf Channel
+https://delivery.cdn.rcs.net.ar/mnp/golf/output.mpd
 
 #EXTINF:-1 , Test Mexicanos
 <<<<<<<<<<<---------->>>>>>>>>>
@@ -205,6 +250,13 @@ https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/licen0620/mxup.php
 https://d2ya662kz0kh0s.cloudfront.net/out/u/dash/CDMX/AZTECA-UNO-HD/dash/AZTECA-UNO-HD.mpd
+
+#EXTINF:-1 , Canal 2 Las Estrellas
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/licen0620/mxup.php
+https://abc.iptvtucuman.com/live1/out/u/dash/CANAL-2-HD/default.mpd
 
 #EXTINF:-1 , ESPN Mexico
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -308,12 +360,6 @@ https://stream.logicideas.media/telepacifico-live/live.smil/.m3u8
 
 #EXTINF:-1, RCN Colombia
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVxRCO1Wl6-oa9ZvvQyjQiFV1KOTnPNNrky0N7Y8fAwE)/dm/3/x7vyv0z/s/live-3.m3u8
-
-#EXTINF:-1, Eurosport 1
-https://piratilla.com/496042/hls/eurosport1.m3u8
-
-#EXTINF:-1, Eurosport 2
-https://piratilla.com/496042/hls/eurosport2.m3u8
 
 #EXTINF:-1, Fox Deportes
 https://lnc-fox-sports-espanol2.tubi.video/index.m3u8
