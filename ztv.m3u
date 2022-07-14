@@ -56,7 +56,7 @@ http://live.entel.cl/2294/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/24
 http://live.entel.cl/2285/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283995.E", tvg-logo="https://callateguatonql.cam/Logo/22",CNN Español
+#EXTINF:-1 tvg-id="283995.E", tvg-logo="https://i.imgur.com/wTIf5bK.png",CNN Español
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/22
 http://live.entel.cl/2270/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -71,7 +71,14 @@ http://live.entel.cl/2331/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/60
 http://live.entel.cl/3688/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nv.png" , Antena 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/akIXkiS.png", StarTVE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
+https://channel-startve-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nBvllys.png" , Antena 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -235,12 +242,12 @@ http://live.entel.cl/2275/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/14
 http://live.entel.cl/2340/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wFMMYT4.png", Smithsonian
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MK891N9.png", Smithsonian
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MLnzC7e6OxpR1+OfRvNxrQ","kid":"jayYbFm3U12kw8eeDVXuQw"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1188/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1188/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="283996.E", tvg-logo="https://callateguatonql.cam/Logo/75",Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -348,12 +355,12 @@ http://live.entel.cl/2279/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/18
 http://live.entel.cl/2235/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IZrFgsu.png", TV Cortos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4920xF.png", TV Cortos
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/ag0V9VAkvly+OGn5gjxAg","kid":"bfQaglo+X7CS6YDkhzvPBw"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1238/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1238/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="284036.E", tvg-logo="https://callateguatonql.cam/Logo/38",Universal
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -442,13 +449,17 @@ http://live.entel.cl/3025/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g_vIGYkn_cRp55aNdQPE9g","kid":"zvSOfP29VwGHo5v_PkM_BQ"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd
+https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XrcxyED.png", Distrito Comedia
 https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" ,ATRESCINE
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
+https://channel-atrescine-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxzZqD8.png", A3Series
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
@@ -485,14 +496,14 @@ http://live.entel.cl/2268/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"q4GH1Q0xHTC8DX3G61aX0Q","kid":"0IC+KKD8WXC/HeiX+A1AvQ"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6cdJPN5.png", Universal Cinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4w3UkI5mdjc2nftlgvVNZA","kid":"zgp8iD4qVDC7qXo9aODa+A"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="284064.E", tvg-logo="https://callateguatonql.cam/Logo/93",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -554,7 +565,7 @@ http://live.entel.cl/2359/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pN7ndhUnnIWLGeW7aatnVQ","kid":"xGl79FjaUvi5azbM52HVcQ"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/2WODtEc.png" ,ESPN Chile
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
