@@ -46,7 +46,7 @@ https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=d83e2e0cb9735bea9fc9f0b90cea1e14&key=4125e40800a08bbc66cf27756a5ab283
+#KODIPROP:inputstream.adaptive.license_key=d83e2e0cb9735bea9fc9f0b90cea1e14:4125e40800a08bbc66cf27756a5ab283
 https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 
 #EXTINF:-1 , El Trece
