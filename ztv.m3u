@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://callateguatonql.cam/epg.xml" tvg-shift=-2 catchup="shift" catchup-days=3 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXi3pDO.png" , TV Mas 2
 https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL
 
@@ -663,17 +665,20 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsung
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mLdEM7W.png", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal Interna 1
-https://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal Interna 2
-https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal Interna 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal Reuters
 https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal Interna 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal Alterna 1
+https://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal Alterna 2
+https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal Alterna 3
 https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 #EXTINF:-1, Canal 13 Entretencion
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
@@ -683,6 +688,15 @@ https://unlimited1-us.dps.live/13t/13t.smil/playlist.m3u8
 
 #EXTINF:-1, Canal 13 Prime
 https://unlimited1-us.dps.live/13p/13p.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X3hQ33H.png", Canal 9 Concepcion
+https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YuZ2bNc.png", TVU Concepcion
+https://pantera2-100gb-cl-movistar.dps.live/tvu/tvu.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V3KUjyO.png", Canal 21 Chillan
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="283997.E", tvg-logo="https://callateguatonql.cam/Logo/19",Ewtn
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
