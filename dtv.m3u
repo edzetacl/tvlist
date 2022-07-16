@@ -325,6 +325,13 @@ https://api1.tvgratis.live/streams/1251/manifest.mpd|User-Agent="Mozilla/5.0 (Wi
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p_1JgI-JDCUAvyGAqvQjBw","kid":"MwO0xpgvOB6p4wkAn7s_Jw"}],"type":"temporary"}
 https://api1.tvgratis.live/streams/1134/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 , NBA TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4czKtAGp9MTUkm6xPU9TFQ","kid":"BTVZ0SK4XyuJJe6KYhIlAg"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 , UPremiere
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
