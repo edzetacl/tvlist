@@ -520,6 +520,9 @@ https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
 #EXTINF:-1, ESPN Arg. Op2
 https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 
+#EXTINF:-1, Tennis 2
+https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1, CNN International
