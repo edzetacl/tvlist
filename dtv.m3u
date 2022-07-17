@@ -150,6 +150,9 @@ https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1, ESPN Premium
 https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
 
+#EXTINF:-1, ESPN Premium Alt.
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+
 #EXTINF:-1, ESPN 2 Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -201,7 +204,7 @@ https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPO
 https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Fox Sports 2 Arg.
-https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Fox Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
