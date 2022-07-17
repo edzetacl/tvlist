@@ -258,8 +258,14 @@ https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
 #EXTINF:-1, Unimas
 https://v-la.mybtv.net/live/168.m3u8?
 
-#EXTINF:-1,Univision
+#EXTINF:-1,Univision LA
 https://v-la.mybtv.net/live/178.m3u8?
+
+#EXTINF:-1,Univision Arizona
+https://v-px.mybtv.net/live/28.m3u8
+
+#EXTINF:-1,Univision NY
+https://v-ny.mybtv.net/live/643.m3u8
 
 #EXTINF:-1,Telemundo
 https://v-la.mybtv.net/live/267.m3u8?
