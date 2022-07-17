@@ -111,6 +111,20 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/licen0620/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 
+#EXTINF:-1, FSPrem
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4jEiCD8jG56rjuMX8vPRHA","kid":"qWIe8D8vWTOiyGDsydFowQ"}],"type":"temporary"}
+https://fox-edge2-mx.tbxdrm.com/mxfoxsportspremium/manifest.mpd
+
+#EXTINF:-1, FSPrem
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4jEiCD8jG56rjuMX8vPRHA","kid":"qWIe8D8vWTOiyGDsydFowQ"}],"type":"temporary"}
+https://fox-edge1-mx.tbxdrm.com/mxfoxsportspremium/manifest.mpd
+
 #EXTINF:-1 , Afizzionados
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
