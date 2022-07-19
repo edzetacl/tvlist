@@ -477,7 +477,19 @@ https://1039-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"udXtIo5tcgamclZ1-fMoQw","kid":"KrtqzGS5TL6FULSL4KKaPA"}],"type":"temporary"}
 https://anbalancer.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_Musica.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, ESPN ?
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DyOROPbIXDzw8Vsx3_CR_g","kid":"lIvSv5Z-tTMru6KC-DTl6Q"}],"type":"temporary"}
+https://dtvott-akaws.akamaized.net/live_1109/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, ESPN ?
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DyOROPbIXDzw8Vsx3_CR_g","kid":"lIvSv5Z-tTMru6KC-DTl6Q"}],"type":"temporary"}
+https://dtvott-akaws.akamaized.net/live_1097/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 , Alternativos
 <<<<<<<<<<<---------->>>>>>>>>>
