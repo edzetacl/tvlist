@@ -115,7 +115,7 @@ https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qWIe8D8vWTOiyGDsydFowQ","kid":"4jEiCD8jG56rjuMX8vPRHA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4jEiCD8jG56rjuMX8vPRHA","kid":"qWIe8D8vWTOiyGDsydFowQ"}],"type":"temporary"}
 https://fox-edge2-mx.tbxdrm.com/mxfoxsportspremium/manifest.mpd
 
 #EXTINF:-1, FSPrem
