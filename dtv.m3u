@@ -204,7 +204,7 @@ https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPO
 https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Fox Sports 2 Arg.
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 
 #EXTINF:-1, Fox Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -214,7 +214,7 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd|User-Agent="Mozilla/5.
 https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Fox Sports 3 Arg.
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 #EXTINF:-1, Fox Sports Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -506,17 +506,8 @@ https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
 #EXTINF:-1, Fox Sports 2 Arg. 2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 
-#EXTINF:-1, ESPN Premium Op2
-https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-
-#EXTINF:-1, TNT Sports Arg. Op1
-https://delivery.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-
-#EXTINF:-1, TNT Sports 3 (Opcion 2)
-http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1, ESPN Extra
-https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+#EXTINF:-1, ESPN Arg. Op2
+https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 
 #EXTINF:-1, ESPN 2 Arg. Op2
 https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
@@ -527,8 +518,20 @@ https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 #EXTINF:-1, ESPN 3 Arg. Op2
 https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
 
-#EXTINF:-1, ESPN Arg. Op2
-https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:-1, ESPN Extra
+https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+
+#EXTINF:-1, ESPN Premium Op2
+https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+
+#EXTINF:-1, TNT Sports Arg. Op1
+https://delivery.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+
+#EXTINF:-1, TNT Sports 3 (Opcion 2)
+http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1, BeIn Sports Xtra Eng.
+https://bit.ly/BeinSportXtra?/master.m3u8
 
 #EXTINF:-1, Tennis 2
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
