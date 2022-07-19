@@ -442,6 +442,13 @@ https://delivery.cdn.rcs.net.ar/mnp/golf/output.mpd|User-Agent="Mozilla/5.0 (Win
 #EXTINF:-1 , Test Latam
 <<<<<<<<<<<---------->>>>>>>>>>
 
+#EXTINF:-1 , 13CL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+7bQIs3mJ/Lrw4kXNa9d1Q","kid":"0BQffExbO5+wI8Ipqnj2bg"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1029/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 , FSP1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
