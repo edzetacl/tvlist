@@ -442,12 +442,26 @@ https://delivery.cdn.rcs.net.ar/mnp/golf/output.mpd|User-Agent="Mozilla/5.0 (Win
 #EXTINF:-1 , Test Latam
 <<<<<<<<<<<---------->>>>>>>>>>
 
-#EXTINF:-1 , 13CL
+#EXTINF:-1 , CNN Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+7bQIs3mJ/Lrw4kXNa9d1Q","kid":"0BQffExbO5+wI8Ipqnj2bg"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1029/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dtvgo.live.ott.irdeto.com/licenseServer/widevine/v1/dtvgo/license?contentId=Live_1049
+https://dtvott-abc.akamaized.net/dash_live_1049/manifest.mpd
+
+#EXTINF:-1 , CHV Chile
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dtvgo.live.ott.irdeto.com/licenseServer/widevine/v1/dtvgo/license?contentId=Live_1040
+https://dtvott-akaws.akamaized.net/live_1040/DASH/manifest.mpd
+
+#EXTINF:-1 , Canal 26 Arg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dtvgo.live.ott.irdeto.com/licenseServer/widevine/v1/dtvgo/license?contentId=Live_1040
+https://dtvott-abc.akamaized.net/dash_live_1031/manifest.mpd
 
 #EXTINF:-1 , FSP1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
