@@ -637,3 +637,11 @@ https://1039-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qn+V9xo8/kCqWZBPkoWvcg","kid":"TUW3nUSHNDWJBYq0nd+M8A"}],"type":"temporary"}
 https://1240-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 , DTV News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/edzetacl/tvlist/main/dtvnws.php
+https://dtvott-abc.akamaized.net/dash_live_1264/manifest.mpd
+
