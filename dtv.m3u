@@ -578,7 +578,7 @@ http://live.entel.cl/3183/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dtvgo.live.ott.irdeto.com/licenseServer/widevine/v1/dtvgo/license?contentId=Live_1049
+#KODIPROP:inputstream.adaptive.license_key=https://dtvgo.live.ott.irdeto.com/licenseServer/playready/v1/dtvgo/license?contentId=Live_1049
 https://dtvott-abc.akamaized.net/dash_live_1049/manifest.mpd
 
 #EXTINF:-1 , CHV Chile
@@ -592,7 +592,14 @@ https://dtvott-akaws.akamaized.net/live_1040/DASH/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dtvgo.live.ott.irdeto.com/licenseServer/widevine/v1/dtvgo/license?contentId=Live_1031
+#KODIPROP:inputstream.adaptive.license_key=https://dtvgo.live.ott.irdeto.com/licenseServer/playready/v1/dtvgo/license?contentId=Live_1031
+https://dtvott-abc.akamaized.net/dash_live_1031/manifest.mpd
+
+#EXTINF:-1 , Canal 26 Arg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dtvgo.live.ott.irdeto.com/licenseServer/playready/v1/dtvgo/license?contentId=Live_1031
 https://dtvott-abc.akamaized.net/dash_live_1031/manifest.mpd
 
 #EXTINF:-1 , FSP1
