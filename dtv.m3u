@@ -420,12 +420,68 @@ https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4w3UkI5mdjc2nftlgvVNZA","kid":"zgp8iD4qVDC7qXo9aODa+A"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 , HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bCPjGk2DtWjoSuxgmmPryQ","kid":"me78Bo2zUJufDPWzQRQhnQ"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , HBO 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"usWBim4RNds8nyT7dS9pnw","kid":"KirtF9xgUPud7m5loGs5JQ"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kFrMVfNmMUMvJC4njxuwtQ","kid":"jLo/buFyURGgSSjYHFOAQA"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1139/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , HBO Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"G9sxcikGatLXTEgUoTjhNg","kid":"Z5WjA6noUX+8o4N2wK8vdg"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , Star Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9DM9-w5wjsmGW5pv8qjgaA","kid":"fDjZMQ08W0ajejm77G3Wig"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , Warner
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Yd/vgc7hHLQZphICcLlYew","kid":"VqJHMsfFWKCyRNydX5EPhw"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , Sony
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GXXGvMlWam6UqyY9yPBLVw","kid":"EBC5n7EkVAqqR1pBJZdR6w"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 , Sony Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GdZD2KULL4KclqiX998lXQ","kid":"ORwTcDTwU5OO2/JnmVSd3A"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1263/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , Paramount
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YQyVFzfLniIfB8mGtsZvfQ","kid":"aBiLO7eUU8q3sm7pKaJe1A"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1181/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Cine Latino
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -462,12 +518,68 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, TNT Series
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p+vgzB2mncwwDxn3tKYoxw","kid":"jMuK9Kh4Vw2IeJIbhKvuGQ"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, TCM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E2qHYl23I3YAtr52E5mJpw","kid":"5Zwf5O23V9+KoxKEfCEEYQ"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1, Smithsonian
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MLnzC7e6OxpR1+OfRvNxrQ","kid":"jayYbFm3U12kw8eeDVXuQw"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1188/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, NatGeo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WKx5T26qRfvzGXhx9LM66g","kid":"jj7YgA-QWLWvdIMIHn9_VQ"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, History
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7x0IlKk29zk-x7-jj_YYyw","kid":"DcZPmxmrUa6IlZr-yW52MQ"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, H2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1tUYlJz3NMPgMyjdpbRZZg","kid":"mL8dUQy0UUWULl1MHV8hHQ"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Discovery
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"drE/2KKY0YisUlI4eyKGhw","kid":"gveqrknlVsGYXaBGIzffQw"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Discovery Turbo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"deZqTteIDHFlXSTlLK070w","kid":"0y2BXR9_UyW6c1YlNGYskg"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, HGTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty":"oct","k":"jEbk4IkHgNeBbjiIt8c4xw","kid":"vfrEhtUlXSOWlFEC0dOITw"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, TLC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
