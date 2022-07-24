@@ -263,7 +263,7 @@ https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPO
 https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Fox Sports 2 Arg.
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+https://cvi.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 
 #EXTINF:-1, Fox Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -273,7 +273,7 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Fox Sports 3 Arg.
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+https://cvi.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 #EXTINF:-1, Fox Sports Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
