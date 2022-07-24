@@ -118,13 +118,6 @@ https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4jEiCD8jG56rjuMX8vPRHA","kid":"qWIe8D8vWTOiyGDsydFowQ"}],"type":"temporary"}
 https://fox-edge2-mx.tbxdrm.com/mxfoxsportspremium/manifest.mpd
 
-#EXTINF:-1, FSPrem
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4jEiCD8jG56rjuMX8vPRHA","kid":"qWIe8D8vWTOiyGDsydFowQ"}],"type":"temporary"}
-https://fox-edge1-mx.tbxdrm.com/mxfoxsportspremium/manifest.mpd
-
 #EXTINF:-1 , Afizzionados
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -213,6 +206,15 @@ https://linear-446.frequency.stream/446/hls/master/playlist.m3u8
 #EXTINF:-1, BeIn Xtra Esp.
 https://linear-256.frequency.stream/256/hls/master/playlist.m3u8
 
+#EXTINF:-1, BeIn Xtra Esp.
+https://v-px.mybtv.net/live/726.m3u8?
+
+#EXTINF:-1, BeIn Xtra Eng.
+https://v-pi.mybtv.net/live/341.m3u8?
+
+#EXTINF:-1, BeIn Xtra Eng (Op2)
+https://v-in.mybtv.net/live/787.m3u8
+
 #EXTINF:-1, Golden
 https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
 
@@ -252,32 +254,53 @@ https://linear-421.frequency.stream/421/hls/master/playlist.m3u8
 #EXTINF:-1, Unicable
 https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
 
-#EXTINF:-1, Univision
+#EXTINF:-1, Univision Internacional
 https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
 
+#EXTINF:-1, NBC Phoenix
+https://v-px.mybtv.net/live/55.m3u8
+
+#EXTINF:-1, NBC San Diego
+https://v-sd.mybtv.net/live/512.m3u8
+
+#EXTINF:-1, NBC LA
+https://v-la.mybtv.net/live/82.m3u8?
+
 #EXTINF:-1, Unimas
-https://v-la.mybtv.net/live/168.m3u8?
-
-#EXTINF:-1,Univision LA
-https://v-la.mybtv.net/live/178.m3u8?
-
-#EXTINF:-1,Univision Arizona
-https://v-px.mybtv.net/live/28.m3u8
-
-#EXTINF:-1,Univision NY
-https://v-ny.mybtv.net/live/643.m3u8
-
-#EXTINF:-1,Telemundo
-https://v-la.mybtv.net/live/267.m3u8?
-
-#EXTINF:-1,Unimas
 https://v-la.mybtv.net/live/299.m3u8?
 
-#EXTINF:-1,Canal 5
-https://v-sd.mybtv.net/live/486.m3u8?
+#EXTINF:-1, Unimas Phoenix
+https://v-px.mybtv.net/live/56.m3u8?
 
-#EXTINF:-1,Azteca 7
+#EXTINF:-1, Unimas San Fco.
+https://v-ca.mybtv.net/live/147.m3u8?
+
+#EXTINF:-1, Univision LA
+https://v-la.mybtv.net/live/178.m3u8?
+
+#EXTINF:-1, Univision San Fco.
+https://v-ca.mybtv.net/live/148.m3u8?
+
+#EXTINF:-1, Univision NY
+https://v-ny.mybtv.net/live/643.m3u8?
+
+#EXTINF:-1, Univision Phoenix
+https://v-px.mybtv.net/live/28.m3u8?
+
+#EXTINF:-1, Telemundo LA
+https://v-la.mybtv.net/live/267.m3u8?
+
+#EXTINF:-1, Telemundo Phoenix
+https://v-px.mybtv.net/live/39.m3u8?
+
+#EXTINF:-1, Telemundo San Fco.
+https://v-ca.mybtv.net/live/140.m3u8?
+
+#EXTINF:-1, Azteca 7
 https://v-sd.mybtv.net/live/502.m3u8?
+
+#EXTINF:-1, Azteca 1
+https://v-sd.mybtv.net/live/760.m3u8
 
 #EXTINF:-1,NHK
 https://v-pi.mybtv.net/live/360.m3u8?
