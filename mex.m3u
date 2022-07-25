@@ -257,6 +257,9 @@ https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
 #EXTINF:-1, Univision Internacional
 https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
 
+#EXTINF:-1, Las Estrellas Mex.
+https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
+
 #EXTINF:-1, NBC Phoenix
 https://v-px.mybtv.net/live/55.m3u8
 
