@@ -675,7 +675,7 @@ https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/74
 http://live.entel.cl/2247/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RGg5lES.png", Carolina TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VyV5krv.png", Carolina TV
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.imgur.com/DpnnQVz.jpg",MTV Biggest Pop
