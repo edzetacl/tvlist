@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml" tvg-shift=-2 catchup="shift" catchup-days=3 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml" tvg-shift=0 catchup="shift" catchup-days=6 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXi3pDO.png" , TV Mas 2
