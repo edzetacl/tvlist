@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://callateguatonql.cam/epg.xml" tvg-shift=-2 catchup="shift" catchup-days=3 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml" tvg-shift=-2 catchup="shift" catchup-days=3 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXi3pDO.png" , TV Mas 2
@@ -7,40 +7,37 @@ https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gCQU2ny.png" , UCV
 https://marine2.miplay.cl/ucv3/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/plKNrqu.png", Zona Latina
-http://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-id="284011.E", tvg-logo="https://i.imgur.com/A3841R8.png",La Red
+#EXTINF:-1 tvg-id="LaRed.cl", tvg-logo="https://i.imgur.com/A3841R8.png",La Red
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/25
 http://live.entel.cl/2335/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283984.E", tvg-logo="https://callateguatonql.cam/Logo/26",TV+
+#EXTINF:-1 tvg-id="UCVTV.cl", tvg-logo="https://callateguatonql.cam/Logo/26",TV+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/26
 http://live.entel.cl/2327/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284042.E", tvg-logo="https://i.imgur.com/DBmAI8V.png",TVN
+#EXTINF:-1 tvg-id="TVN.cl", tvg-logo="https://i.imgur.com/DBmAI8V.png",TVN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/27
 http://live.entel.cl/2283/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283980.E", tvg-logo="https://callateguatonql.cam/Logo/28",Mega 
+#EXTINF:-1 tvg-id="Mega.cl", tvg-logo="https://callateguatonql.cam/Logo/28",Mega 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/28
 http://live.entel.cl/2326/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283958.E", tvg-logo="https://callateguatonql.cam/Logo/29",CHV
+#EXTINF:-1 tvg-id="ChileVision.cl", tvg-logo="https://callateguatonql.cam/Logo/29",CHV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/29
 http://live.entel.cl/2321/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283967.E", tvg-logo="https://callateguatonql.cam/Logo/30",Canal 13
+#EXTINF:-1 tvg-id="Canal13.cl", tvg-logo="https://callateguatonql.cam/Logo/30",Canal 13
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/30
 http://live.entel.cl/2293/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="1655397.E", tvg-logo="https://callateguatonql.cam/Logo/31",Rec TV
+#EXTINF:-1 tvg-id="RecTV.cl", tvg-logo="https://callateguatonql.cam/Logo/31",Rec TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/31
 http://live.entel.cl/3394/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -48,7 +45,7 @@ http://live.entel.cl/3394/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PLZSvZC.png", ADN Radio
 https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="283972.E", tvg-logo="https://callateguatonql.cam/Logo/23",24 Horas TVN
+#EXTINF:-1 tvg-id="24Horas.cl", tvg-logo="https://callateguatonql.cam/Logo/23",24 Horas TVN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/23
 http://live.entel.cl/2294/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -110,7 +107,7 @@ http://live.entel.cl/2300/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/92
 http://live.entel.cl/2318/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Bzo6Ei.png",24Hrs TVE
+#EXTINF:-1 tvg-id="Canal24Horas.es", tvg-logo="https://i.imgur.com/0Bzo6Ei.png",24Hrs TVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-id="284062.E", tvg-logo="https://callateguatonql.cam/Logo/62",DW Eng
@@ -132,15 +129,15 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/Q6rS1sS.png" ,SKYNEWS 
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/LK9dKQy.png" ,EURONEWS
+#EXTINF:-1, tvg-id="EuronewsSpanish.fr", tvg-logo="https://i.imgur.com/LK9dKQy.png" ,EURONEWS
 https://siloh.pluto.tv/lilo/production/Euronews/master_1.m3u8
 
-#EXTINF:-1 tvg-id="1655403.E", tvg-logo="https://callateguatonql.cam/Logo/63",Nhk World (Japanese)
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp", tvg-logo="https://callateguatonql.cam/Logo/63",Nhk World (Japanese)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/63
 http://live.entel.cl/3400/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="1655403.E", tvg-logo="https://i.imgur.com/sAi4tpy.png",NHK WORLD PREMIUM
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp", tvg-logo="https://i.imgur.com/sAi4tpy.png",NHK WORLD PREMIUM
 http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 #EXTINF:-1 tvg-id="427711.E", tvg-logo="https://i.imgur.com/PZwbvhs.png",NTV
@@ -158,12 +155,12 @@ http://live.entel.cl/2343/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/86
 http://live.entel.cl/2262/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284041.E", tvg-logo="https://callateguatonql.cam/Logo/0",Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKidsChile.cl", tvg-logo="https://callateguatonql.cam/Logo/0",Discovery Kids
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/0
 http://live.entel.cl/2314/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284047.E", tvg-logo="https://i.imgur.com/9JEnv7G.png",Cartoonito
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us", tvg-logo="https://i.imgur.com/9JEnv7G.png",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/7
 http://live.entel.cl/2251/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -185,12 +182,12 @@ http://live.entel.cl/2316/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/8
 http://live.entel.cl/2267/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283986.E", tvg-logo="https://i.imgur.com/21oZiH0.png",ETC TV
+#EXTINF:-1 tvg-id="ETCTV.cl", tvg-logo="https://i.imgur.com/21oZiH0.png",ETC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/88
 http://live.entel.cl/2297/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284056.E", tvg-logo="https://callateguatonql.cam/Logo/3",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us", tvg-logo="https://callateguatonql.cam/Logo/3",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/3
 http://live.entel.cl/2347/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -200,12 +197,12 @@ http://live.entel.cl/2347/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/87
 http://live.entel.cl/2289/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284005.E", tvg-logo="https://callateguatonql.cam/Logo/13",Natgeo
+#EXTINF:-1 tvg-id="NationalGeographicPanregional.us", tvg-logo="https://callateguatonql.cam/Logo/13",Natgeo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/13
 http://live.entel.cl/3030/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284037.E", tvg-logo="https://callateguatonql.cam/Logo/10",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannelChile.cl", tvg-logo="https://callateguatonql.cam/Logo/10",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/10
 http://live.entel.cl/2342/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -258,7 +255,7 @@ https://dtvott-abc.akamaized.net/dash_live_1188/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/75
 http://live.entel.cl/2360/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283950.E", tvg-logo="https://callateguatonql.cam/Logo/32", 13c
+#EXTINF:-1 tvg-id="13C.cl", tvg-logo="https://callateguatonql.cam/Logo/32", 13c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/32
 http://live.entel.cl/2348/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -278,7 +275,7 @@ http://live.entel.cl/3401/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/69
 http://live.entel.cl/3689/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283982.E", tvg-logo="https://callateguatonql.cam/Logo/70",El Gourmet
+#EXTINF:-1 tvg-id="ElGourmetPanregional.ar", tvg-logo="https://callateguatonql.cam/Logo/70",El Gourmet
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/70
 http://live.entel.cl/2356/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -331,17 +328,17 @@ http://live.entel.cl/2276/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SpROyRw.jpg",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="283956.E", tvg-logo="https://callateguatonql.cam/Logo/34",Warner Channel
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us", tvg-logo="https://callateguatonql.cam/Logo/34",Warner Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/34
 http://live.entel.cl/2290/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284026.E", tvg-logo="https://i.imgur.com/ULrgDpy.png",Star Channel
+#EXTINF:-1 tvg-id="StarChannelChile.cl", tvg-logo="https://i.imgur.com/ULrgDpy.png",Star Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/35
 http://live.entel.cl/2246/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gmsimVe.png",SONY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gmsimVe.png", Sony
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/36
 http://live.entel.cl/2280/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -375,7 +372,7 @@ http://live.entel.cl/2235/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/ag0V9VAkvly+OGn5gjxAg","kid":"bfQaglo+X7CS6YDkhzvPBw"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1238/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="284036.E", tvg-logo="https://callateguatonql.cam/Logo/38",Universal
+#EXTINF:-1 tvg-id="UniversalTVChile.cl", tvg-logo="https://callateguatonql.cam/Logo/38",Universal
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/38
 http://live.entel.cl/2281/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -392,7 +389,7 @@ http://live.entel.cl/2341/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mx5B6KVaGC9pAAvckwTjzA","kid":"P5Cq/Qq4XG2S6TEU4niRew"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="284023.E", tvg-logo="https://callateguatonql.cam/Logo/47",TNT
+#EXTINF:-1 tvg-id="TNTChile.cl", tvg-logo="https://callateguatonql.cam/Logo/47",TNT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/47
 http://live.entel.cl/2278/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -402,12 +399,12 @@ http://live.entel.cl/2278/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/39
 http://live.entel.cl/2339/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283962.E", tvg-logo="https://callateguatonql.cam/Logo/44",Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversalChile.cl", tvg-logo="https://callateguatonql.cam/Logo/44",Studio Universal
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/44
 http://live.entel.cl/2260/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284016.E", tvg-logo="https://callateguatonql.cam/Logo/53",Space
+#EXTINF:-1 tvg-id="SpaceAlternate.us", tvg-logo="https://callateguatonql.cam/Logo/53",Space
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/53
 http://live.entel.cl/2337/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -429,7 +426,7 @@ https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDrzqx8.png", De Pelicula Plus
 https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="283969.E", tvg-logo="https://callateguatonql.cam/Logo/40",FX
+#EXTINF:-1 tvg-id="FXChile.cl", tvg-logo="https://callateguatonql.cam/Logo/40",FX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/40
 http://live.entel.cl/2353/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -454,7 +451,7 @@ http://live.entel.cl/2354/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/45
 http://live.entel.cl/3180/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283981.E", tvg-logo="https://callateguatonql.cam/Logo/43",TBS
+#EXTINF:-1 tvg-id="TBSPanregional.us", tvg-logo="https://callateguatonql.cam/Logo/43",TBS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/43
 http://live.entel.cl/3025/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -498,12 +495,12 @@ https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/56
 http://live.entel.cl/3396/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283953.E", tvg-logo="https://callateguatonql.cam/Logo/49",AMC
+#EXTINF:-1 tvg-id="AMCPanregional.us", tvg-logo="https://callateguatonql.cam/Logo/49",AMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/49
 http://live.entel.cl/2349/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283975.E", tvg-logo="https://callateguatonql.cam/Logo/48",TCM
+#EXTINF:-1 tvg-id="TCMPanregional.us", tvg-logo="https://callateguatonql.cam/Logo/48",TCM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/48
 http://live.entel.cl/2263/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -527,7 +524,7 @@ https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4w3UkI5mdjc2nftlgvVNZA","kid":"zgp8iD4qVDC7qXo9aODa+A"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="284064.E", tvg-logo="https://callateguatonql.cam/Logo/93",HBO
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us", tvg-logo="https://callateguatonql.cam/Logo/93",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/93
 http://live.entel.cl/2232/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -567,29 +564,29 @@ http://live.entel.cl/2311/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/100
 http://live.entel.cl/3033/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284055.E", tvg-logo="https://i.imgur.com/dcIUP0O.png",TNT Sports 3
+#EXTINF:-1 tvg-id="CDFBasico.cl", tvg-logo="https://i.imgur.com/dcIUP0O.png",TNT Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/82
 http://live.entel.cl/2287/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284055.E", tvg-logo="https://i.imgur.com/XeAMtAW.png",TNT Sports 2
+#EXTINF:-1 tvg-id="CDFPremium.cl", tvg-logo="https://i.imgur.com/XeAMtAW.png",TNT Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/84
 http://live.entel.cl/2288/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XeAMtAW.png", TNT Sports 2 CL
+#EXTINF:-1 tvg-id="CDFPremium.cl", tvg-logo="https://i.imgur.com/XeAMtAW.png", TNT Sports 2 CL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Mgduj0idcq4IR-syVs6tHQ","kid":"uUr354epW_C32Dj7NPJ4Qg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="283992.E", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD
+#EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/85
 http://live.entel.cl/2359/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v4csNOF.png", TNT Sports HD CL
+#EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png", TNT Sports HD CL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -603,22 +600,22 @@ https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pN7ndhUnnIWLGeW7aatnVQ","kid":"xGl79FjaUvi5azbM52HVcQ"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/2WODtEc.png" ,ESPN Chile
+#EXTINF:-1  tvg-id="ESPN4Chile.cl", tvg-logo="https://i.imgur.com/2WODtEc.png" ,ESPN Chile
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/80
 http://live.entel.cl/3032/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/OHR99lF.png" ,ESPN 2
+#EXTINF:-1  tvg-id="ESPN2Chile.cl", tvg-logo="https://i.imgur.com/OHR99lF.png" ,ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/78
 http://live.entel.cl/2355/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284007.E", tvg-logo="https://i.imgur.com/Nwk5HID.png",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3South.us", tvg-logo="https://i.imgur.com/Nwk5HID.png",ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/81
 http://live.entel.cl/2302/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283968.E", tvg-logo="https://i.imgur.com/6DTF8bQ.png",ESPN 4
+#EXTINF:-1 tvg-id="FoxSportsChile.cl", tvg-logo="https://i.imgur.com/6DTF8bQ.png",ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/76
 http://live.entel.cl/2231/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -634,7 +631,7 @@ https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FT
 #EXTINF:-1, tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports Argentina
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/8MUylm4.png", Fox Sports 2
+#EXTINF:-1, tvg-id="FoxSports2South.us", tvg-logo="https://i.imgur.com/8MUylm4.png", Fox Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -665,7 +662,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HMd3IyI.png", Golf Channel
 https://delivery.cdn.rcs.net.ar/mnp/golf/output.mpd
 
-#EXTINF:-1 tvg-id="284020.E", tvg-logo="https://callateguatonql.cam/Logo/83",Teletrak Hd
+#EXTINF:-1 tvg-id="TeletrakTV.cl", tvg-logo="https://callateguatonql.cam/Logo/83",Teletrak Hd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/83
 http://live.entel.cl/2338/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -684,7 +681,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZ5TgHA.png", Telehit
 https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O76QLth.png", Telehit Musica
+#EXTINF:-1 tvg-id="RMS.mx", tvg-logo="https://i.imgur.com/O76QLth.png", Telehit Musica
 https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dk3yW5a.png", Telehit Musica Plus
@@ -723,7 +720,7 @@ https://unlimited1-us.dps.live/13t/13t.smil/playlist.m3u8
 #EXTINF:-1, Canal 13 Prime
 https://unlimited1-us.dps.live/13p/13p.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X3hQ33H.png", Canal 9 Concepcion
+#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl", tvg-logo="https://i.imgur.com/X3hQ33H.png", Canal 9 Concepcion
 https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YuZ2bNc.png", TVU Concepcion
@@ -737,7 +734,7 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/19
 http://live.entel.cl/2238/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="1655395.E", tvg-logo="https://callateguatonql.cam/Logo/20",Tbn Enlace Latin America
+#EXTINF:-1 tvg-id="Enlace.cr", tvg-logo="https://callateguatonql.cam/Logo/20",Tbn Enlace Latin America
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/20
 http://live.entel.cl/3393/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
