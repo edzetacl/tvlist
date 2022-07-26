@@ -382,7 +382,7 @@ http://live.entel.cl/2281/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/71
 http://live.entel.cl/2341/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="1655398.E", tvg-logo="https://i.imgur.com/eM2Coud.png",Syfy
+#EXTINF:-1 tvg-id="I595.56727.schedulesdirect.org", tvg-logo="https://i.imgur.com/eM2Coud.png",Syfy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
