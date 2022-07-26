@@ -243,7 +243,7 @@ http://live.entel.cl/2275/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/14
 http://live.entel.cl/2340/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MK891N9.png", Smithsonian
+#EXTINF:-1 tvg-id="I570.58532.zap2it.com", tvg-logo="https://i.imgur.com/MK891N9.png", Smithsonian
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -260,7 +260,7 @@ http://live.entel.cl/2360/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/32
 http://live.entel.cl/2348/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284046.E", tvg-logo="https://callateguatonql.cam/Logo/64",Discovery H&H
+#EXTINF:-1 tvg-id="I177.59582.schedulesdirect.org", tvg-logo="https://callateguatonql.cam/Logo/64",Discovery H&H
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/64
 http://live.entel.cl/3027/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
