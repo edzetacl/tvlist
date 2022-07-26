@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml"
+tvg-shift=0 catchup="shift" catchup-days=6 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kPsv87l.png", TVN Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -153,7 +154,7 @@ https://api1.tvgratis.live/streams/1011/manifest.mpd|User-Agent="Mozilla/5.0 (Wi
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9oLcsgxwaCdYQEEZFredhQ","kid":"4BQOjGDSNiqZgvlydtDhpA"}],"type":"temporary"}
 https://api1.tvgratis.live/streams/1249/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="OnDirecTVHDSouth.us", tvg-logo="https://i.imgur.com/5Rke8F8.png", ON DirecTV
+#EXTINF:-1 tvg-id="OnDirecTVHDSouth.us", tvg-logo="https://i.imgur.com/5Rke8F8.png", OnDIRECTV (Sur)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -167,7 +168,7 @@ https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IKLH8QL9Ppa6zakMJN8+lQ","kid":"6XQ4M0+SWbWHn//yFjHyxA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1105/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="ESPNArgentina.ar"", tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Argentina
+#EXTINF:-1 tvg-id="ESPNArgentina.ar", tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -250,7 +251,7 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/bv1o5EJNJ17apl+g/ueSw","kid":"G5mE3GayWf6K5ZfLT8H0ww"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -265,7 +266,7 @@ https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPO
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6MVaVb+X450iOAVs82hXOw","kid":"CMPmVA3PVrqZwShgZfwNFA"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="FoxSports2South.us", tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2 Arg.
+#EXTINF:-1 tvg-id="FoxSports2South.us", tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2 Argentina
 https://cvi.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 
 #EXTINF:-1 tvg-id="FoxSports3HDPanregional.us", tvg-logo="https://i.imgur.com/GvWFYrE.png", Fox Sports 3
@@ -275,7 +276,7 @@ https://cvi.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nh0ICbXpZph96u1V_SYxrQ","kid":"KQHEHb_IWqaibbKcxWvCxg"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="FoxSports3Argentina.ar", tvg-logo="https://i.imgur.com/GvWFYrE.png", Fox Sports 3 Arg.
+#EXTINF:-1 tvg-id="FoxSports3Argentina.ar", tvg-logo="https://i.imgur.com/GvWFYrE.png", Fox Sports 3 Argentina
 https://cvi.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports Mx
@@ -320,28 +321,28 @@ https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uJgnzJcM142ogv_KNQTHdA","kid":"cRkGm5kBW0657kMAV3OZ4g"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar", tvg-logo="https://i.imgur.com/XfIRptk.png", DTV Sports Argentina
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar", tvg-logo="https://i.imgur.com/XfIRptk.png", DIRECTV Sports (ARG)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jj9tsS1vmqcvLMmw7y4msg","kid":"p+Ccb0evV+mZt4nrVNMlXQ"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="DirecTVSports2.us", tvg-logo="https://i.imgur.com/qJO1X09.png", DTV Sports 2
+#EXTINF:-1 tvg-id="DirecTVSports2.us", tvg-logo="https://i.imgur.com/qJO1X09.png", DIRECTV Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jc5PbNPuVhOSL5x/b24HvQ","kid":"FBPKoD4EV0O2SWIysJ5o+g"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="DirecTVSportsPlus.us", tvg-logo="https://i.imgur.com/EAl8SST.png", DTV Sports Plus
+#EXTINF:-1 tvg-id="DirecTVSportsPlus.us", tvg-logo="https://i.imgur.com/EAl8SST.png", DIRECTV Sports +
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5Pq/OdI81lV/pxtudU7x5w","kid":"8Zw6jGONUsKrd7lWa8splg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="DirecTVSportsFightHD.us", tvg-logo="https://i.imgur.com/dPN2ckq.png", DTV Sports Fight
+#EXTINF:-1 tvg-id="DirecTVSportsFightHD.us", tvg-logo="https://i.imgur.com/dPN2ckq.png", DIRECTV Sports Fight
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -362,7 +363,7 @@ https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C2uGIpiRBPabLbkWMO0Orw","kid":"ZXXiy4SbWBSAqyYLcMz6tg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="TyCSports.ar", tvg-logo="https://i.imgur.com/KKrgzI3.png", TyC
+#EXTINF:-1 tvg-id="TyCSports.ar", tvg-logo="https://i.imgur.com/KKrgzI3.png", TyC Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -465,14 +466,14 @@ https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9DM9-w5wjsmGW5pv8qjgaA","kid":"fDjZMQ08W0ajejm77G3Wig"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="WarnerChannelSouth.us", tvg-logo="https://i.imgur.com/eg46Wg4.png", Warner
+#EXTINF:-1 tvg-id="WarnerChannelSouth.us", tvg-logo="https://i.imgur.com/eg46Wg4.png", Warner Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Yd/vgc7hHLQZphICcLlYew","kid":"VqJHMsfFWKCyRNydX5EPhw"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gKS1mjc.png", Sony
+#EXTINF:-1 tvg-id="SonyChannelAndes.us", tvg-logo="https://i.imgur.com/gKS1mjc.png", Sony Entertainment
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -486,98 +487,98 @@ https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GdZD2KULL4KclqiX998lXQ","kid":"ORwTcDTwU5OO2/JnmVSd3A"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1263/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lF5PhsW.png", Paramount
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us", tvg-logo="https://i.imgur.com/lF5PhsW.png", Paramount Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YQyVFzfLniIfB8mGtsZvfQ","kid":"aBiLO7eUU8q3sm7pKaJe1A"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKRJUqe.png", Space
+#EXTINF:-1 tvg-id="SpaceHDSouth.us", tvg-logo="https://i.imgur.com/PKRJUqe.png", Space HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7UNH9JX5stg61Ta1tebIhQ","kid":"r3fvc7qjSfuwQWZiBBirIQ"}],"type":"temporary"}
 https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kPyNBE.png", Cine Latino
+#EXTINF:-1 tvg-id="CineLatino.mx", tvg-logo="https://i.imgur.com/4kPyNBE.png", CineLatino
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8xhC+ZIaQSY+Xmb9TgDMcQ","kid":"FMZGiq1WUlmjICNXeseaOQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z14wKqR.png", Europa Europa
+#EXTINF:-1 tvg-id="EuropaEuropaHD.ar", tvg-logo="https://i.imgur.com/Z14wKqR.png", Europa Europa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ANe1w496nhlnaKxvRYPrRQ","kid":"7sYEZgdBVcCxJOESGJC64g"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c4920xF.png", TV Cortos
+#EXTINF:-1 tvg-id="TVCortosHD.us", tvg-logo="https://i.imgur.com/c4920xF.png", TV Cortos HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/ag0V9VAkvly+OGn5gjxAg","kid":"bfQaglo+X7CS6YDkhzvPBw"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1238/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eM2Coud.png", SyFy
+#EXTINF:-1 tvg-id="SyfyPanregional.us", tvg-logo="https://i.imgur.com/eM2Coud.png", SyFy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mx5B6KVaGC9pAAvckwTjzA","kid":"P5Cq/Qq4XG2S6TEU4niRew"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dxzZqD8.png", A3 Series
+#EXTINF:-1 tvg-id="AtreseriesInternacional.es", tvg-logo="https://i.imgur.com/dxzZqD8.png", Atres Series
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QafIXfN.png", TNT Series
+#EXTINF:-1 tvg-id="TNTSeriesSouth.us", tvg-logo="https://i.imgur.com/QafIXfN.png", TNT Series
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p+vgzB2mncwwDxn3tKYoxw","kid":"jMuK9Kh4Vw2IeJIbhKvuGQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAjfEWH.png", TCM
+#EXTINF:-1 tvg-id="TCMSouth.us", tvg-logo="https://i.imgur.com/WAjfEWH.png", Turner Classic Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E2qHYl23I3YAtr52E5mJpw","kid":"5Zwf5O23V9+KoxKEfCEEYQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MK891N9.png", Smithsonian
+#EXTINF:-1 tvg-id="SmithsonianChannelHDLatinAmerica.us", tvg-logo="https://i.imgur.com/MK891N9.png", Smithsonian Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MLnzC7e6OxpR1+OfRvNxrQ","kid":"jayYbFm3U12kw8eeDVXuQw"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1188/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UXCFgqc.png", NatGeo
+#EXTINF:-1 tvg-id="NationalGeographicHDSouth.us", tvg-logo="https://i.imgur.com/UXCFgqc.png", National Geographic HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WKx5T26qRfvzGXhx9LM66g","kid":"jj7YgA-QWLWvdIMIHn9_VQ"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJxedr8.png", History
+#EXTINF:-1 tvg-id="HistorySouth.us", tvg-logo="https://i.imgur.com/NJxedr8.png", History (Sur)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7x0IlKk29zk-x7-jj_YYyw","kid":"DcZPmxmrUa6IlZr-yW52MQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vMUr9pk.png", H2
+#EXTINF:-1 tvg-id="History2Panregional.us", tvg-logo="https://i.imgur.com/vMUr9pk.png", History 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1tUYlJz3NMPgMyjdpbRZZg","kid":"mL8dUQy0UUWULl1MHV8hHQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tQbyH9Y.png", Discovery
+#EXTINF:-1 tvg-id="DiscoveryChannelHDSouth.us", tvg-logo="https://i.imgur.com/tQbyH9Y.png", Discovery Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
