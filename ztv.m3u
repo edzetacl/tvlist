@@ -529,7 +529,7 @@ https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/93
 http://live.entel.cl/2232/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284018.E", tvg-logo="https://callateguatonql.cam/Logo/94",HBO2
+#EXTINF:-1 tvg-id="I351.80652.schedulesdirect.org", tvg-logo="https://callateguatonql.cam/Logo/94",HBO2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/94
 http://live.entel.cl/2308/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
