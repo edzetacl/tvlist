@@ -115,7 +115,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/91
 http://live.entel.cl/3029/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283995.E", tvg-logo="https://i.imgur.com/RfL9VWI.png",CNN US
+#EXTINF:-1 tvg-id="283995.E", tvg-logo="https://i.imgur.com/RfL9VWI.png",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/playlist_1280x720_3000k.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -150,7 +150,7 @@ http://live.entel.cl/3179/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/1
 http://live.entel.cl/2343/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283970.E", tvg-logo="https://i.imgur.com/ByQio1V.png",Nick Jr
+#EXTINF:-1 tvg-id="I446.60295.schedulesdirect.org", tvg-logo="https://i.imgur.com/ByQio1V.png",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/86
 http://live.entel.cl/2262/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -172,7 +172,7 @@ http://live.entel.cl/2251/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8JNNLQGjqmYrDEw0VhenWg","kid":"Ej16s3MNU4Svt28xCbg_zQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="284049.E", tvg-logo="https://callateguatonql.cam/Logo/5",Disney Channel
+#EXTINF:-1 tvg-id="I875.79589.schedulesdirect.org", tvg-logo="https://callateguatonql.cam/Logo/5",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/5
 http://live.entel.cl/2316/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -187,12 +187,12 @@ http://live.entel.cl/2267/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/88
 http://live.entel.cl/2297/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="CartoonNetworkPacific.us", tvg-logo="https://callateguatonql.cam/Logo/3",Cartoon Network
+#EXTINF:-1 tvg-id="I312.16141.schedulesdirect.org", tvg-logo="https://callateguatonql.cam/Logo/3",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/3
 http://live.entel.cl/2347/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283952.E", tvg-logo="https://i.imgur.com/roN9yBg.png",Nickelodeon
+#EXTINF:-1 tvg-id="I316.16707.schedulesdirect.org", tvg-logo="https://i.imgur.com/roN9yBg.png",Nick
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/87
 http://live.entel.cl/2289/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -202,12 +202,12 @@ http://live.entel.cl/2289/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/13
 http://live.entel.cl/3030/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="DiscoveryChannelChile.cl", tvg-logo="https://callateguatonql.cam/Logo/10",Discovery Channel
+#EXTINF:-1 tvg-id="I175.96307.schedulesdirect.org", tvg-logo="https://callateguatonql.cam/Logo/10",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/10
 http://live.entel.cl/2342/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283991.E", tvg-logo="https://callateguatonql.cam/Logo/17",Discovery Theater
+#EXTINF:-1 tvg-id="I186.65940.schedulesdirect.org", tvg-logo="https://callateguatonql.cam/Logo/17",Discovery Theater
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/17
 http://live.entel.cl/2269/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -217,7 +217,7 @@ http://live.entel.cl/2269/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/66
 http://live.entel.cl/2361/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284059.E", tvg-logo="https://callateguatonql.cam/Logo/16",Discovery Science
+#EXTINF:-1 tvg-id="I421.46610.schedulesdirect.org", tvg-logo="https://callateguatonql.cam/Logo/16",Discovery Science
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/16
 http://live.entel.cl/2256/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
