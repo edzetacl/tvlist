@@ -203,8 +203,17 @@ https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
 #EXTINF:-1, Zona TUDN
 https://linear-446.frequency.stream/446/hls/master/playlist.m3u8
 
+#EXTINF:-1,ZONA TUDN
+https://linear-357.frequency.stream/357/hls/master/playlist.m3u8
+
+#EXTINF:-1,ZONA TUDN
+https://linear-356.frequency.stream/356/hls/master/playlist.m3u8
+
 #EXTINF:-1, BeIn Xtra Esp.
 https://linear-256.frequency.stream/256/hls/master/playlist.m3u8
+
+#EXTINF:-1, Afizzionados
+https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
 
 #EXTINF:-1, BeIn Xtra Esp.
 https://v-px.mybtv.net/live/726.m3u8?
@@ -260,6 +269,9 @@ https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
 #EXTINF:-1, Las Estrellas Mex.
 https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
 
+#EXTINF:-1, Love Nature
+https://linear-390.frequency.stream/390/hls/master/playlist.m3u8
+
 #EXTINF:-1, NBC Phoenix
 https://v-px.mybtv.net/live/55.m3u8
 
@@ -307,3 +319,18 @@ https://v-sd.mybtv.net/live/760.m3u8
 
 #EXTINF:-1,NHK
 https://v-pi.mybtv.net/live/360.m3u8?
+
+#EXTINF:-1,TUDN Alt1
+https://linear-364.frequency.stream/364/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt2
+https://linear-360.frequency.stream/360/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt3
+https://linear-361.frequency.stream/361/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt4
+https://linear-365.frequency.stream/365/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt5
+https://linear-368.frequency.stream/368/hls/master/playlist.m3u8
