@@ -55,7 +55,7 @@ http://live.entel.cl/2294/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/24
 http://live.entel.cl/2285/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283995.E", tvg-logo="https://i.imgur.com/wTIf5bK.png",CNN Español
+#EXTINF:-1 tvg-id="283995.E", tvg-logo="https://i.imgur.com/wTIf5bK.png",CNN en Español
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/22
 http://live.entel.cl/2270/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -65,12 +65,12 @@ http://live.entel.cl/2270/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/90
 http://live.entel.cl/2331/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="2490412.E", tvg-logo="https://i.imgur.com/PvnEsVq.png",Tve America
+#EXTINF:-1 tvg-id="I230.16217.schedulesdirect.org", tvg-logo="https://i.imgur.com/PvnEsVq.png",Tve America
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/60
 http://live.entel.cl/3688/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/akIXkiS.png", StarTVE
+#EXTINF:-1 tvg-id="I651.16217.schedulesdirect.org", tvg-logo="https://i.imgur.com/akIXkiS.png", Star TVE HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -84,25 +84,25 @@ https://channel-startve-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windo
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
 https://channel-antena3-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="1655401.E", tvg-logo="https://callateguatonql.cam/Logo/61",Rai Italia Americas
+#EXTINF:-1 tvg-id="I276.75785.schedulesdirect.org", tvg-logo="https://callateguatonql.cam/Logo/61",Rai Italia Americas
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/61
 http://live.entel.cl/3398/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3xXW7l2.png",DW EN ESPAÑOL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3xXW7l2.png",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="1655402.E", tvg-logo="https://callateguatonql.cam/Logo/62",DW Es
+#EXTINF:-1 tvg-id="1655402.E", tvg-logo="https://callateguatonql.cam/Logo/62",DW Español
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/62
 http://live.entel.cl/3399/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283999.E", tvg-logo="https://callateguatonql.cam/Logo/21",RT
+#EXTINF:-1 tvg-id="I490.69367.schedulesdirect.org", tvg-logo="https://callateguatonql.cam/Logo/21",RT en Español
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/21
 http://live.entel.cl/2300/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283951.E", tvg-logo="https://i.imgur.com/ETJ6rGu.png",France 24 Es
+#EXTINF:-1 tvg-id="283951.E", tvg-logo="https://i.imgur.com/ETJ6rGu.png",France 24 Español
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/92
 http://live.entel.cl/2318/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -110,23 +110,23 @@ http://live.entel.cl/2318/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #EXTINF:-1 tvg-id="Canal24Horas.es", tvg-logo="https://i.imgur.com/0Bzo6Ei.png",24Hrs TVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-id="284062.E", tvg-logo="https://callateguatonql.cam/Logo/62",DW Eng
+#EXTINF:-1 tvg-id="284062.E", tvg-logo="https://callateguatonql.cam/Logo/62",DDWLAE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/91
 http://live.entel.cl/3029/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="283995.E", tvg-logo="https://i.imgur.com/RfL9VWI.png",CNN Internacional
+#EXTINF:-1 tvg-id="283995.E", tvg-logo="https://i.imgur.com/RfL9VWI.png",CNN US
 https://cnn-cnninternational-1-gb.samsung.wurl.com/playlist_1280x720_3000k.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vxGfaA0.png" ,BBC World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxGfaA0.png" ,BBC World News
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
-#EXTINF:-1 tvg-logo="https://git.io/JOTte" ,AL JAZEERA ENGLISH
+#EXTINF:-1 tvg-logo="https://git.io/JOTte" ,Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/Q6rS1sS.png" ,SKYNEWS 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/Q6rS1sS.png" ,Sky News 
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 
 #EXTINF:-1, tvg-id="EuronewsSpanish.fr", tvg-logo="https://i.imgur.com/LK9dKQy.png" ,EURONEWS
