@@ -280,7 +280,7 @@ http://live.entel.cl/3689/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/70
 http://live.entel.cl/2356/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="284050.E", tvg-logo="https://callateguatonql.cam/Logo/67",E! Entertainment 
+#EXTINF:-1 tvg-id="I218.30259.schedulesdirect.org", tvg-logo="https://callateguatonql.cam/Logo/67",E! Entertainment 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/67
 http://live.entel.cl/2252/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -300,7 +300,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/73
 http://live.entel.cl/3402/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="1655400.E", tvg-logo="https://callateguatonql.cam/Logo/57",Telemundo
+#EXTINF:-1 tvg-id="I609.64835.schedulesdirect.org", tvg-logo="https://callateguatonql.cam/Logo/57",Telemundo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/57
 http://live.entel.cl/3397/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
