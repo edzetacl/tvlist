@@ -95,7 +95,7 @@ https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="Canal26.ar", tvg-logo="https://i.imgur.com/UxJf0KO.png", Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/we2tU9M.png", IP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YR0e0p.png", IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us", tvg-logo="https://i.imgur.com/rTROakk.png", CNN Es
