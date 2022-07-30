@@ -197,31 +197,31 @@ https://lnc-fox-sports-espanol2.tubi.video/index.m3u8
 #EXTINF:-1, TUDN Vix
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
-#EXTINF:-1, TUDN FutMX
+#EXTINF:-1, TUDN Futbol MX
 https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
 
 #EXTINF:-1, Zona TUDN
 https://linear-446.frequency.stream/446/hls/master/playlist.m3u8
 
-#EXTINF:-1,ZONA TUDN
+#EXTINF:-1, ZONA TUDN
 https://linear-357.frequency.stream/357/hls/master/playlist.m3u8
 
-#EXTINF:-1,ZONA TUDN
+#EXTINF:-1, ZONA TUDN
 https://linear-356.frequency.stream/356/hls/master/playlist.m3u8
 
-#EXTINF:-1, BeIn Xtra Esp.
+#EXTINF:-1, BeIn Xtra Español
 https://linear-256.frequency.stream/256/hls/master/playlist.m3u8
 
 #EXTINF:-1, Afizzionados
 https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
 
-#EXTINF:-1, BeIn Xtra Esp.
+#EXTINF:-1, BeIn Xtra Español
 https://v-px.mybtv.net/live/726.m3u8?
 
-#EXTINF:-1, BeIn Xtra Eng.
+#EXTINF:-1, BeIn Xtra
 https://v-pi.mybtv.net/live/341.m3u8?
 
-#EXTINF:-1, BeIn Xtra Eng (Op2)
+#EXTINF:-1, BeIn Xtra
 https://v-in.mybtv.net/live/787.m3u8
 
 #EXTINF:-1, Golden
@@ -272,52 +272,52 @@ https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
 #EXTINF:-1, Love Nature
 https://linear-390.frequency.stream/390/hls/master/playlist.m3u8
 
-#EXTINF:-1, NBC Phoenix
+#EXTINF:-1, NBC (Phoenix)
 https://v-px.mybtv.net/live/55.m3u8
 
-#EXTINF:-1, NBC San Diego
+#EXTINF:-1, NBC (San Diego)
 https://v-sd.mybtv.net/live/512.m3u8
 
-#EXTINF:-1, NBC LA
+#EXTINF:-1, NBC (Los Angeles)
 https://v-la.mybtv.net/live/82.m3u8?
 
-#EXTINF:-1, Unimas
+#EXTINF:-1, Unimas (Los Angeles)
 https://v-la.mybtv.net/live/299.m3u8?
 
-#EXTINF:-1, Unimas Phoenix
+#EXTINF:-1, Unimas (Phoenix)
 https://v-px.mybtv.net/live/56.m3u8?
 
-#EXTINF:-1, Unimas San Fco.
+#EXTINF:-1, Unimas (San Francisco)
 https://v-ca.mybtv.net/live/147.m3u8?
 
-#EXTINF:-1, Univision LA
+#EXTINF:-1, Univision (Los Angeles)
 https://v-la.mybtv.net/live/178.m3u8?
 
-#EXTINF:-1, Univision San Fco.
+#EXTINF:-1, Univision (San Francisco)
 https://v-ca.mybtv.net/live/148.m3u8?
 
-#EXTINF:-1, Univision NY
+#EXTINF:-1, Univision (New York)
 https://v-ny.mybtv.net/live/643.m3u8?
 
-#EXTINF:-1, Univision Phoenix
+#EXTINF:-1, Univision (Phoenix)
 https://v-px.mybtv.net/live/28.m3u8?
 
-#EXTINF:-1, Telemundo LA
+#EXTINF:-1, Telemundo (Los Angeles)
 https://v-la.mybtv.net/live/267.m3u8?
 
-#EXTINF:-1, Telemundo Phoenix
+#EXTINF:-1, Telemundo (Phoenix)
 https://v-px.mybtv.net/live/39.m3u8?
 
-#EXTINF:-1, Telemundo San Fco.
+#EXTINF:-1, Telemundo (San Francisco)
 https://v-ca.mybtv.net/live/140.m3u8?
 
-#EXTINF:-1, Azteca 7
+#EXTINF:-1, Azteca Siete
 https://v-sd.mybtv.net/live/502.m3u8?
 
-#EXTINF:-1, Azteca 1
+#EXTINF:-1, Azteca Uno
 https://v-sd.mybtv.net/live/760.m3u8
 
-#EXTINF:-1,NHK
+#EXTINF:-1,NHK World
 https://v-pi.mybtv.net/live/360.m3u8?
 
 #EXTINF:-1,TUDN Alt1
