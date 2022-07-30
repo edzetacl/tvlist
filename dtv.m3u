@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
 #EXTINF:-1 tvg-id="TVN.cl", tvg-logo="https://i.imgur.com/kPsv87l.png", TVN Chile
@@ -161,7 +161,7 @@ https://api1.tvgratis.live/streams/1249/manifest.mpd|User-Agent="Mozilla/5.0 (Wi
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"m9Z5pDpLV4ZJWdsQWkL66g","kid":"ZOdENn4WUI+YuiebM1ftKA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Chile
+#EXTINF:-1 tvg-id="ESPNChile.cl", tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -209,13 +209,6 @@ https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FT
 #EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium Alt.
 https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium mpd.
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AoKOY0akbmHpZSAs2Hh+Og","kid":"D0j5559Us41hn9JVZcTRSw"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/Fox_Sports_Premium_HD/SA_DASH_cipix/Fox_Sports_Premium_HD.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png", ESPN 2 Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -237,14 +230,14 @@ https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pN7ndhUnnIWLGeW7aatnVQ","kid":"xGl79FjaUvi5azbM52HVcQ"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XeAMtAW.png", TNT Sports 2 CL
+#EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/XeAMtAW.png", TNT Sports 2 CL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Mgduj0idcq4IR-syVs6tHQ","kid":"uUr354epW_C32Dj7NPJ4Qg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v4csNOF.png", TNT Sports HD CL
+#EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/v4csNOF.png", TNT Sports HD CL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -279,7 +272,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="FoxSports3Argentina.ar", tvg-logo="https://i.imgur.com/GvWFYrE.png", Fox Sports 3 Argentina
 https://cvi.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports Mx
+#EXTINF:-1 tv g-id="FoxSportsMexico.mx", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -377,7 +370,7 @@ https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd|Use
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zVnrcRyKxO4L8MZvPpZ6nA","kid":"CyMwJDj_Mk2rLurKXqn1VA"}],"type":"temporary"}
 https://api1.tvgratis.live/streams/1246/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/socAYEf.png", Win Sports
+#EXTINF:-1 tvg-id="WinSports.co", tvg-logo="https://i.imgur.com/socAYEf.png", Win Sports
 https://api4.tvgratis.live/st2/winsports/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pxWFeQ.png", Win Plus
@@ -839,4 +832,12 @@ https://1240-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/edzetacl/tvlist/main/dtvnws.php
 https://dtvott-abc.akamaized.net/dash_live_1264/manifest.mpd
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium mpd.
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AoKOY0akbmHpZSAs2Hh+Og","kid":"D0j5559Us41hn9JVZcTRSw"}],"type":"temporary"}
+https://anbalancer.express.com.ar/live/c1eds/Fox_Sports_Premium_HD/SA_DASH_cipix/Fox_Sports_Premium_HD.mpd
+
 
