@@ -18,7 +18,7 @@ https://channel-canal5-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Window
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/licen0620/mxup.php
+#KODIPROP:inputstream.adaptive.license_key=//nodoapps.com/license01/mxup.php
 https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd
 
 #EXTINF:-1, Canal Nu9ve
@@ -32,7 +32,7 @@ https://channel-galatv-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Window
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/licen0620/mxup.php
+#KODIPROP:inputstream.adaptive.license_key=//nodoapps.com/license01/mxup.php
 https://d2ya662kz0kh0s.cloudfront.net/out/u/dash/CDMX/AZTECA-UNO-HD/dash/AZTECA-UNO-HD.mpd
 
 #EXTINF:-1 , ESPN Mexico
