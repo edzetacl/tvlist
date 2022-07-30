@@ -1,6 +1,6 @@
-#EXTM3U
-
-#EXTINF:-1 , Canal 2 Las Estrellas
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
+"
+#EXTINF:-1 , Las Estrellas Mexico
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -14,14 +14,14 @@ https://channel-estrellas-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Win
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
 https://channel-canal5-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 , Azteca 7
+#EXTINF:-1 , Azteca 7 Mexico City
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd
 
-#EXTINF:-1, Canal Nu9ve
+#EXTINF:-1, Nueve
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -63,14 +63,14 @@ https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-3-HD/dash/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-PLUS-HD/dash/default.mpd
 
-#EXTINF:-1 , TUDN
+#EXTINF:-1 , TUDN Mexico
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/TUDN-HD/default.mpd
 
-#EXTINF:-1, TUDN Blim
+#EXTINF:-1, TUDN Mexico (Blim)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -84,22 +84,22 @@ https://channel-tdn-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-HD/dash/default.mpd
 
-#EXTINF:-1 , Fox Sports 2 Mexico (m3u8)
+#EXTINF:-1 , Fox Sports 2 Mexico (hls)
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 
-#EXTINF:-1 , Fox Sports 2 Mexico (mpd)
+#EXTINF:-1 , Fox Sports 2 Mexico (dash)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 
-#EXTINF:-1, FOX SPORTS 2 MX
+#EXTINF:-1, Fox Sports 2 Mexico
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api5/
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 
-#EXTINF:-1, FOX SPORTS 3 MX
+#EXTINF:-1, Fox Sports 3 Mexico
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api5/
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
@@ -116,7 +116,7 @@ https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4jEiCD8jG56rjuMX8vPRHA","kid":"qWIe8D8vWTOiyGDsydFowQ"}],"type":"temporary"}
-https://fox-edge2-mx.tbxdrm.com/mxfoxsportspremium/manifest.mpd
+https://fox-edge1-mx.tbxdrm.com/mxfoxsportspremium/manifest.mpd
 
 #EXTINF:-1 , Afizzionados
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -132,28 +132,28 @@ https://edge1-zapopan.izzigo.tv/live1/out/u/dash/AFIZZIONADOS-HD/dash/default.mp
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
 https://channel-afizzionados-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, De Pelicula Blim
+#EXTINF:-1, De Pelicula
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
 https://channel-depelicula-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Antena 3 Blim
+#EXTINF:-1, Antena 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
 https://channel-antena3-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, TVE Blim
+#EXTINF:-1, TVE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
 https://channel-tve-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, StarTVE
+#EXTINF:-1, Star TVE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -227,14 +227,14 @@ https://v-in.mybtv.net/live/787.m3u8
 #EXTINF:-1, Golden
 https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
 
-#EXTINF:-1, Golden Edge
-https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
-
-#EXTINF:-1, Golden 2
+#EXTINF:-1, Golden (Feed 2)
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 
-#EXTINF:-1, Golden 3
+#EXTINF:-1, Golden (Feed 3)
 https://linear-409.frequency.stream/409/hls/master/playlist.m3u8
+
+#EXTINF:-1, Golden Edge
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
 
 #EXTINF:-1, Golden Plus
 https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
@@ -242,7 +242,7 @@ https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
 #EXTINF:-1, Golden Premier
 https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
 
-#EXTINF:-1, De Pelicula
+#EXTINF:-1, De Pelicula Plus
 https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
 
 #EXTINF:-1, Distrito Comedia
