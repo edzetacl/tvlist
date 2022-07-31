@@ -1,68 +1,68 @@
 #EXTM3U
 #EXTINF:-1, BIT ME HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
-https://live2-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+https://edge2-zapopan.izzigo.tv/live3/out/u/dash/BIT-ME-HD/dash/default.mpd
 #EXTINF:-1, TELEMUNDO HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
-https://live2-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+https://edge2-zapopan.izzigo.tv/live3/out/u/dash/TELEMUNDO-HD/dash/default.mpd
 #EXTINF:-1, ANTENA 3 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
-https://live2-ott.izzigo.tv/out/u/dash/ANTENA3-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+https://edge2-zapopan.izzigo.tv/live3/out/u/dash/ANTENA3-HD/dash/default.mpd
 #EXTINF:-1, CLAN HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
-https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+https://edge2-zapopan.izzigo.tv/live3/out/u/dash/CLAN-HD/dash/default.mpd
 #EXTINF:-1, CANAL 2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 #EXTINF:-1, FORO TV HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
 #EXTINF:-1, CANAL 5 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 #EXTINF:-1, CANAL 9 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
 #EXTINF:-1, AZTECA 7 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://live2-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 #EXTINF:-1, AZTECA UNO HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://live2-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 #EXTINF:-1, CANAL ONCE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://live2-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
 #EXTINF:-1, UNICABLE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
 #EXTINF:-1, TNT HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.wi devine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063?deviceId=MWI5NjEyMWItNzk1MS0zNzAwLThmNGMtNzU5OGMzZGJkMzI0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
 #EXTINF:-1, TNT SERIES HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
