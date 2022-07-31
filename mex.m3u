@@ -321,16 +321,62 @@ https://v-sd.mybtv.net/live/760.m3u8
 https://v-pi.mybtv.net/live/360.m3u8?
 
 #EXTINF:-1,TUDN Alt1
-https://linear-364.frequency.stream/364/hls/master/playlist.m3u8
-
-#EXTINF:-1,TUDN Alt2
 https://linear-360.frequency.stream/360/hls/master/playlist.m3u8
 
-#EXTINF:-1,TUDN Alt3
+#EXTINF:-1,TUDN Alt2
 https://linear-361.frequency.stream/361/hls/master/playlist.m3u8
 
+#EXTINF:-1,TUDN Alt3
+https://linear-362.frequency.stream/362/hls/master/playlist.m3u8
+
 #EXTINF:-1,TUDN Alt4
-https://linear-365.frequency.stream/365/hls/master/playlist.m3u8
+https://linear-363.frequency.stream/363/hls/master/playlist.m3u8
 
 #EXTINF:-1,TUDN Alt5
+https://linear-364.frequency.stream/364/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt6
+https://linear-365.frequency.stream/365/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt7
+https://linear-366.frequency.stream/366/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt8
+https://linear-367.frequency.stream/367/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt9
 https://linear-368.frequency.stream/368/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt10
+https://linear-369.frequency.stream/369/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt11
+https://linear-370.frequency.stream/370/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt12
+https://linear-371.frequency.stream/371/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt13
+https://linear-371.frequency.stream/371/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt14
+https://linear-372.frequency.stream/372/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt15
+https://linear-373.frequency.stream/373/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt16
+https://linear-374.frequency.stream/374/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt17
+https://linear-375.frequency.stream/375/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt18
+https://linear-376.frequency.stream/376/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt19
+https://linear-378.frequency.stream/378/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt20
+https://linear-379.frequency.stream/379/hls/master/playlist.m3u8
+
