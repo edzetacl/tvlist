@@ -242,6 +242,9 @@ https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
 #EXTINF:-1, Golden Premier
 https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
 
+#EXTINF:-1, De Pelicula
+https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
+
 #EXTINF:-1, De Pelicula Plus
 https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
 
@@ -259,6 +262,12 @@ https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
 
 #EXTINF:-1, TLNovelas
 https://linear-421.frequency.stream/421/hls/master/playlist.m3u8
+
+#EXTINF:-1, Canal 5
+https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
+
+#EXTINF:-1, Nueve
+https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 
 #EXTINF:-1, Unicable
 https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
@@ -320,6 +329,9 @@ https://v-sd.mybtv.net/live/760.m3u8
 #EXTINF:-1,NHK World
 https://v-pi.mybtv.net/live/360.m3u8?
 
+#EXTINF:-1,CNN en Español
+https://linear-358.frequency.stream/358/hls/master/playlist.m3u8
+
 #EXTINF:-1,TUDN Alt1
 https://linear-360.frequency.stream/360/hls/master/playlist.m3u8
 
@@ -379,4 +391,23 @@ https://linear-378.frequency.stream/378/hls/master/playlist.m3u8
 
 #EXTINF:-1,TUDN Alt20
 https://linear-379.frequency.stream/379/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt21
+https://linear-380.frequency.stream/380/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt22
+https://linear-381.frequency.stream/381/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt23
+https://linear-383.frequency.stream/383/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt24
+https://linear-384.frequency.stream/384/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt24
+https://linear-385.frequency.stream/385/hls/master/playlist.m3u8
+
+#EXTINF:-1,TUDN Alt24
+https://linear-386.frequency.stream/386/hls/master/playlist.m3u8
+
 
