@@ -3,13 +3,13 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
-https://edge2-zapopan.izzigo.tv/live4/out/u/dash/BIT-ME-HD/dash/default.mpd
+https://edge2-zapopan.izzigo.tv/live4/out/u/dash/BIT-ME-HD/default.mpd
 
 #EXTINF:-1, TELEMUNDO HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
-https://edge1-zapopan.izzigo.tv/live3/out/u/dash/TELEMUNDO-HD/dash/default.mpd
+https://edge1-zapopan.izzigo.tv/live3/out/u/dash/TELEMUNDO-HD/default.mpd
 
 #EXTINF:-1, ANTENA 3 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
