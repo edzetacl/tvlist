@@ -1,108 +1,108 @@
-#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-#EXTINF:-1, CANAL IZZI
+#EXTINF:-1, Canal Izzi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/CANAL-IZZI-SD/default.mpd
 
-#EXTINF:-1, AZTECA UNO HD
+#EXTINF:-1, Azteca Uno
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live4/out/u/dash/AZTECA-1-HD/default.mpd
 
-#EXTINF:-1, CANAL 2 HD
+#EXTINF:-1, Las Estrellas
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/CANAL-2-HD/default.mpd
 
-#EXTINF:-1, FORO TV HD
+#EXTINF:-1, Foro TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/FORO-TV-HD/default.mpd
 
-#EXTINF:-1, CANAL 5 HD
+#EXTINF:-1, Canal 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/CANAL-5-HD/default.mpd
 
-#EXTINF:-1, MULTIMEDIOS PLUS HD
+#EXTINF:-1, Multimedios Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live3/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
 
-#EXTINF:-1, AZTECA 7 HD
+#EXTINF:-1, Azteca Siete
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live4/out/u/dash/AZTECA-7-HD/default.mpd
 
-#EXTINF:-1, CANAL 9 HD
+#EXTINF:-1, Canal Nueve
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/CANAL-9-HD/default.mpd
 
-#EXTINF:-1, CANAL ONCE HD
+#EXTINF:-1, Canal Once
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ONCE-HD/default.mpd
 
-#EXTINF:-1, MILENIO HD
+#EXTINF:-1, Milenio TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live1/out/u/dash/MILENIO-HD/default.mpd
 
-#EXTINF:-1, UNICABLE HD
+#EXTINF:-1, Unicable
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/UNICABLE-HD/dash/default.mpd
 
-#EXTINF:-1, BIT ME HD
+#EXTINF:-1, Bit Me
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live4/out/u/dash/BIT-ME-HD/default.mpd
 
-#EXTINF:-1, 24HORAS ESPAÑA
+#EXTINF:-1, 24 Horas España
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
-https://edge1-zapopan.izzigo.tv/live3/out/u/dash/24-HRS-SD/default.mpd
+http://edge1-zapopan.izzigo.tv/live4/out/u/dash/24-HRS-SD/default.mpd
 
-#EXTINF:-1, AL JAZEERA
+#EXTINF:-1, Al Jazeera
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live4/out/u/dash/AL-JAZEERA-HD/default.mpd
 
-#EXTINF:-1, BBC WORLD NEWS
+#EXTINF:-1, BBC World News
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd
 
-#EXTINF:-1, DW AMERIKA
+#EXTINF:-1, DW Amerika
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/DW-AMERIKA-SD/default.mpd
 
-#EXTINF:-1, DW ESPAÑOL
+#EXTINF:-1, DW Español
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/DW-ESPANOL-SD/default.mpd
 
-#EXTINF:-1, EURONEWS
+#EXTINF:-1, Euronews
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
@@ -120,37 +120,37 @@ http://edge1-zapopan.izzigo.tv/live3/out/u/dash/HLN-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live4/out/u/dash/CNN-HD/default.mpd
 
-#EXTINF:-1, CNN INTERNACIONAL
+#EXTINF:-1, CNN Iinternacional
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live4/out/u/dash/CNNI-SD/default.mpd
 
-#EXTINF:-1, CNN ESPAÑOL
+#EXTINF:-1, CNN en Español
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live3/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
 
-#EXTINF:-1, FOX NEWS HD
+#EXTINF:-1, Fox News
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/FOX-NEWS-HD/default.mpd
 
-#EXTINF:-1, RT HD
+#EXTINF:-1, RT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live2/out/u/dash/RT-HD/default.mpd
 
-#EXTINF:-1, RAI ITALIA HD
+#EXTINF:-1, Rai Italia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/RAI-HD/default.mpd
 
-#EXTINF:-1, TV5 MONDE
+#EXTINF:-1, TV5 Monde
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
@@ -162,289 +162,289 @@ http://edge1-zapopan.izzigo.tv/live3/out/u/dash/TV5-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/TVE-SD/default.mpd
 
-#EXTINF:-1, STAR TVE
+#EXTINF:-1, Star TVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live2/out/u/dash/STAR-HD/default.mpd
 
-#EXTINF:-1, TELEFE HD
+#EXTINF:-1, Telefe Internacional
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/TELEFE-HD/default.mpd
 
-#EXTINF:-1, TELEMUNDO HD
+#EXTINF:-1, Telemundo Internacional
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/TELEMUNDO-HD/default.mpd
 
-#EXTINF:-1, ANTENA 3 HD
+#EXTINF:-1, Antena 3 Internacional
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live5/out/u/dash/ANTENA3-HD/default.mpd
 
-#EXTINF:-1, TV GLOBO
+#EXTINF:-1, TV Glogo Internacional
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/TV-GLOBO-SD/default.mpd
 
-#EXTINF:-1, CLAN HD
+#EXTINF:-1, Clan TVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/CLAN-HD/dash/default.mpd
 
-#EXTINF:-1, CARTOON NETWORK HD
+#EXTINF:-1, Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live4/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 
-#EXTINF:-1, DISCOVERY KIDS HD
+#EXTINF:-1, Discovery Kids
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/DISCOVERY-KIDS-HD/dash/default.mpd
 
-#EXTINF:-1, DISNEY CHANNEL HD
+#EXTINF:-1, Disney Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
 
-#EXTINF:-1, DISNEY JR HD
+#EXTINF:-1, Disney Jr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/DISNEY-JR-HD/default.mpd
 
-#EXTINF:-1, NICK HD
+#EXTINF:-1, Nick
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live2/out/u/dash/NICK-HD/default.mpd
 
-#EXTINF:-1, NICK JR HD
+#EXTINF:-1, Nick JR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live4/out/u/dash/NICK-JR-HD/default.mpd
 
-#EXTINF:-1, CARTOONITO HD
+#EXTINF:-1, Cartoonito
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/BOOMERANG-HD/default.mpd
 
-#EXTINF:-1, TOONCAST
+#EXTINF:-1, Tooncast
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live5/out/u/dash/TOONCAST-SD/default.mpd
 
-#EXTINF:-1, TEEN NICK HD
+#EXTINF:-1, Teen Nick
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live4/out/u/dash/NICK-2-HD/default.mpd
 
-#EXTINF:-1, BABY TV
+#EXTINF:-1, Baby TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live4/out/u/dash/BABY-TV-SD/default.mpd
 
-#EXTINF:-1, DREAMWORKS HD
+#EXTINF:-1, Dreamworks
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/DREAM-WORKS-HD/default.mpd
 
-#EXTINF:-1, DISCOVERY WORLD HD
+#EXTINF:-1, Discovery World
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/DISCOVERY-WORLD-HD/dash/default.mpd
 
-#EXTINF:-1, DISCOVERY CHANNEL HD
+#EXTINF:-1, Discovery Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
 
-#EXTINF:-1, DISCOVERY TEATHER HD
+#EXTINF:-1, Discovery Theater
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live2/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
 
-#EXTINF:-1, DISCOVERY TURBO HD
+#EXTINF:-1, Discovery Turbo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live4/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
 
-#EXTINF:-1, DISCOVERY H&H HD
+#EXTINF:-1, Discovery Home & Healt
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
 
-#EXTINF:-1, DISCOVERY SCIENCE HD
+#EXTINF:-1, Discovery Science
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live4/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
 
-#EXTINF:-1, HGTV HD
+#EXTINF:-1, HGTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live4/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
 
-#EXTINF:-1, FOOD HD
+#EXTINF:-1, Food Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOOD-NET-HD/default.mpd
 
-#EXTINF:-1, ANIMAL PLANET HD
+#EXTINF:-1, Animal Planet
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/ANIMAL-PLANET-HD/dash/default.mpd
 
-#EXTINF:-1, TLC HD
+#EXTINF:-1, TLC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/TLC-HD/default.mpd
 
-#EXTINF:-1, NAT GEO HD
+#EXTINF:-1, National Geographic
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live4/out/u/dash/NAT-GEO-HD/default.mpd
 
-#EXTINF:-1, HISTORY CHANNEL HD
+#EXTINF:-1, History Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
 
-#EXTINF:-1, HISTORY 2 HD
+#EXTINF:-1, History 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/HISTORY-2-HD/dash/default.mpd
 
-#EXTINF:-1, E! HD
+#EXTINF:-1, E!
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/E-Entertainment-HD/dash/default.mpd
 
-#EXTINF:-1, LIFE TIME HD
+#EXTINF:-1, Lifetime
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/LIFETIME-HD/dash/default.mpd
 
-#EXTINF:-1, TLNOVELAS
+#EXTINF:-1, TLNovelas
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/TLNOVELAS-SD/default.mpd
 
-#EXTINF:-1, HOLA TV HD
+#EXTINF:-1, Hola TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/HOLA-TV-HD/dash/default.mpd
 
-#EXTINF:-1, MASCHIC HD
+#EXTINF:-1, Mas Chic
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/MASCHIC-HD/dash/default.mpd
 
-#EXTINF:-1, GLITZ
+#EXTINF:-1, Glitz*
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live4/out/u/dash/GLITZ-SD/default.mpd
 
-#EXTINF:-1, GOURMET HD
+#EXTINF:-1, El Gourmet
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/GOURMET-HD/default.mpd
 
-#EXTINF:-1, STAR CHANNEL HD
+#EXTINF:-1, Star Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live2/out/u/dash/FOX-HD/default.mpd
 
-#EXTINF:-1, WARNER HD
+#EXTINF:-1, Warner
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live5/out/u/dash/WARNER-HD/default.mpd
 
-#EXTINF:-1, SONY HD
+#EXTINF:-1, Sony
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live3/out/u/dash/SONY-HD/default.mpd
 
-#EXTINF:-1, SONY MOVIES HD
+#EXTINF:-1, Sony Movies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live2/out/u/dash/SONY-MOVIES-HD/default.mpd
 
-#EXTINF:-1, AXN HD
+#EXTINF:-1, AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/AXN-HD/default.mpd
 
-#EXTINF:-1, TNT HD
+#EXTINF:-1, TNT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/TNT-HD/dash/default.mpd
 
-#EXTINF:-1, TNT SERIES HD
+#EXTINF:-1, TNT Series
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/TNT-SERIES-HD/default.mpd
 
-#EXTINF:-1, SPACE HD
+#EXTINF:-1, Space
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/SPACE-HD/dash/default.mpd
 
-#EXTINF:-1, AMC HD
+#EXTINF:-1, AMC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live4/out/u/dash/AMC-HD/default.mpd
 
-#EXTINF:-1, FX HD
+#EXTINF:-1, FX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/FX-HD/dash/default.mpd
 
-#EXTINF:-1, SYFY HD
+#EXTINF:-1, SYFY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
@@ -456,115 +456,115 @@ https://edge1-zapopan.izzigo.tv/live5/out/u/dash/SYFY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live5/out/u/dash/TCM-SD/default.mpd
 
-#EXTINF:-1, EUROPA HD
+#EXTINF:-1, Europa Europa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/EUROPA-HD/default.mpd
 
-#EXTINF:-1, FILM & ARTS HD
+#EXTINF:-1, Film & Arts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live4/out/u/dash/FILM-AND-ARTS-HD/default.mpd
 
-#EXTINF:-1, ATRES SERIES HD
+#EXTINF:-1, Atres Series
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/ATRES-SERIES-HD/default.mpd
 
-#EXTINF:-1, ATRES CINE HD
+#EXTINF:-1, Atres Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/A3-CINE-HD/default.mpd
 
-#EXTINF:-1, GOLDEN
+#EXTINF:-1, Golden
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live3/out/u/dash/GOLDEN-SD/default.mpd
 
-#EXTINF:-1, GOLDEN EDGE
+#EXTINF:-1, Golden Edge
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live3/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 
-#EXTINF:-1, GOLDEN PLUS
+#EXTINF:-1, Golden Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live4/out/u/dash/GOLDEN-HD/default.mpd
 
-#EXTINF:-1, GOLDEN PREMIER HD
+#EXTINF:-1, Golden Premier
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live2/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
 
-#EXTINF:-1, CINEMAX HD
+#EXTINF:-1, Cinemax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live5/out/u/dash/CINEMAX-HD/default.mpd
 
-#EXTINF:-1, CINECANAL HD
+#EXTINF:-1, Cinecanal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live4/out/u/dash/CINECANAL-HD/default.mpd
 
-#EXTINF:-1, TRUTV HD
+#EXTINF:-1, TruTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/TRU-TV-HD/dash/default.mpd
 
-#EXTINF:-1, ID HD
+#EXTINF:-1, ID
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live3/out/u/dash/DISCOVERY-ID-HD/default.mpd
 
-#EXTINF:-1, COMEDY CENTRAL HD
+#EXTINF:-1, Comedy Central
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/COMEDY-CENTRAL-HD/dash/default.mpd
 
-#EXTINF:-1, A&E HD
+#EXTINF:-1, A&E
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/AANDE-HD/default.mpd
 
-#EXTINF:-1, ISAT
+#EXTINF:-1, ISat
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/ISAT-SD/dash/default.mpd
 
-#EXTINF:-1, PARAMOUNT HD
+#EXTINF:-1, Paramount Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/PARAMOUNT-HD/dash/default.mpd
 
-#EXTINF:-1, DISTRITO COMEDIA HD
+#EXTINF:-1, Distrito Comedia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live4/out/u/dash/DISTRITO-COMEDIA-SD/default.mpd
 
-#EXTINF:-1, DE PELICULA
+#EXTINF:-1, De Pelicula
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live2/out/u/dash/DE-PELICULA-SD/default.mpd
 
-#EXTINF:-1, DE PELICULA PLUS
+#EXTINF:-1, De Pelicula Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
@@ -576,215 +576,173 @@ https://edge1-zapopan.izzigo.tv/live4/out/u/dash/DE-PELICULA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live3/out/u/dash/TBS-SD/dash/default.mpd
 
-#EXTINF:-1, STUDIO UNIVERSAL HD
+#EXTINF:-1, Studio Universal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/STUDIO-UNIVERSAL-HD/dash/default.mpd
 
-#EXTINF:-1, UNIVERSAL CHANNEL HD
+#EXTINF:-1, Universal Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live4/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 
-#EXTINF:-1, UNIVERSAL REALITY HD
+#EXTINF:-1, Universal Reality
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/UNIVERSAL-REALITY-HD/dash/default.mpd
 
-#EXTINF:-1, UNIVERSAL PREMIERE HD
+#EXTINF:-1, Universal Premiere
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/UNIVERSAL-PREMIERE-HD/dash/default.mpd
 
-#EXTINF:-1, UNIVERSAL CINEMA HD
+#EXTINF:-1, Universal Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/UNIVERSAL-CINEMA-HD/dash/default.mpd
 
-#EXTINF:-1, UNIVERSAL CRIME HD
+#EXTINF:-1, Universal Crime
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/UNIVERSAL-CRIME-HD/dash/default.mpd
 
-#EXTINF:-1, UNIVERSAL COMEDY HD
+#EXTINF:-1, Universal Comedy
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/UNIVERSAL-COMEDY-HD/dash/default.mpd
 
-#EXTINF:-1, HBO HD
+#EXTINF:-1, HBO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-HD/default.mpd
 
-#EXTINF:-1, HBO XTREME HD
+#EXTINF:-1, HBO Xtreme
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-XTREME-HD/default.mpd
 
-#EXTINF:-1, HBO POP HD
+#EXTINF:-1, HBO Pop
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-POP-HD/default.mpd
 
-#EXTINF:-1, HBO PLUS HD
+#EXTINF:-1, HBO Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-PLUS-HD/default.mpd
 
-#EXTINF:-1, HBO 2 HD
+#EXTINF:-1, HBO 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO2-HD/default.mpd
 
-#EXTINF:-1, HBO SIGNATURE HD
+#EXTINF:-1, HBO Signature
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 
-#EXTINF:-1, HBO FAMILY HD
+#EXTINF:-1, HBO Family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-FAMILY-HD/default.mpd
 
-#EXTINF:-1, HBO MUNDI HD
+#EXTINF:-1, HBO Mundi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-MUNDI-HD/default.mpd
 
-#EXTINF:-1, ESPN HD
+#EXTINF:-1, ESPN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-HD/dash/default.mpd
 
-#EXTINF:-1, ESPN 2 HD
+#EXTINF:-1, ESPN 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-2-HD/dash/default.mpd
 
-#EXTINF:-1, ESPN 3 HD
+#EXTINF:-1, ESPN 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-3-HD/dash/default.mpd
 
-#EXTINF:-1, ESPN PLUS HD
+#EXTINF:-1, ESPN Extra
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-PLUS-HD/dash/default.mpd
 
-#EXTINF:-1, FOX SPORTS HD
+#EXTINF:-1, Fox Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-HD/dash/default.mpd
 
-#EXTINF:-1, FOX SPORTS 2 HD
+#EXTINF:-1, Fox Sports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live4/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 
-#EXTINF:-1, FOX SPORTS 3  HD
+#EXTINF:-1, Fox Sports 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-3-HD/dash/default.mpd
 
-#EXTINF:-1, TUDN HD
+#EXTINF:-1, TUDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/TUDN-HD/default.mpd
 
-#EXTINF:-1, AFIZZIONADOS HD
+#EXTINF:-1, Afizzionados
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/AFIZZIONADOS-HD/dash/default.mpd
 
-#EXTINF:-1, NFL HD
+#EXTINF:-1, NFL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/NFL-HD/default.mpd
 
-#EXTINF:-1, ADRENALINA
+#EXTINF:-1, Adrenalina
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ADRENALINA-HD/default.mpd
 
-#EXTINF:-1, REAL MADRID HD
+#EXTINF:-1, Real Madrid
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 http://edge1-zapopan.izzigo.tv/live4/out/u/dash/REAL-MADRID-HD/default.mpd
 
-#EXTINF:-1, GOLF CHANNEL HD
+#EXTINF:-1, Golf Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/GOLF-CHANNEL-HD/default.mpd
-
-#EXTINF:-1, NICKMUSIC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
-http://edge1-zapopan.izzigo.tv/live4/out/u/dash/NICKTOONS-SD/default.mpd
-
-#EXTINF:-1, TELEHIT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
-http://edge1-zapopan.izzigo.tv/live2/out/u/dash/TELEHIT-SD/default.mpd
-
-#EXTINF:-1, TELEHIT MUSICA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
-https://edge1-zapopan.izzigo.tv/live2/out/u/dash/TELEHIT-URBANO-SD/default.mpd
-
-#EXTINF:-1, TELEHIT MUSICA PLUS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
-https://edge1-zapopan.izzigo.tv/live2/out/u/dash/TELEHIT-HD/default.mpd
-
-#EXTINF:-1, BANDAMAX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
-https://edge1-zapopan.izzigo.tv/live2/out/u/dash/BANDAMAX-HD/default.mpd
-
-#EXTINF:-1, CLUB MTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
-http://edge1-zapopan.izzigo.tv/live4/out/u/dash/MTV-DANCE-SD/default.mpd
-
-#EXTINF:-1, MTV HITS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
-http://edge1-zapopan.izzigo.tv/live4/out/u/dash/MTV-HITS-SD/default.mpd
 
 #EXTINF:-1, MTV HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -792,7 +750,49 @@ http://edge1-zapopan.izzigo.tv/live4/out/u/dash/MTV-HITS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live2/out/u/dash/MTV-HD/default.mpd
 
-#EXTINF:-1, MTV LIVE HD
+#EXTINF:-1, Nick Music
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+http://edge1-zapopan.izzigo.tv/live4/out/u/dash/NICKTOONS-SD/default.mpd
+
+#EXTINF:-1, Telehit
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+http://edge1-zapopan.izzigo.tv/live1/out/u/dash/TELEHIT-SD/default.mpd
+
+#EXTINF:-1, Telehit Musica
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+https://edge1-zapopan.izzigo.tv/live2/out/u/dash/TELEHIT-URBANO-SD/default.mpd
+
+#EXTINF:-1, Telehit Musica Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+https://edge1-zapopan.izzigo.tv/live2/out/u/dash/TELEHIT-HD/default.mpd
+
+#EXTINF:-1, Bandamax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+https://edge1-zapopan.izzigo.tv/live2/out/u/dash/BANDAMAX-HD/default.mpd
+
+#EXTINF:-1, Club MTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+http://edge1-zapopan.izzigo.tv/live4/out/u/dash/MTV-DANCE-SD/default.mpd
+
+#EXTINF:-1, MTV Hits
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+http://edge1-zapopan.izzigo.tv/live4/out/u/dash/MTV-HITS-SD/default.mpd
+
+#EXTINF:-1, MTV Live
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
@@ -810,7 +810,7 @@ https://edge1-zapopan.izzigo.tv/live3/out/u/dash/VH1-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://edge1-zapopan.izzigo.tv/live4/out/u/dash/VH1-CLASSIC-SD/default.mpd
 
-#EXTINF:-1, MUCH MUSIC
+#EXTINF:-1, Much Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
