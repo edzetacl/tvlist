@@ -262,6 +262,13 @@ https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pN7ndhUnnIWLGeW7aatnVQ","kid":"xGl79FjaUvi5azbM52HVcQ"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar", tvg-logo="https://i.imgur.com/FK5L1nW.png", TNT Sports Arg. (o2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kObg2LHZiLYVEiDubrLlbg","kid":"98jT6kLypNo7FCOjI5e9Og"}],"type":"temporary"}
+https://edge-live15-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/XeAMtAW.png", TNT Sports 2 CL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
