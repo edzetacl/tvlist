@@ -1,6 +1,13 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/rRzhUCm.png", DNews
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RkFyu8Qik433ZjO/OoorVA","kid":"/kmUA0XdXkC+j2wWOgiK/w"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1264/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="TVN.cl", tvg-logo="https://i.imgur.com/kPsv87l.png", TVN Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -63,6 +70,16 @@ https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"svFjuTAopMMlwNj38bKeJQ","kid":"J5ZaXkdRXFKvlw3vgjAULA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/XXLGnrr/26.png", Ciudad Magazine
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VeBo_2sVLjTGbcY5s46Gkg","kid":"TxI1Bp00wiy3PZt4uuFVhw"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Telemax Argentina
+https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar", tvg-logo="https://i.imgur.com/1cXPftL.png" , Todo Noticias
 #KODIPROP:inputstreamaddon=inputstream.adaptive
