@@ -187,7 +187,7 @@ https://api54.tvgratis.live/streams/1048/manifest.mpd|User-Agent="Mozilla/5.0 (W
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1pHIipVEBmZ0LR2BgxgjRw","kid":"m1Ns0XFmR+6UxF+kg20p1g"}],"type":"temporary"}
-https://edge-live15-sl.cvattv.com.ar/live/c4eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Canal 4 Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -201,7 +201,7 @@ https://edge-live15-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Cana
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lgOPdqK6M4ZupU60smBXPw","kid":"xQUY1/WfTAqpowef4rAU/Q"}],"type":"temporary"}
-https://edge-live15-sl.cvattv.com.ar/live/c4eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://edge-live15-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Canal 10 Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -487,7 +487,7 @@ https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd|Use
 https://api54.tvgratis.live/streams/1246/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="WinSports.co", tvg-logo="https://i.imgur.com/socAYEf.png", Win Sports
-https://api4.tvgratis.live/st2/winsports/master.m3u8
+https://api55.tvgratis.live/st2/winsports/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pxWFeQ.png", Win Sports Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -511,10 +511,10 @@ https://api54.tvgratis.live/streams/1134/manifest.mpd|User-Agent="Mozilla/5.0 (W
 https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1hI14vM.png", UFC NETWORK
-https://api4.tvgratis.live/st2/ufc/master.m3u8
+https://api55.tvgratis.live/st2/ufc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/70A0XD2.png", F1
-https://api4.tvgratis.live/st2/f1/master.m3u8
+https://api55.tvgratis.live/st2/f1/master.m3u8
 
 #EXTINF:-1 tvg-id="UniversalPremiereEast.us", tvg-logo="https://i.imgur.com/3gbpWdQ.png", Universal Premiere
 #KODIPROP:inputstreamaddon=inputstream.adaptive
