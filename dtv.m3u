@@ -251,7 +251,7 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="TNTSportsArgentina.ar", tvg-logo="https://i.imgur.com/FK5L1nW.png", TNT Sports Arg. Alterno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
@@ -300,7 +300,7 @@ https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="ESPNArgentina.ar", tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Argentina Alterno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
@@ -314,7 +314,7 @@ https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="ESPN2Argentina.ar", tvg-logo="https://i.imgur.com/OHR99lF.png", ESPN2 Argentina Alterno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
 
@@ -359,7 +359,7 @@ https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FT
 #EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium Alterno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
@@ -388,14 +388,14 @@ https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPO
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar", tvg-logo="https://i.imgur.com/10df48I.png", Fox Sports Argentina Alterno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 #EXTINF:-1 tvg-id="FoxSports2South.us", tvg-logo="https://i.imgur.com/KGawfzU.png", Fox Sports 2 Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
@@ -405,7 +405,7 @@ https://cvi.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 tvg-id="FoxSports3Argentina.ar", tvg-logo="https://i.imgur.com/CaUmm5k.png", Fox Sports 3 Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
@@ -447,35 +447,35 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f11
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+nec1SLw9IIoYLv/RG+JZA","kid":"AQFsSymspyts+i1+ZwdZFw"}],"type":"temporary"}
 https://live.lln.latam.hbomaxcdn.com/cmaf/live/2031611/dash/cenc/27326/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfIRptk.png", DTV Sports Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XfIRptk.png", DirecTV Sports Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wd/04MvSxZTL2D6bpt6+TQ","kid":"as/4AzD9XaaWHjPYTf9NAw"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfIRptk.png", DTV Sports Ecuador
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XfIRptk.png", DirecTV Sports Ecuador
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B8FzWtrBXeh33z+BtPxHMQ","kid":"6bxqHGTgXDWqcuErFtNSRw"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfIRptk.png", DTV Sports Colombia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XfIRptk.png", DirecTV Sports Colombia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MejXyd7w1SPFWZBPI_lM4g","kid":"YCA7JTy0UBmwpzm7KzI0Wg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1059/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfIRptk.png", DTV Sports Uruguay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XfIRptk.png", DirecTV Sports Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gTJACVEd4_8h6Q5S34CAdg","kid":"-qGVMAlCVmiFexrqS-takg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfIRptk.png", DTV Sports Peru
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XfIRptk.png", DirecTV Sports Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
