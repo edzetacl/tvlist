@@ -110,7 +110,7 @@ http://live.entel.cl/2318/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #EXTINF:-1 tvg-id="Canal24Horas.es", tvg-logo="https://i.imgur.com/0Bzo6Ei.png",24Hrs TVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-id="284062.E", tvg-logo="https://i.imgur.com/xsrHquN.png",DDWLAE
+#EXTINF:-1 tvg-id="284062.E", tvg-logo="https://i.imgur.com/xsrHquN.png", DW Amerika
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/91
 http://live.entel.cl/3029/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -126,10 +126,10 @@ https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 tvg-logo="https://git.io/JOTte" ,Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/Q6rS1sS.png" ,Sky News 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q6rS1sS.png" ,Sky News 
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 
-#EXTINF:-1, tvg-id="EuronewsSpanish.fr", tvg-logo="https://i.imgur.com/LK9dKQy.png" ,EURONEWS
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr", tvg-logo="https://i.imgur.com/LK9dKQy.png",EURONEWS
 https://siloh.pluto.tv/lilo/production/Euronews/master_1.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp", tvg-logo="https://i.imgur.com/2joZfb5.png",Nhk World (Japanese)
