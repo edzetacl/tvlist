@@ -140,7 +140,7 @@ http://live.entel.cl/3400/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp", tvg-logo="https://i.imgur.com/sAi4tpy.png",NHK WORLD PREMIUM
 http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
-#EXTINF:-1 tvg-id="427711.E", tvg-logo="https://i.imgur.com/PZwbvhs.png",NTV
+#EXTINF:-1 tvg-id="427711.E", tvg-logo="https://i.imgur.com/lU8ZKAD.png",NTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/9
 http://live.entel.cl/3179/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -648,18 +648,24 @@ https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us", tvg-logo="https://i.imgur.com/uwiZk8F.png", Bein Sports Xtra Es
 https://linear-256.frequency.stream/256/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uwiZk8F.png", BeIn Sports Xtra Eng.
+https://bit.ly/BeinSportXtra?/master.m3u8
+
 #EXTINF:-1 tvg-id="I639.38683.schedulesdirect.org", tvg-logo="https://i.imgur.com/BkvS5NW.png", TUDN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/licen0620/mxup.php
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/TUDN-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
+https://channel-tdn-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JuR7KS.png", Claro Sports
 https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQT8Ca9.png", Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsewrHz.png", Tennis Channel 2
+https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannelHDLatinAmerica.us", tvg-logo="https://i.imgur.com/HMd3IyI.png", Golf Channel
 https://delivery.cdn.rcs.net.ar/mnp/golf/output.mpd
@@ -716,7 +722,7 @@ https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8?Playlist
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal Alterna 3
 https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-id="TVN.cl", tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal TV Chile
+#EXTINF:-1  tvg-id="TVN.cl", tvg-logo="https://i.imgur.com/2Z1f7cH.png", TV Chile Internacional
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 #EXTINF:-1, Canal 13 Entretencion
