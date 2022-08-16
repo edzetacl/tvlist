@@ -78,14 +78,14 @@ https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"svFjuTAopMMlwNj38bKeJQ","kid":"J5ZaXkdRXFKvlw3vgjAULA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/XXLGnrr/26.png", Ciudad Magazine
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cvmpR2N.png", Ciudad Magazine
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VeBo_2sVLjTGbcY5s46Gkg","kid":"TxI1Bp00wiy3PZt4uuFVhw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jx8qlXYqMCWjC9FKU9dCyw","kid":"X2XE8MgjXFekYIXMeneUMg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Telemax Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5Ctdr0.png", Telemax Argentina
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar", tvg-logo="https://i.imgur.com/1cXPftL.png" , Todo Noticias
@@ -94,6 +94,13 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"j3xTv+At800lPrYefQGueQ","kid":"s2PjWlB1WJmD/sTi90+QuQ"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="TN.ar", tvg-logo="https://i.imgur.com/1cXPftL.png" , TN Alterno
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
 
 #EXTINF:-1 tvg-id="CronicaTV.ar", tvg-logo="https://i.imgur.com/2MSVwyD.png", Cronica
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -206,35 +213,35 @@ https://api54.tvgratis.live/streams/1035/manifest.mpd|User-Agent="Mozilla/5.0 (W
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4Y99fnlcOBRXstJlV7WniA","kid":"vcMHiwh6PrWbNb0CC47OKg"}],"type":"temporary"}
 https://api54.tvgratis.live/streams/1048/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, TV Ciudad Uruguay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LAJoz4E.png", TV Ciudad Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1pHIipVEBmZ0LR2BgxgjRw","kid":"m1Ns0XFmR+6UxF+kg20p1g"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Canal 4 Uruguay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ossaqdt.png", Canal 4 Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iW3ZFGg7AcgET/0017ZBaw","kid":"2r76rIl0JYl3j8+rePCDVA"}],"type":"temporary"}
 https://edge-live15-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, TV Nacional Uruguay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JkTjgIg.png", TV Nacional Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lgOPdqK6M4ZupU60smBXPw","kid":"xQUY1/WfTAqpowef4rAU/Q"}],"type":"temporary"}
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Canal 10 Uruguay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIINoSK.png", Canal 10 Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VAMaJ82U6nXegn4xRPe+Rw","kid":"uWFlFQijrHX+Mw7AKJ4DQQ"}],"type":"temporary"}
 https://edge-live15-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Canal 12 Uruguay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKPoInD.png", Canal 12 Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -262,14 +269,14 @@ https://edge-live15-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Even
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live15-sl.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd
 
-#EXTINF:-1, Evento 3
+#EXTINF:-1, Eventos 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1byekvIU13Ugq3+qHsrRCw","kid":"y9E7eog+U+mNXH800AE76A"}],"type":"temporary"}
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Evento 4
+#EXTINF:-1, Eventos 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -389,14 +396,18 @@ https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd|User-Agent="Mozilla
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium
-https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
+https://edge-live15-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium Alterno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png", ESPN 2 Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -909,40 +920,40 @@ https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, MTV Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd
 
-#EXTINF:-1, MTV 00s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd
 
-#EXTINF:-1, Nick Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PR5Jv1R.png", Nick Music
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc/Nickmusic.mpd
 
-#EXTINF:-1, Much Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6l1ZgxV.png", Much Music
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc/Much_Music.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6l1ZgxV.png", Much SD
+#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar", tvg-logo="https://i.imgur.com/Wnxp3FA.png", CM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yfSIlXCWccnV9957OMUMOQ","kid":"oYF/cZSxRjGgvwfQmxcyyw"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/Much_Music/SA_DASH_cipix/Much_Music.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sea4SZR.png", QUIERO HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -951,19 +962,26 @@ https://anbalancer.express.com.ar/live/c1eds/Much_Music/SA_DASH_cipix/Much_Music
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RadtzITwWM+ryLlY1zA7KA","kid":"o1SwyCo6cgxKb1LtWhGQ9A"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="HTV.us", tvg-logo="https://callateguatonql.cam/Logo/74", HTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6l1ZgxV.png", Much SD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yfSIlXCWccnV9957OMUMOQ","kid":"oYF/cZSxRjGgvwfQmxcyyw"}],"type":"temporary"}
+https://anbalancer.express.com.ar/live/c1eds/Much_Music/SA_DASH_cipix/Much_Music.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sea4SZR.png", QUIERO SD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"udXtIo5tcgamclZ1-fMoQw","kid":"KrtqzGS5TL6FULSL4KKaPA"}],"type":"temporary"}
 https://anbalancer.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_Musica.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, HTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVT1Yct.png", MTV HD
 https://cvi.cdn.rcs.net.ar/mnp/mtv/output.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -1157,11 +1175,5 @@ https://1039-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qn+V9xo8/kCqWZBPkoWvcg","kid":"TUW3nUSHNDWJBYq0nd+M8A"}],"type":"temporary"}
 https://1240-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium mpd.
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AoKOY0akbmHpZSAs2Hh+Og","kid":"D0j5559Us41hn9JVZcTRSw"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/Fox_Sports_Premium_HD/SA_DASH_cipix/Fox_Sports_Premium_HD.mpd
 
 
