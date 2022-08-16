@@ -8,6 +8,20 @@ tvg-shift=0 catchup="shift" catchup-days=6
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RkFyu8Qik433ZjO/OoorVA","kid":"/kmUA0XdXkC+j2wWOgiK/w"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1264/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="LaRed.cl", tvg-logo="https://i.imgur.com/LyvREi7.png", La Red Chile
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fjsxCKFmO0boeyr/4c0jpA","kid":"2aSFhZrQW3WwF4gr7CVA4A"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1155/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="UCVTV.cl", tvg-logo="https://i.imgur.com/nzVSsGd.png", TV+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OQhBhOv4Z0mzp3vEvvMJJg","kid":"Yc+igC4yVji09B8/o7397w"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1236/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="TVN.cl", tvg-logo="https://i.imgur.com/kPsv87l.png", TVN Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -21,13 +35,6 @@ https://dtvott-abc.akamaized.net/dash_live_1221/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AV0P7HT3H/dxFLtDnvB6iw","kid":"0VawiaObXoG+Hqim0cn8Tg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1001/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="LaRed.cl", tvg-logo="https://i.imgur.com/LyvREi7.png", La Red Chile
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fjsxCKFmO0boeyr/4c0jpA","kid":"2aSFhZrQW3WwF4gr7CVA4A"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1155/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TVN.cl", tvg-logo="https://i.imgur.com/2Z1f7cH.png", TV Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
