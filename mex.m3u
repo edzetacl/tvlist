@@ -35,6 +35,12 @@ https://channel-galatv-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Window
 #KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
 https://d2ya662kz0kh0s.cloudfront.net/out/u/dash/CDMX/AZTECA-UNO-HD/dash/AZTECA-UNO-HD.mpd
 
+#EXTINF:-1, Telehit Musica
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"o3XQhiQpqNJv/2ZV5IZc1Q","kid":"EQg3dH7ihdTP0RRaEyiNNQ"}],"type":"temporary"}
+https://edge1-zapopan.izzigo.tv/live2/out/u/dash/TELEHIT-URBANO-SD/default.mpd
+
 #EXTINF:-1 , ESPN México
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
