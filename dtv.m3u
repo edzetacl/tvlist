@@ -311,7 +311,7 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/bv1o5EJNJ17apl+g/ueSw","kid":"G5mE3GayWf6K5ZfLT8H0ww"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="ESPNChile.cl", tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Chile
+#EXTINF:-1 tvg-id="ESPNChile.cl", tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -325,12 +325,26 @@ https://dtvott-abc.akamaized.net/dash_live_1105/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JnVXtkyGC/bvdxKYlaSXQQ","kid":"J66tJFjZWMaOB/8IeQS83w"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1097/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Peru
+#EXTINF:-1 tvg-id="ESPN3South.us", tvg-logo="https://i.imgur.com/Nwk5HID.png", ESPN 3 Andino
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8SpnwA1O8olVByrsMWom8A","kid":"v2i0CrnCWFmLcyBFCauGDQ"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"K5Eke9RTZOtqtdTCxxyusA","kid":"cM6OwL2iVmSzJVDh03ekgA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1109/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Colombia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"An/E87YnURHAyLWuhJM+qA","kid":"JET38ZspNS620cf52PcdWQ"}],"type":"temporary"}
+https://api54.tvgratis.live/streams/1106/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="ESPNArgentina.ar", tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -342,9 +356,9 @@ https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="ESPNArgentina.ar", tvg-logo="https://i.imgur.com/2WODtEc.png", ESPN Argentina Alterno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y4nuOWFZnj5kilqtYIlfNA","kid":"6IS3EasRG+uKe6HnvL3Jvw"}],"type":"temporary"}
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="ESPN2Argentina.ar", tvg-logo="https://i.imgur.com/OHR99lF.png", ESPN2 Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -356,9 +370,9 @@ https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="ESPN2Argentina.ar", tvg-logo="https://i.imgur.com/OHR99lF.png", ESPN2 Argentina Alterno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C0Cun3inusO1fsv3LTwIHg","kid":"ZaW/o8enLd5gvpsMdAbI/A"}],"type":"temporary"}
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="ESPN3South.us", tvg-logo="https://i.imgur.com/Nwk5HID.png", ESPN 3 Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -366,13 +380,6 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F0PNA9/jc2ssldqRp4OvOA","kid":"9Mn5fio2/qsOUHfytEy8Tg"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="ESPN3South.us", tvg-logo="https://i.imgur.com/Nwk5HID.png", ESPN 3 Andino
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8SpnwA1O8olVByrsMWom8A","kid":"v2i0CrnCWFmLcyBFCauGDQ"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6DTF8bQ.png", ESPN 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -391,23 +398,29 @@ https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="ESPNExtraHDSouth.us", tvg-logo="https://i.imgur.com/93APBcG.png", ESPN Extra Alterno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+4XQWWh6sPxngFgGIE7b3w","kid":"zI1EQG7WvxiYrZ96LWTyng"}],"type":"temporary"}
+https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AoKOY0akbmHpZSAs2Hh+Og","kid":"D0j5559Us41hn9JVZcTRSw"}],"type":"temporary"}
+https://edge-live15-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium Alterno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AoKOY0akbmHpZSAs2Hh+Og","kid":"D0j5559Us41hn9JVZcTRSw"}],"type":"temporary"}
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Mx
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
-https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1mRAdwfSYPk5CBIdhN9Oug","kid":"WRzbyXA0MwuElhSm77_f1A"}],"type":"temporary"}
+https://api54.tvgratis.live/streams/1108/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png", ESPN 2 Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1152,13 +1165,6 @@ https://1117-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ea1p0shPQdu1IKv+OLGf5w","kid":"TLSd80FCPLWXvz55t48qUg"}],"type":"temporary"}
 https://1125-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, ESPN Colombia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"An/E87YnURHAyLWuhJM+qA","kid":"JET38ZspNS620cf52PcdWQ"}],"type":"temporary"}
-https://dtvott-akaws.akamaized.net/live_1106/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, CDOP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
