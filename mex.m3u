@@ -51,14 +51,14 @@ https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-HD/dash/default.mpd
 #EXTINF:-1 , ESPN 2 México
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nodoapps.com/license01/mxup.php
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bz6FZCEiJZsJb8uld/Uymg","kid":"Hk//rgdjAT1ItGqLBj0Rpg"}],"type":"temporary"}
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-2-HD/dash/default.mpd
 
 #EXTINF:-1 , ESPN 3 México
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bz6FZCEiJZsJb8uld/Uymg","kid":"Hk//rgdjAT1ItGqLBj0Rpg"}],"type":"temporary"}
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-3-HD/dash/default.mpd
 
