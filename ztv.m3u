@@ -343,7 +343,7 @@ http://live.entel.cl/2246/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/36
 http://live.entel.cl/2280/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rn8oAdm.png", Sony Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1xZ3ahN.png", Sony Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -423,15 +423,18 @@ https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1NLMorj.png", Golden Premier
 https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
 
+#EXTINF:-1tvg-logo="https://i.imgur.com/G8LoY9S.png", De Pelicula
+https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDrzqx8.png", De Pelicula Plus
 https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FXChile.cl", tvg-logo="https://i.imgur.com/mdVbmsQ.png",FX
+#EXTINF:-1 tvg-id="FXChile.cl", tvg-logo="https://i.imgur.com/ieshmNx.png",FX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/40
 http://live.entel.cl/2353/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us", tvg-logo="https://i.imgur.com/A85jhJk.png",Paramount Network
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us", tvg-logo="https://i.imgur.com/9oUZBjV.png",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/89
 http://live.entel.cl/2299/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -466,15 +469,19 @@ https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XrcxyED.png", Distrito Comedia
 https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AtrescineInternacionalHD.es", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" ,ATRESCINE
+#EXTINF:-1 tvg-id="AtrescineInternacionalHD.es", tvg-logo="https://i.imgur.com/5ISleJ6.png" ,ATRESCINE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5_R-K5SOkiLPTSS1GIHsBA","kid":"SuEMI1fiUOCIu4pasETdUA"}],"type":"temporary"}
 https://channel-atrescine-cdn.blim.com/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="AtreseriesInternacional.es", tvg-logo="https://i.imgur.com/dxzZqD8.png", Atreseries HD
-https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
+#EXTINF:-1 tvg-id="AtreseriesInternacional.es", tvg-logo="https://i.imgur.com/dxzZqD8.png", Atres Series
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="EuropaEuropaHD.ar", tvg-logo="https://i.imgur.com/Z14wKqR.png", Europa Europa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -488,7 +495,7 @@ https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8xhC+ZIaQSY+Xmb9TgDMcQ","kid":"FMZGiq1WUlmjICNXeseaOQ"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd
+https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="DHE.us", tvg-logo="https://i.imgur.com/dqMwe4X.png",Canal DHE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -600,7 +607,7 @@ https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pN7ndhUnnIWLGeW7aatnVQ","kid":"xGl79FjaUvi5azbM52HVcQ"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="ESPNChile.cl", tvg-logo="https://i.imgur.com/2WODtEc.png" ,ESPN Chile
+#EXTINF:-1 tvg-id="ESPNChile.cl", tvg-logo="https://i.imgur.com/4zbQAOF.png" ,ESPN Chile
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/80
 http://live.entel.cl/3032/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
@@ -615,20 +622,24 @@ http://live.entel.cl/2355/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/81
 http://live.entel.cl/2302/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="FoxSportsChile.cl", tvg-logo="https://i.imgur.com/6DTF8bQ.png",ESPN 4 CL
+#EXTINF:-1 tvg-id="FoxSportsChile.cl", tvg-logo="https://i.imgur.com/GrINQnV.png",ESPN 4 CL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/76
 http://live.entel.cl/2231/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us", tvg-logo="https://i.imgur.com/93APBcG.png",ESPN Extra
+#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us", tvg-logo="https://i.imgur.com/9mbMTsR.png",ESPN Extra
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/79
 http://live.entel.cl/2350/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png" , ESPN Premium
-https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium Argentina
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AoKOY0akbmHpZSAs2Hh+Og","kid":"D0j5559Us41hn9JVZcTRSw"}],"type":"temporary"}
+https://edge-live15-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports Argentina
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar", tvg-logo="https://i.imgur.com/10df48I.png", Fox Sports Argentina
 https://cvi.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 
 #EXTINF:-1 tvg-id="FoxSports2South.us", tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2
@@ -678,13 +689,16 @@ http://live.entel.cl/2338/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #EXTINF:-1 tvg-id="MTVSouth.us", tvg-logo="https://i.imgur.com/WVT1Yct.png", MTV
 https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
-#EXTINF:-1 tvg-id="HTV.us", tvg-logo="https://callateguatonql.cam/Logo/74",HTV
+#EXTINF:-1 tvg-id="HTV.us", tvg-logo="https://i.imgur.com/MwGkvXm.png",HTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/74
 http://live.entel.cl/2247/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VyV5krv.png", Carolina TV
-https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+https://redirector.dps.live/hls/carolinatv/playlist.m3u8?referer=www.carolina.cl
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VyV5krv.png", Carolina TV 2
+https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UlB4PWw.png", Romantica
 https://unlimited1-us.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
