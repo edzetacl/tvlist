@@ -178,12 +178,26 @@ https://dtvott-cbc.akamaized.net/dash_live_1186/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jqExYT-Wi5wrB9LQjOXvRA","kid":"F09fLugZNiS-yd2OXVB6ZA"}],"type":"temporary"}
 https://api54.tvgratis.live/streams/1157/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="Latina.pe", tvg-logo="https://i.imgur.com/TmQwVfw.png", Latina Alterno
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jqExYT-Wi5wrB9LQjOXvRA","kid":"F09fLugZNiS-yd2OXVB6ZA"}],"type":"temporary"}
+https://sv.spliktv.xyz/live/dash/HA/26.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="AmericaTelevision.pe", tvg-logo="https://i.imgur.com/zmwcYpa.png", America Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"i02D4sOCeAymFc5s1nVNeQ","kid":"ufxaFTgrNYGJBOy-7VRf0A"}],"type":"temporary"}
 https://api54.tvgratis.live/streams/1011/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="AmericaTelevision.pe", tvg-logo="https://i.imgur.com/zmwcYpa.png", America Alterno
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"i02D4sOCeAymFc5s1nVNeQ","kid":"ufxaFTgrNYGJBOy-7VRf0A"}],"type":"temporary"}
+https://sv.spliktv.xyz/live/dash/HA/27.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="WillaxTV.pe", tvg-logo="https://i.imgur.com/LW73Ij6.png", Willax Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -192,6 +206,13 @@ https://api54.tvgratis.live/streams/1011/manifest.mpd|User-Agent="Mozilla/5.0 (W
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9oLcsgxwaCdYQEEZFredhQ","kid":"4BQOjGDSNiqZgvlydtDhpA"}],"type":"temporary"}
 https://api54.tvgratis.live/streams/1249/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="WillaxTV.pe", tvg-logo="https://i.imgur.com/LW73Ij6.png", Willax Alterno
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9oLcsgxwaCdYQEEZFredhQ","kid":"4BQOjGDSNiqZgvlydtDhpA"}],"type":"temporary"}
+https://sv.spliktv.xyz/live/dash/HA/28.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7afOgRS.png", RCN Colombia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -199,12 +220,26 @@ https://api54.tvgratis.live/streams/1249/manifest.mpd|User-Agent="Mozilla/5.0 (W
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DScNTB7yoxmury9CTpsUQg","kid":"-tnq96mAMAaGr3gJwDd6AA"}],"type":"temporary"}
 https://api54.tvgratis.live/streams/1185/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7afOgRS.png", RCN Alterno
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DScNTB7yoxmury9CTpsUQg","kid":"-tnq96mAMAaGr3gJwDd6AA"}],"type":"temporary"}
+https://sv.spliktv.xyz/live/dash/HA/7.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72xiK5B.png", Caracol Colombia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XnP7CDWNtjTfuRnYU87Ebw","kid":"WQ6raDPUNf-UzJpa-TpDGQ"}],"type":"temporary"}
 https://api54.tvgratis.live/streams/1035/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72xiK5B.png", Caracol Alterno
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XnP7CDWNtjTfuRnYU87Ebw","kid":"WQ6raDPUNf-UzJpa-TpDGQ"}],"type":"temporary"}
+https://sv.spliktv.xyz/live/dash/HA/6.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lFYZCkt.png", City TV Colombia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -345,6 +380,13 @@ https://dtvott-abc.akamaized.net/dash_live_1109/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"An/E87YnURHAyLWuhJM+qA","kid":"JET38ZspNS620cf52PcdWQ"}],"type":"temporary"}
 https://api54.tvgratis.live/streams/1106/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Colombia Alterno
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"An/E87YnURHAyLWuhJM+qA","kid":"JET38ZspNS620cf52PcdWQ"}],"type":"temporary"}
+https://sv.spliktv.xyz/live/dash/HA/29.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="ESPNArgentina.ar", tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
