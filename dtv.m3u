@@ -708,45 +708,45 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bfMfDfVmEmzMrBF5iOEGHg","kid":"8YRcjZ9fTJinqEbbvJaTrQ"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/CINECANAL_HD/SA_DASH_cipix/CINECANAL_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ITz4XLX5/laXVwBKd+BZSA","kid":"YAPpLdDZ9UgykBXJ4V3VeA"}],"type":"temporary"}
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="CinemaxPanregional.us", tvg-logo="https://i.imgur.com/2HOweFW.png", Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"_7jrzkPlYbBmKUz3MyUUhA","kid":"tVvvajktTbaScaSy-hA96Q"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UfTmKCfBKPchC3mhFYdmGg","kid":"l3koqSuCujeBdBpkcPj0Ww"}],"type":"temporary"}
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="FXChile.cl", tvg-logo="https://i.imgur.com/mdVbmsQ.png", FX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9EZ3Cx0QEyHyFJeG6C1Rfw","kid":"uoOI7Af7SBq29AcNBH0hPA"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2MJxuCOH5gm2wZ5eeSQK/w","kid":"mrnELHE+D7VRfcd8wZ1nVQ"}],"type":"temporary"}
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="AMCSouth.us", tvg-logo="https://i.imgur.com/wC8Uw5B.png", AMC Latino
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7FQRgmHzhNytuA5B704-Ew","kid":"VyuwXpwjQIW_DA7wRA3HFA"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dEw2NtV6ZRq0RM+f5flbMw","kid":"H6aob9gLbRQl3edEgrXcnA"}],"type":"temporary"}
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="AESouth.us", tvg-logo="https://i.imgur.com/UaPwyxc.png", A&E
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E0-FEsdgUODVitWHiX6Xhw","kid":"Qw4l82G4QU62OYgvnSZzSA"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gMp2GodZkqwOULCFHVVj/g","kid":"2xIDVieks9cZi3YfNrSikA"}],"type":"temporary"}
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TNTSouth.us", tvg-logo="https://i.imgur.com/gMggelI.png", TNT Sur
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GU1KWZniFiJ8NkLsyAQ4Qg","kid":"e8Ow1qNqTcmqi17hVMGITg"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zwGEgwNEujatL/753S3Z0A","kid":"+q0XIqV19Nnse3dNtjyHnA"}],"type":"temporary"}
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, TNT Mexico
+#EXTINF:-1, tvg-logo="https://i.imgur.com/gMggelI.png", TNT Mexico
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -792,8 +792,8 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uam-Ir5nun-Udg6qkax-cA","kid":"CJLr-snwToaV8wsMgctw0Q"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBgg0mY7qybgGkvcv3HkQw","kid":"SessGL7WUsyTyHXOu5r0Dg"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1212/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="AtreseriesInternacional.es", tvg-logo="https://i.imgur.com/dxzZqD8.png", Atres Series
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -813,8 +813,8 @@ https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"deC7ieb2nSrSZdsbSN+KzA","kid":"s8FK4yCxQFe4PHBjbWf6/g"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/Film_Arts/SA_DASH_cipix/Film_Arts.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VO5ygQVR2gy6DEWo32UZYg","kid":"kcVA01DzT1OG8/HHf3QAHw"}],"type":"temporary"}
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_2A/Film_Arts.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="SmithsonianChannelHDLatinAmerica.us", tvg-logo="https://i.imgur.com/MK891N9.png", Smithsonian Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -855,8 +855,8 @@ https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"j7wVAr7ShP8BnBf_nvj3jQ","kid":"9lvCjTwNQvGD0R5Wy6KF6A"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/World_HD/SA_DASH_cipix/World_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VnV9ZWpperei5eCDtdIbtQ","kid":"NO6UwiYzRfejpZBmEmTkkA"}],"type":"temporary"}
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us", tvg-logo="https://i.imgur.com/OKa0Dme.png", Discovery Turbo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -869,8 +869,8 @@ https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1OsF8mC8Xc5l_w-HVA-wKQ","kid":"43K82z9RTqqSdGwMCgR6ew"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8Sn7m10hPiDiq+UpuM8llw","kid":"RrpAn7BOQPuGtGbZfjqViA"}],"type":"temporary"}
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0q4lwy1.png", HGTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -955,20 +955,6 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quier
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1CJ/JDiam6dykyFLk+sNfQ","kid":"2uzvX+MvTOCDxqDGknVdag"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6l1ZgxV.png", Much SD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yfSIlXCWccnV9957OMUMOQ","kid":"oYF/cZSxRjGgvwfQmxcyyw"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/Much_Music/SA_DASH_cipix/Much_Music.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sea4SZR.png", QUIERO SD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"udXtIo5tcgamclZ1-fMoQw","kid":"KrtqzGS5TL6FULSL4KKaPA"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_Musica.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVT1Yct.png", MTV HD
 https://cvi.cdn.rcs.net.ar/mnp/mtv/output.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
