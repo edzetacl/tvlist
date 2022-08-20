@@ -315,8 +315,8 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd|User-Ag
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p_1JgI-JDCUAvyGAqvQjBw","kid":"MwO0xpgvOB6p4wkAn7s_Jw"}],"type":"temporary"}
-https://sv.spliktv.xyz/live/dash/HA/0.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7nmEzGmjFSwxJZ+uFr+Www","kid":"JV+HkVcUTOqSObPIPf9Rgg"}],"type":"temporary"}
+https://cors.abc-akamaized.com/https://b43955-p8-hb6-aemx8pov.1.cdn.telefonica.com/_43955/dash/mlaliga.isml/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TNTSportsArgentina.ar", tvg-logo="https://i.imgur.com/FK5L1nW.png", TNT Sports Arg.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -661,6 +661,13 @@ https://sv.spliktv.xyz/live/dash/HA/25.mpd|User-Agent="Mozilla/5.0 (Windows NT 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p_1JgI-JDCUAvyGAqvQjBw","kid":"MwO0xpgvOB6p4wkAn7s_Jw"}],"type":"temporary"}
 https://api54.tvgratis.live/streams/1134/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmN7vlr.png", GOL TV Alterno
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p_1JgI-JDCUAvyGAqvQjBw","kid":"MwO0xpgvOB6p4wkAn7s_Jw"}],"type":"temporary"}
+https://sv.spliktv.xyz/live/dash/HA/0.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="NBATVHD.us", tvg-logo="https://i.imgur.com/MpMtUlK.png", NBA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
