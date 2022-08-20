@@ -276,6 +276,13 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f11
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DWcSvyqE7cyT0AGpYT9v7A","kid":"z7XitzvvTzyHjyWrhqdFHw"}],"type":"temporary"}
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, Eventos 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p_1JgI-JDCUAvyGAqvQjBw","kid":"MwO0xpgvOB6p4wkAn7s_Jw"}],"type":"temporary"}
+https://sv.spliktv.xyz/live/dash/HA/0.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="TNTSportsArgentina.ar", tvg-logo="https://i.imgur.com/FK5L1nW.png", TNT Sports Arg.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
