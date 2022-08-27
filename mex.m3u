@@ -44,8 +44,8 @@ https://edge1-zapopan.izzigo.tv/live2/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 #EXTINF:-1 , ESPN México
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OLY_mqp7fHqCLI4UyKchLg","k":"1rH0WlnS2sGnMMf1bHSXGg"}],"type":"temporary"}
 https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-HD/dash/default.mpd
 
 #EXTINF:-1 , ESPN 2 México
