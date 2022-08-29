@@ -644,7 +644,7 @@ https://b42429.2.cdn.telefonica.com/_42429/_-_psi_-_/live/disk1/Clover/DASH/Clov
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EtdjyqXIcPOnMxJht1MJYw","kid":"w0x6aLijSa+eqnHc0lAg5Q"}],"type":"temporary"}
-https://b43186.cdn.telefonica.com/sdash/LIVE$DHEHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc
+https://b43186-p4-had.2.cdn.telefonica.com/_43186/_-_jTNeRN-t6SGxVwuJkL-LQ6QShDvdQKhfZm2M3sdIr9QgGG3chJjNsgSXpwnQe1pY_-_/sdash/LIVE$DHEHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="CineLatino.mx", tvg-logo="https://i.imgur.com/4kPyNBE.png", CineLatino
 #KODIPROP:inputstreamaddon=inputstream.adaptive
