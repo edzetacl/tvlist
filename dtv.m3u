@@ -102,6 +102,9 @@ https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HmXgPuIHMdyZtXoducaZ3Q","kid":"JujrZ3+QixG23UBZiiklQA"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="TN.ar", tvg-logo="https://i.imgur.com/1cXPftL.png" , TN Youtube
+https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM&ab_channel=TodoNoticias
+
 #EXTINF:-1 tvg-id="CronicaTV.ar", tvg-logo="https://i.imgur.com/2MSVwyD.png", Cronica
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
