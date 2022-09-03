@@ -141,19 +141,40 @@ https://lbs-usp-dash-live.cmore.se/tvm-packager-prod/group3/60ae452e1522bdf30169
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}],"type":"temporary"}
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, Eleven Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FxZ5lxLHRBmOGhydNU3abQ","k":"oUjlXlU1u_t9wkwiTSaD5A"}],"type":"temporary"}
+https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Eleven Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FiUehCqDRXCoxaNNRaDWTQ","k":"tyQ3OWmMrQ1YrwHxQtE-rg"}],"type":"temporary"}
+https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1, ESPN NL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"3u8YkCg2Qyq4F9gDysKCzw","k":"hnR8vkUi6d40SemeZSk36w"}]}
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn/Manifest.mpd
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, ESPN 2 NL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"UuL4gVTLTb2gi0bjnUCHOw","k":"vLmElGNndf_YHACNulyNrg"}]}
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn2/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, ESPN 3 NL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZZ38nxVrTZmi1s9nd79o_g","k":"Kvoqg1lA6le3KlCpYvGf2w"}]}
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn3/Manifest.mpd
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn3/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TNTSportsArgentina.ar", tvg-logo="https://i.imgur.com/FK5L1nW.png", TNT Sports Arg.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
