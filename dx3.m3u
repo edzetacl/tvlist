@@ -8,6 +8,13 @@ tvg-shift=0 catchup="shift" catchup-days=6
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
+#EXTINF:-1, Eventos Champions
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gBJvbLhojKJd70i7s8MA1A","kid":"AQH540NWMfNS/HTlsZl20g"}],"type":"temporary"}
+https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031615/dash/cenc/27816/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1, V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
