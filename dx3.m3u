@@ -176,12 +176,33 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Mani
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bjWSeNTtQuaPt-ihkvRxSQ","k":"-fJinyybe9R24z_a5lvBrw"},{"kty":"oct","kid":"odgaKR6PQtKCvANE2jVJtA","k":"9k6lWV5WpdLStZ0E54-TvQ"},{"kty":"oct","kid":"uwCs2m96TGuGIxF_T2IhVg","k":"zlghf7ylNm4WUtV1T3xvgg"},{"kty":"oct","kid":"pnZtqCTASnm3dNM3yDSNgQ","k":"46QXd3V0K-BowgKYrCUK1w"}]}
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/beinsports2-hd/dash-fhddvr/beinsports2-hd.mpd
 
-#EXTINF:-1, BeIn France 3
+#EXTINF:-1, TV3 Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"YcwvCeOmQYGX5Kpq8EGjRA","k":"aEssYNnsYAshMldERkt-Vw"},{"kty":"oct","kid":"8AUZe7pFQp2XtYD8aNSWbQ","k":"E4vVj8SO0ymqtjFy30EvJg"}]}
-https://hls-m003.live-lv3.canalplus-cdn.net/live/disk/beinsports3-hd/dash-fhddvr/beinsports3-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oUR87O86ToOdWcH5lOryxg","k":"hqN2KISWoMMuEXjkITnOZg"}]}
+https://cd-stream-live.telenorcdn.net/cdgo/cd_tsat_tv3_sport1_dk_live/cd_tsat_tv3_sport1_dk_live.isml/playlist.mpd
+
+#EXTINF:-1, TV3 Max
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oUR87O86ToOdWcH5lOryxg","k":"hqN2KISWoMMuEXjkITnOZg"}]}
+https://cd-stream-live.telenorcdn.net/cdgo/cd_tsat_tv3_max_live/cd_tsat_tv3_max_live.isml/playlist.mpd
+
+#EXTINF:-1, TV2 Sports Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gfjmkHa6TvOuAL_nf99sWA","k":"RbpZ-DUcFPywiupCbKRrNQ"}]}
+https://ls4-hls-live.akamaized.net/out/u/733179.mpd
+
+#EXTINF:-1, Canal + France
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"f9V7h3OpQuOnj2l-g65i6w","k":"ZmvCI6m-u1UcaZMMn-7pDQ"},{"kty":"oct","kid":"Hin9IMK_SRiaxF3rf4k9jg","k":"AQijZoELzlFNWaxVFiEphQ"},{"kty":"oct","kid":"rpFy5fYiT4quga3h0NszcA","k":"yMHViSJlISmO_yj37mK02w"},{"kty":"oct","kid":"7CkJRDpiSr2JWJDXMPrL_w","k":"O9MfnAs7qLW7mdcT53aLBw"}]}
+https://hls-m011.live-lv3.canalplus-cdn.net/live/disk/canalplus-hd/dash-fhddvr/canalplus-hd.mpd
 
 #EXTINF:-1, ESPN NL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -294,6 +315,9 @@ http://live.entel.cl/2302/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/76
 http://live.entel.cl/2231/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
+#EXTINF:-1 tvg-id="FoxSportsChile.cl", tvg-logo="https://i.imgur.com/GrINQnV.png",ESPN 4 Chile Alterno
+https://1116-vos.dtvott.com/DASH/manifest.mpd
+
 #EXTINF:-1 tvg-id="ESPNExtraHDSouth.us", tvg-logo="https://i.imgur.com/9mbMTsR.png",ESPN Extra CL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/79
@@ -305,6 +329,9 @@ http://live.entel.cl/2350/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"K5Eke9RTZOtqtdTCxxyusA","kid":"cM6OwL2iVmSzJVDh03ekgA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1109/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Peru Alterno
+https://dtvott-abc.akamaized.net/dash_live_1109/manifest.mpd?&ck=eyI3MGNlOGVjMGJkYTI1NjY0YjMyNTUwZTFkMzc3YTQ4MCI6IjJiOTEyNDdiZDQ1MzY0ZWI2YWI1ZDRjMmM3MWNhZWIwIn0=
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Colombia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
