@@ -8,40 +8,54 @@ tvg-shift=0 catchup="shift" catchup-days=6
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
-#EXTINF:-1, Eventos Champions 1
+#EXTINF:-1, M. City vs B Dortmund
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ldg9M7qkvwi2NDhd+LiFQw","kid":"AQEI5ehys15VbGjZKTX6fQ"}],"type":"temporary"}
-https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031612/dash/cenc/27846/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JpSP6EZhq3S5ak9hWZEIGA","kid":"AQHQk/TGOvNSJR9wGxWqdQ"}],"type":"temporary"}
+https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031616/dash/cenc/27861/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Eventos Champions 2
+#EXTINF:-1, Maccabi Haifa vs PSG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BGfkVLxQsV29pxDsk7kArw","kid":"AQFcIdF5+NfbtiqM6AuUTA"}],"type":"temporary"}
-https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031615/dash/cenc/27838/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dj0XddlFIXyMDppvU/y7+A","kid":"AQEJU8RtGPxDk8Ymi/b42Q"}],"type":"temporary"}
+https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031612/dash/cenc/27869/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Eventos Champions 3
+#EXTINF:-1, Real Madrid vs RB Leipzig
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OvyJ3UvfbFOKSk7u8rfVtQ","kid":"AQEcvcePc3TQY8MZU8mz3Q"}],"type":"temporary"}
-https://live.lln.latam.hbomaxcdn.com/cmaf/live/2031616/dash/cenc/27843/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9lGDuW8RGWPqxmgtBaTNew","kid":"AQHf10VhZAYmzXNkVBeh7w"}],"type":"temporary"}
+https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031615/dash/cenc/27859/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Eventos Champions 4
+#EXTINF:-1, Rangers vs Napoli
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lygFb5U41xvjJphauPgVNA","kid":"AQFZeZBVe8ARDIA8dWETVA"}],"type":"temporary"}
-https://live.lln.latam.hbomaxcdn.com/cmaf/live/2031617/dash/cenc/27849/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/eOAgQuwvVXEoXWt3743OA","kid":"AQFSrFiSHsWYBIPRRnLAhw"}],"type":"temporary"}
+https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031881/dash/cenc/27839/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Eventos Champions 5
+#EXTINF:-1, Juventus vs Benfica
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OqmlP1zwKxvQj6TnZsRkbA","kid":"AQF67fqMc+ELNLbIPtrWLA"}],"type":"temporary"}
-https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031682/dash/cenc/27841/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NeF7vvUJg75wsC1eu/i1lQ","kid":"AQF8flqwjGSB6mQUrfOe/w"}],"type":"temporary"}
+https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031617/dash/cenc/27868/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, København vs Sevilla
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"76LQLRsQXYj60HvHjdB0zg","kid":"AQEor13jWBHNzy83S37Vfw"}],"type":"temporary"}
+https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031880/dash/cenc/27863/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Chelsea vs RB Salzburg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y8EQQb6Kdq72LOydFrSxCQ","kid":"AQHElKB9uH9aOc3IM3fg/g"}],"type":"temporary"}
+https://live.lln.latam.hbomaxcdn.com/cmaf/live/2031879/dash/cenc/27858/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
