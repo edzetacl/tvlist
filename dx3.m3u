@@ -8,54 +8,28 @@ tvg-shift=0 catchup="shift" catchup-days=6
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
-#EXTINF:-1, M. City vs B Dortmund
+#EXTINF:-1, Europa League 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JpSP6EZhq3S5ak9hWZEIGA","kid":"AQHQk/TGOvNSJR9wGxWqdQ"}],"type":"temporary"}
-https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031616/dash/cenc/27861/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6Y-dFgqlWcWBG-KFPYcpOw","k":"NDIj-2tLZCeCVzJhZWukBw"},{"kty":"oct","kid":"4uMOpMiKXfSh5b94rE9OAw","k":"6uQ0cAl5tnpF5cHLwuHpHQ"},{"kty":"oct","kid":"W2pxn0AgUgKk8JruX-LFFA","k":"UrFy8H8F3HPCTMgZWDa9_w"}]}
+https://fox-edge2-mx.tbxdrm.com/foxsports1/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Maccabi Haifa vs PSG
+#EXTINF:-1, Europa League 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dj0XddlFIXyMDppvU/y7+A","kid":"AQEJU8RtGPxDk8Ymi/b42Q"}],"type":"temporary"}
-https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031612/dash/cenc/27869/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"efwwmKWnUkqxRg3uhCjqKw","k":"vn-F48z3Pke-JwXWATUEiw"},{"kty":"oct","kid":"M5r9SdIFXHuVicUKAGc88Q","k":"d7SkrOz4sHNZ4z7UmHAhtQ"},{"kty":"oct","kid":"13yTDgaZWZ-jhD3_Z71DdQ","k":"QYGfaDSRjrUIf5emevmTXw"}]}
+https://fox-edge2-mx.tbxdrm.com/foxsports2/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Real Madrid vs RB Leipzig
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9lGDuW8RGWPqxmgtBaTNew","kid":"AQHf10VhZAYmzXNkVBeh7w"}],"type":"temporary"}
-https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031615/dash/cenc/27859/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1, Europa League 3
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
-#EXTINF:-1, Rangers vs Napoli
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/eOAgQuwvVXEoXWt3743OA","kid":"AQFSrFiSHsWYBIPRRnLAhw"}],"type":"temporary"}
-https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031881/dash/cenc/27839/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1, Europa League 4
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
-#EXTINF:-1, Juventus vs Benfica
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NeF7vvUJg75wsC1eu/i1lQ","kid":"AQF8flqwjGSB6mQUrfOe/w"}],"type":"temporary"}
-https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031617/dash/cenc/27868/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, København vs Sevilla
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"76LQLRsQXYj60HvHjdB0zg","kid":"AQEor13jWBHNzy83S37Vfw"}],"type":"temporary"}
-https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031880/dash/cenc/27863/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, Chelsea vs RB Salzburg
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y8EQQb6Kdq72LOydFrSxCQ","kid":"AQHElKB9uH9aOc3IM3fg/g"}],"type":"temporary"}
-https://live.lln.latam.hbomaxcdn.com/cmaf/live/2031879/dash/cenc/27858/master.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1, Europa League 5
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 
 #EXTINF:-1, V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -63,20 +37,6 @@ https://live.lln.latam.hbomaxcdn.com/cmaf/live/2031879/dash/cenc/27858/master.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1byekvIU13Ugq3+qHsrRCw","kid":"y9E7eog+U+mNXH800AE76A"}],"type":"temporary"}
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, V Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oUR87O86ToOdWcH5lOryxg","k":"hqN2KISWoMMuEXjkITnOZg"}]}
-https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_jalkapallo_hd_live/cdgo_viasat_jalkapallo_hd_live.isml/playlist.mpd
-
-#EXTINF:-1, V Sports +
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oUR87O86ToOdWcH5lOryxg","k":"hqN2KISWoMMuEXjkITnOZg"}]}
-https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_fi_live/cdgo_viasat_sport_fi_live.isml/playlist.mpd
 
 #EXTINF:-1, V Sports Xtra
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -98,6 +58,20 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd|User-Ag
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Eurosport 1 De
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-027/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Eurosport 2 De
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-028/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Dazn La Liga Es
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -127,19 +101,19 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd|User-Ag
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Eurosport 1 De
+#EXTINF:-1, Eurosport 1 Es
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-027/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Eurosport 2 De
+#EXTINF:-1, Eurosport 2 Es
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-028/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Eurosport 1 It
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -154,20 +128,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-029/stream.mpd|User-Ag
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-030/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, Eurosport 1 Es
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, Eurosport 2 Es
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Zona Dazn IT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -225,12 +185,12 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluelooksport/Manifest.mpd|User
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bjWSeNTtQuaPt-ihkvRxSQ","k":"-fJinyybe9R24z_a5lvBrw"},{"kty":"oct","kid":"odgaKR6PQtKCvANE2jVJtA","k":"9k6lWV5WpdLStZ0E54-TvQ"},{"kty":"oct","kid":"uwCs2m96TGuGIxF_T2IhVg","k":"zlghf7ylNm4WUtV1T3xvgg"},{"kty":"oct","kid":"pnZtqCTASnm3dNM3yDSNgQ","k":"46QXd3V0K-BowgKYrCUK1w"}]}
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/beinsports2-hd/dash-fhddvr/beinsports2-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, TV3 Max
+#EXTINF:-1, Canal + France
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oUR87O86ToOdWcH5lOryxg","k":"hqN2KISWoMMuEXjkITnOZg"}]}
-https://cd-stream-live.telenorcdn.net/cdgo/cd_tsat_tv3_max_live/cd_tsat_tv3_max_live.isml/playlist.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"f9V7h3OpQuOnj2l-g65i6w","k":"ZmvCI6m-u1UcaZMMn-7pDQ"},{"kty":"oct","kid":"Hin9IMK_SRiaxF3rf4k9jg","k":"AQijZoELzlFNWaxVFiEphQ"},{"kty":"oct","kid":"rpFy5fYiT4quga3h0NszcA","k":"yMHViSJlISmO_yj37mK02w"},{"kty":"oct","kid":"7CkJRDpiSr2JWJDXMPrL_w","k":"O9MfnAs7qLW7mdcT53aLBw"}]}
+https://hls-m011.live-lv3.canalplus-cdn.net/live/disk/canalplus-hd/dash-fhddvr/canalplus-hd.mpd
 
 #EXTINF:-1, TV2 Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -238,13 +198,6 @@ https://cd-stream-live.telenorcdn.net/cdgo/cd_tsat_tv3_max_live/cd_tsat_tv3_max_
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gfjmkHa6TvOuAL_nf99sWA","k":"RbpZ-DUcFPywiupCbKRrNQ"}]}
 https://ls4-hls-live.akamaized.net/out/u/733179.mpd
-
-#EXTINF:-1, Canal + France
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"f9V7h3OpQuOnj2l-g65i6w","k":"ZmvCI6m-u1UcaZMMn-7pDQ"},{"kty":"oct","kid":"Hin9IMK_SRiaxF3rf4k9jg","k":"AQijZoELzlFNWaxVFiEphQ"},{"kty":"oct","kid":"rpFy5fYiT4quga3h0NszcA","k":"yMHViSJlISmO_yj37mK02w"},{"kty":"oct","kid":"7CkJRDpiSr2JWJDXMPrL_w","k":"O9MfnAs7qLW7mdcT53aLBw"}]}
-https://hls-m011.live-lv3.canalplus-cdn.net/live/disk/canalplus-hd/dash-fhddvr/canalplus-hd.mpd
 
 #EXTINF:-1, ESPN NL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -444,6 +397,13 @@ https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AoKOY0akbmHpZSAs2Hh+Og","kid":"D0j5559Us41hn9JVZcTRSw"}],"type":"temporary"}
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium Alterno
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TWSbtVxMRgKLhbu0FVDLWQ","k":"7W2psf-NqUpP3BoUYQSGIg"}]}
+https://anedgesta.express.com.ar/live/c1eds/Fox_Sports_Premium_HD/SA_DASH_cipix/Fox_Sports_Premium_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
