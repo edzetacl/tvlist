@@ -178,6 +178,13 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluelookplus/Manifest.mpd|User-
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZCeWlctvT6enGPSig8ykmw","k":"7gmZOAktoBawJuH53Dj59A"}]}
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluelooksport/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, BeIn France 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"pN1fqMUrSH2fK6dJVe9jwg","k":"Y8aR2nK3hTCmfOi16iZyCA"},{"kty":"oct","kid":"EuhjOcclSmuM23Mzp46WuQ","k":"eRur-hflm3QeLTWUVbCrrA"}]}
+https://hls-m009.live-lv3.canalplus-cdn.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1, BeIn France 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -185,19 +192,26 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluelooksport/Manifest.mpd|User
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bjWSeNTtQuaPt-ihkvRxSQ","k":"-fJinyybe9R24z_a5lvBrw"},{"kty":"oct","kid":"odgaKR6PQtKCvANE2jVJtA","k":"9k6lWV5WpdLStZ0E54-TvQ"},{"kty":"oct","kid":"uwCs2m96TGuGIxF_T2IhVg","k":"zlghf7ylNm4WUtV1T3xvgg"},{"kty":"oct","kid":"pnZtqCTASnm3dNM3yDSNgQ","k":"46QXd3V0K-BowgKYrCUK1w"}]}
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/beinsports2-hd/dash-fhddvr/beinsports2-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, BeIn Max 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wAiUAQXMQ-CtFyNPDkI60A","k":"gzZUrJtotcBRqr7eBIKHWw"},{"kty":"oct","kid":"_SZSAxeLTDy2dLMn2eSQwQ","k":"h7hvlI3uDHtRI_YVtn2EVA"}]}
+https://hls-m004.live-lv3.canalplus-cdn.net/live/disk/beinsportsmax4-hd/dash-fhddvr/beinsportsmax4-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1, BeIn Max 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qV8-7doIQPSZuinTHaQ3_g","k":"b79GwqBTyxb12ifeWwsjzw"},{"kty":"oct","kid":"sVAqaTOBSCic7xPkKVtNiQ","k":"LjTPVaCesh1biolTwLBllw"}]}
-https://hls-m008.live-lv3.canalplus-cdn.net/live/disk/beinsportsmax5-hd/dash-fhddvr/beinsportsmax5-hd.mpd
+https://hls-m008.live-lv3.canalplus-cdn.net/live/disk/beinsportsmax5-hd/dash-fhddvr/beinsportsmax5-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, BeIn Max 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wI9htR0ARzi9yP-djmZzBA","k":"5GYL5CXWYo4abikDvEBIaw"},{"kty":"oct","kid":"OXHswVD-RxSJtmbVJlVhzg","k":"ltIYoOkiG1Xm3ybYGdAMcw"}]}
-https://hls-m008.live-lv3.canalplus-cdn.net/live/disk/beinsportsmax6-hd/dash-fhddvr/beinsportsmax6-hd.mpd
+https://hls-m008.live-lv3.canalplus-cdn.net/live/disk/beinsportsmax6-hd/dash-fhddvr/beinsportsmax6-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Canal + France
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -211,7 +225,35 @@ https://hls-m011.live-lv3.canalplus-cdn.net/live/disk/canalplus-hd/dash-fhddvr/c
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gfjmkHa6TvOuAL_nf99sWA","k":"RbpZ-DUcFPywiupCbKRrNQ"}]}
-https://ls4-hls-live.akamaized.net/out/u/733179.mpd
+https://ls4-hls-live.akamaized.net/out/u/733179.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Eleven Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AU589A2eSQqBKWT0qnJEng","k":"AbjKr7Iw6yoHzJZdVO9EQQ"},{"kty":"oct","kid":"nQQvonOWTiSpEJ4j9OMTzA","k":"VA42AeG4IZLHbHQRrZyMjg"},{"kty":"oct","kid":"gB2eOdQaSUGGFffO5LbgMQ","k":"hLm-wBTwUJ7ipCluWHfPQA"}]}
+https://opl-n02.cdn-ncplus.pl/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Eleven Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"cb5vloq1Sou4R7WLvHxijg","k":"PdkH__2__X7AG0AlrZfsag"},{"kty":"oct","kid":"Th3zJ8ZhRy-WMZ3X6Yv1vQ","k":"NiY_hcPCWhMfR87pCSTh8w"}]}
+https://opl-n02.cdn-ncplus.pl/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Eleven Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zhJdevSKRXmdZxlBEl7VXg","k":"lzWZUX8x87Qyf6l19UntKw"},{"kty":"oct","kid":"VbGeop_dTJaCVTH5alBN8Q","k":"puxhPg6t-5I_-BbkyMaKSg"},{"kty":"oct","kid":"HeYhDBsGS5KMW7AD2nAj5Q","k":"0etZsXjIlTnXyvECKWgQfg"}]}
+https://opl-n02.cdn-ncplus.pl/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, Eleven Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LH3qL6VjQkeJ6iAGdeVoFw","k":"W_S4R5ffWorBScW7adY5xA"},{"kty":"oct","kid":"C8gRqqEKTDGYqjtmeRmDgg","k":"YJsMmH0WV_Gtx6pTrnMyAA"},{"kty":"oct","kid":"pmJybLiARFGWHTVtZbqEUA","k":"R_NitEi9j2PSQC1CjTUq7Q"}]}
+https://opl-n02.cdn-ncplus.pl/live/store01/11Sports4/hd2-dashdrm02/11Sports4.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN NL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
