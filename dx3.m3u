@@ -192,20 +192,6 @@ https://hls-m009.live-lv3.canalplus-cdn.net/live/disk/beinsports1-hd/dash-fhddvr
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bjWSeNTtQuaPt-ihkvRxSQ","k":"-fJinyybe9R24z_a5lvBrw"},{"kty":"oct","kid":"odgaKR6PQtKCvANE2jVJtA","k":"9k6lWV5WpdLStZ0E54-TvQ"},{"kty":"oct","kid":"uwCs2m96TGuGIxF_T2IhVg","k":"zlghf7ylNm4WUtV1T3xvgg"},{"kty":"oct","kid":"pnZtqCTASnm3dNM3yDSNgQ","k":"46QXd3V0K-BowgKYrCUK1w"}]}
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/beinsports2-hd/dash-fhddvr/beinsports2-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, BeIn Max 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wAiUAQXMQ-CtFyNPDkI60A","k":"gzZUrJtotcBRqr7eBIKHWw"},{"kty":"oct","kid":"_SZSAxeLTDy2dLMn2eSQwQ","k":"h7hvlI3uDHtRI_YVtn2EVA"}]}
-https://hls-m004.live-lv3.canalplus-cdn.net/live/disk/beinsportsmax4-hd/dash-fhddvr/beinsportsmax4-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, BeIn Max 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qV8-7doIQPSZuinTHaQ3_g","k":"b79GwqBTyxb12ifeWwsjzw"},{"kty":"oct","kid":"sVAqaTOBSCic7xPkKVtNiQ","k":"LjTPVaCesh1biolTwLBllw"}]}
-https://hls-m008.live-lv3.canalplus-cdn.net/live/disk/beinsportsmax5-hd/dash-fhddvr/beinsportsmax5-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1, BeIn Max 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -226,34 +212,6 @@ https://hls-m011.live-lv3.canalplus-cdn.net/live/disk/canalplus-hd/dash-fhddvr/c
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gfjmkHa6TvOuAL_nf99sWA","k":"RbpZ-DUcFPywiupCbKRrNQ"}]}
 https://ls4-hls-live.akamaized.net/out/u/733179.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, Eleven Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AU589A2eSQqBKWT0qnJEng","k":"AbjKr7Iw6yoHzJZdVO9EQQ"},{"kty":"oct","kid":"nQQvonOWTiSpEJ4j9OMTzA","k":"VA42AeG4IZLHbHQRrZyMjg"},{"kty":"oct","kid":"gB2eOdQaSUGGFffO5LbgMQ","k":"hLm-wBTwUJ7ipCluWHfPQA"}]}
-https://opl-n02.cdn-ncplus.pl/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, Eleven Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"cb5vloq1Sou4R7WLvHxijg","k":"PdkH__2__X7AG0AlrZfsag"},{"kty":"oct","kid":"Th3zJ8ZhRy-WMZ3X6Yv1vQ","k":"NiY_hcPCWhMfR87pCSTh8w"}]}
-https://opl-n02.cdn-ncplus.pl/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, Eleven Sports 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zhJdevSKRXmdZxlBEl7VXg","k":"lzWZUX8x87Qyf6l19UntKw"},{"kty":"oct","kid":"VbGeop_dTJaCVTH5alBN8Q","k":"puxhPg6t-5I_-BbkyMaKSg"},{"kty":"oct","kid":"HeYhDBsGS5KMW7AD2nAj5Q","k":"0etZsXjIlTnXyvECKWgQfg"}]}
-https://opl-n02.cdn-ncplus.pl/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, Eleven Sports 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LH3qL6VjQkeJ6iAGdeVoFw","k":"W_S4R5ffWorBScW7adY5xA"},{"kty":"oct","kid":"C8gRqqEKTDGYqjtmeRmDgg","k":"YJsMmH0WV_Gtx6pTrnMyAA"},{"kty":"oct","kid":"pmJybLiARFGWHTVtZbqEUA","k":"R_NitEi9j2PSQC1CjTUq7Q"}]}
-https://opl-n02.cdn-ncplus.pl/live/store01/11Sports4/hd2-dashdrm02/11Sports4.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN NL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -437,13 +395,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iG1hL7FqzrFy22j9MBanNw","kid":"ZtoxBw6sWPytuRGASRfqKA"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us", tvg-logo="https://i.imgur.com/9mbMTsR.png", ESPN Extra Alterno
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+4XQWWh6sPxngFgGIE7b3w","kid":"zI1EQG7WvxiYrZ96LWTyng"}],"type":"temporary"}
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
@@ -473,7 +424,7 @@ https://api54.tvgratis.live/streams/1108/manifest.mpd|User-Agent="Mozilla/5.0 (W
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-HD/dash/default.mpd
+https://edge2-zapopan.izzigo.tv/live1/out/u/dash/ESPN-HD/dash/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png", ESPN 2 Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -487,7 +438,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-2-HD/dash/default.mpd
+https://edge2-zapopan.izzigo.tv/live1/out/u/dash/ESPN-2-HD/dash/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nwk5HID.png", ESPN 3 MX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -501,14 +452,14 @@ https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bz6FZCEiJZsJb8uld/Uymg","kid":"Hk//rgdjAT1ItGqLBj0Rpg"}],"type":"temporary"}
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-3-HD/dash/default.mpd
+https://edge2-zapopan.izzigo.tv/live1/out/u/dash/ESPN-3-HD/dash/default.mpd
 
 #EXTINF:-1 , ESPN Extra Mexico
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-PLUS-HD/dash/default.mpd
+https://edge2-zapopan.izzigo.tv/live1/out/u/dash/ESPN-PLUS-HD/dash/default.mpd
 
 #EXTINF:-1, ESPN Brasil
 http://api.magiaiptv.com/live/800509/092145/m3_ScQBL06LuJftF_720p_2M
@@ -584,7 +535,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-HD/dash/default.mpd
+https://edge2-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-HD/dash/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2 Mx (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -615,7 +566,14 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
+https://edge2-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-3-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 , Fox Sports Premium Mx
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ugwu-QmtXXintaDm4gnnJg","k":"vOSbd2cApcsFgg8LLWvNGQ"},{"kty":"oct","kid":"rB6goM89WvuhtXIp7bl8jw","k":"_TPjb1_ckothvpv6etEfUw"},{"kty":"oct","kid":"sgApdw9JVQeRoYcVrnX2uw","k":"wnYtZvpM1ElSv3SofyX-YA"}]}
+https://fox-edge2-mx.tbxdrm.com/foxsportspremium/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXxVQwX.png", DirecTV Sports Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
