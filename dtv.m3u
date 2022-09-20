@@ -516,6 +516,13 @@ https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rkPz4lRSN+vaWLE4E7XTKA","kid":"eCGyZiFI/jM9UZGsu4pcHw"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 , DreamWorks
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QEzE+0X4LJp9/9PSSWzKIA","kid":"olXhOE2z6c5+A0noqpufdw"}],"type":"temporary"}
+https://edge2-zapopan.izzigo.tv/live2/out/u/dash/DREAM-WORKS-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="StarChannelSouth.us", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
