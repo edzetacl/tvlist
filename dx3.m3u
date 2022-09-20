@@ -324,9 +324,6 @@ http://live.entel.cl/2302/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/76
 http://live.entel.cl/2231/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 tvg-id="FoxSportsChile.cl", tvg-logo="https://i.imgur.com/GrINQnV.png",ESPN 4 Chile Alterno
-https://1116-vos.dtvott.com/DASH/manifest.mpd
-
 #EXTINF:-1 tvg-id="ESPNExtraHDSouth.us", tvg-logo="https://i.imgur.com/9mbMTsR.png",ESPN Extra CL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/79
@@ -338,9 +335,6 @@ http://live.entel.cl/2350/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"K5Eke9RTZOtqtdTCxxyusA","kid":"cM6OwL2iVmSzJVDh03ekgA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1109/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Peru Alterno
-https://dtvott-abc.akamaized.net/dash_live_1109/manifest.mpd?&ck=eyI3MGNlOGVjMGJkYTI1NjY0YjMyNTUwZTFkMzc3YTQ4MCI6IjJiOTEyNDdiZDQ1MzY0ZWI2YWI1ZDRjMmM3MWNhZWIwIn0=
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Colombia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -467,14 +461,11 @@ http://api.magiaiptv.com/live/800509/092145/m3_ScQBL06LuJftF_720p_2M
 #EXTINF:-1, ESPN 2 Brasil
 http://api.magiaiptv.com/live/800509/092145/m1_jK8qbRUeI8qNMLCC_720p_2M
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrINQnV.png", ESPN 4 Brasil
+http://191.37.250.169:8801/live/FoxSportsHD/720p.m3u8
+
 #EXTINF:-1, ESPN Extra Brasil
 http://api.magiaiptv.com/live/800509/092145/m1_ByxjeSWip68MPJsHRqZ2vku_720p
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrINQnV.png", ESPN 4 BR
-http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrINQnV.png", ESPN 4 BR Alterno
-http://191.37.250.169:8801/live/FoxSportsHD/720p.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar", tvg-logo="https://i.imgur.com/10df48I.png", Fox Sports Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
