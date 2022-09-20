@@ -202,6 +202,20 @@ https://api54.tvgratis.live/streams/1249/manifest.mpd|User-Agent="Mozilla/5.0 (W
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FHIJNuBqFsuVClci1bdjUQ","kid":"KJ4KrLzQRbqY86vn9FqXMA"}],"type":"temporary"}
 https://b41832.2.cdn.telefonica.com/live/disk1/RPP/DASH/RPP.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5hKOz3c.png", Panamericana Peru
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nDUNBbWlQ02qNpdwH384yA","k":"elXCgLb84Ke2CcxcjX7mRg"}]}
+https://b41835.2.cdn.telefonica.com/live/disk1/Panamericana/DASH/Panamericana.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5hKOz3c.png", Canal N Peru
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cGYDlgHbAfLwkaCgvfSCDw","kid":"vAeRhFfuQYOuP/Zu6AaS1A"}],"type":"temporary"}
+https://b41834.2.cdn.telefonica.com/live/disk1/CanalNHD/DASH/CanalNHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7afOgRS.png", RCN Colombia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
