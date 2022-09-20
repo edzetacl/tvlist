@@ -810,6 +810,13 @@ https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"U5ge6mK2ptoaOklY3FdDbA","kid":"m24hGfo6VI2gvIp7IG9RdA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQWgAVC.png", Love Nature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jrPSankHTIKIGfdb99SEww","k":"Qtws-VRE7L3UJn0JgWSi7Q"}]}
+index.html#https://b45479.2.cdn.telefonica.com/live/disk1/LoveNature/DASH/LoveNature.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UhxcIqw.png", Baby TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -829,7 +836,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rUqjjLOcED2Zi+woUVHmCQ","kid":"pCH8O4jRTwSBtmpOumsgnw"}],"type":"temporary"}
-https://b42570-p10-h28-ahzy68sm.2.cdn.telefonica.com/_42570/_-__4ArIpvcjB1AP43YW1itK6W1kZJrgFnDRkotaOBelCC8NIOGRN2IShgApvITc4W7_-_/live/disk1/MTV/MTV_CN_DASH_SD/MTV.mpd
+https://b42570.2.cdn.telefonica.com/live/disk1/MTV/DASH/MTV.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJgHoSn.png", MTV Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
