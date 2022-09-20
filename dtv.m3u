@@ -845,6 +845,13 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hi
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gCyJxrrmokWqr89AwZhvwQ","kid":"HwwJ7Z5YQc+Ge6brPN/WHQ"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I2BPlh1.png", MTV 00s HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-9QWjWj8SsKybIY6zE4K0A","k":"NJXDr5dr51PPP7skWPRN6g"}]}
+https://b42559.4.cdn.telefonica.com/_42559/sdash/LIVE$VH1HD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LiveL-M
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PR5Jv1R.png", Nick Music
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
