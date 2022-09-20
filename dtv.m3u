@@ -656,13 +656,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"tcflTw88RuGFTzbD-fIUkw","k":"Np4vhObe9F1nPspy9-GCNg"}],"type":"temporary"}
 https://b42429.cdn.telefonica.com/live/disk1/Clover/DASH/Clover.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="DHE.us", tvg-logo="https://i.imgur.com/dqMwe4X.png", Canal DHE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EtdjyqXIcPOnMxJht1MJYw","kid":"w0x6aLijSa+eqnHc0lAg5Q"}],"type":"temporary"}
-https://b43186.cdn.telefonica.com/live/disk1/DHEHD/DASH/DHEHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpoO1QS.png", CineAr
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -814,8 +807,8 @@ https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jrPSankHTIKIGfdb99SEww","k":"Qtws-VRE7L3UJn0JgWSi7Q"}]}
-index.html#https://b45479.2.cdn.telefonica.com/live/disk1/LoveNature/DASH/LoveNature.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jrPSankHTIKIGfdb99SEww","k":"Qtws-VRE7L3UJn0JgWSi7Q"}],"type":"temporary"}
+https://b45479.2.cdn.telefonica.com/live/disk1/LoveNature/DASH/LoveNature.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UhxcIqw.png", Baby TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
