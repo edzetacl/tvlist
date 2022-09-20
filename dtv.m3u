@@ -656,6 +656,13 @@ https://b42429.2.cdn.telefonica.com/_42429/_-_psi_-_/live/disk1/Clover/DASH/Clov
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EtdjyqXIcPOnMxJht1MJYw","kid":"w0x6aLijSa+eqnHc0lAg5Q"}],"type":"temporary"}
 https://b43186-p4-had.2.cdn.telefonica.com/_43186/_-_jTNeRN-t6SGxVwuJkL-LQ6QShDvdQKhfZm2M3sdIr9QgGG3chJjNsgSXpwnQe1pY_-_/sdash/LIVE$DHEHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OpoO1QS.png", CineAr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Y4K2J5CHQCcUtoJGiMRW3w","kid":"1E9A5J0pRcGjcBwIhf8LAA"}],"type":"temporary"}
+https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="CineLatino.mx", tvg-logo="https://i.imgur.com/4kPyNBE.png", CineLatino
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -697,6 +704,13 @@ https://dtvott-cbc.akamaized.net/dash_live_1212/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vuLGjW5.png", Pasiones
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0cU91U/2w+dHcFE6QebwzA","kid":"4fAfVf7SQmWeas3qJnWvKQ"}],"type":"temporary"}
+https://b45458.cdn.telefonica.com/live/disk1/Pasiones/DASH/Pasiones.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TCMSouth.us", tvg-logo="https://i.imgur.com/WAjfEWH.png", Turner Classic Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
