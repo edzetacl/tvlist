@@ -958,6 +958,13 @@ https://ztnr.rtve.es/ztnr/3293681.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gycXR1sqURW3-VsAWgzgpw","k":"EDMcSqASkkZXJhpPkI-sIw"},{"kty":"oct","kid":"ouM52dqBV9-QsE6xKw7wgg","k":"43f2pxhvIro1sLVrr2XQ9Q"},{"kty":"oct","kid":"6LmGYdzuVwa6PpwxnaXu_A","k":"CJFMPdStFajMbqqlqy6spg"}]}
 https://tvup-live.secure.footprint.net/la1-neutra/la1-neutra.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nBvllys.png", Antena 3 España
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZAoYdfENWMGIBFy6vI6_Cw","k":"QA7_Hh3uXaHl9n3HvUbx2A"},{"kty":"oct","kid":"7FGm0CTJV_OrC5dyidAa1g","k":"MumLUd5FP95wYv6Yl_hgFg"},{"kty":"oct","kid":"yWcoFiHUUPW9SvX8Ll02jw","k":"ozCEBkoeB0xHbQanAx0_1A"}]}
+https://tvup-live.secure2.footprint.net/antena3hd/antena3hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 , Alternativos
 <<<<<<<<<<<---------->>>>>>>>>>
 
