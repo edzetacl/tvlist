@@ -8,6 +8,84 @@ tvg-shift=0 catchup="shift" catchup-days=6
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RkFyu8Qik433ZjO/OoorVA","kid":"/kmUA0XdXkC+j2wWOgiK/w"}],"type":"temporary"}
 https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="TN.ar", tvg-logo="https://i.imgur.com/1cXPftL.png" , Todo Noticias
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"j3xTv+At800lPrYefQGueQ","kid":"s2PjWlB1WJmD/sTi90+QuQ"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="TN.ar", tvg-logo="https://i.imgur.com/1cXPftL.png" , TN Alterno
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HmXgPuIHMdyZtXoducaZ3Q","kid":"JujrZ3+QixG23UBZiiklQA"}],"type":"temporary"}
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="TN.ar", tvg-logo="https://i.imgur.com/1cXPftL.png" , TN Youtube
+https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM&ab_channel=TodoNoticias
+
+#EXTINF:-1 tvg-id="CronicaTV.ar", tvg-logo="https://i.imgur.com/2MSVwyD.png", Cronica
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"izhVxj-FZ7nT9UZdwK1gVg","kid":"WHCJgcHCWum1_r2hbsOcWw"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="A24.ar", tvg-logo="https://i.imgur.com/1nfF6od.png", A24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9B3NW7ERtuvJVZdB2Yt7gQ","kid":"QKqKNGf8V5Cld5ohkItKdQ"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar", tvg-logo="https://i.imgur.com/s4ejT3k.png", La Nacion +
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9Oree7w5slQCrPowG7rQSg","k":"p00d9CNadIeDJ6qNU_8oPA"}]}
+https://edge-live17-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="C5N.ar", tvg-logo="https://i.imgur.com/WbQUIDR.png", C5N
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JsNlBbKjRUIB3Mg3DeDuBw","kid":"Y7uQr-elXKuwH8rCBTU7JQ"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="Canal26.ar", tvg-logo="https://i.imgur.com/UxJf0KO.png", Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YR0e0p.png", IP
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+#EXTINF:-1 tvg-id="CNNenEspanol.us", tvg-logo="https://i.imgur.com/rTROakk.png", CNN Es
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UMWNVomRd30Lw//I9oA8kg","kid":"NbE4MSDaWZmC26fVtFZfDg"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="CNNenEspanol.us", tvg-logo="https://i.imgur.com/rTROakk.png", CNN Es HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CyDtnaDlRXyd_TrgtgkkkQ","k":"mJl6cCDBjLKBdKJJAUeDCg"}]}
+https://edge-live17-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PE707F1.png", France 24
+https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XDJPzMznAjU&ab_channel=FRANCE24Espa%C3%B1ol
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Bzo6Ei.png", 24 Horas España
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.cl", tvg-logo="https://i.imgur.com/7HmsUh2.png", 24 Horas Chile
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AV0P7HT3H/dxFLtDnvB6iw","kid":"0VawiaObXoG+Hqim0cn8Tg"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1001/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="LaRed.cl", tvg-logo="https://i.imgur.com/LyvREi7.png", La Red Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -28,13 +106,6 @@ https://dtvott-abc.akamaized.net/dash_live_1236/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KdQjVRo5SRn+URfa127Esg","kid":"4d5YD8QzWd6ayGoBkXiGpg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1221/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="24Horas.cl", tvg-logo="https://i.imgur.com/7HmsUh2.png", 24 Horas Chile
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AV0P7HT3H/dxFLtDnvB6iw","kid":"0VawiaObXoG+Hqim0cn8Tg"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1001/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TVN.cl", tvg-logo="https://i.imgur.com/2Z1f7cH.png", TV Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -88,64 +159,6 @@ https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q5Ctdr0.png", Telemax Argentina
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar", tvg-logo="https://i.imgur.com/1cXPftL.png" , Todo Noticias
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"j3xTv+At800lPrYefQGueQ","kid":"s2PjWlB1WJmD/sTi90+QuQ"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="TN.ar", tvg-logo="https://i.imgur.com/1cXPftL.png" , TN Alterno
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HmXgPuIHMdyZtXoducaZ3Q","kid":"JujrZ3+QixG23UBZiiklQA"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="TN.ar", tvg-logo="https://i.imgur.com/1cXPftL.png" , TN Youtube
-https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM&ab_channel=TodoNoticias
-
-#EXTINF:-1 tvg-id="CronicaTV.ar", tvg-logo="https://i.imgur.com/2MSVwyD.png", Cronica
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"izhVxj-FZ7nT9UZdwK1gVg","kid":"WHCJgcHCWum1_r2hbsOcWw"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="A24.ar", tvg-logo="https://i.imgur.com/1nfF6od.png", A24
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9B3NW7ERtuvJVZdB2Yt7gQ","kid":"QKqKNGf8V5Cld5ohkItKdQ"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="LaNacionPlus.ar", tvg-logo="https://i.imgur.com/s4ejT3k.png", La Nacion +
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lBC6rySf-PDNbc7QHs8vXQ","kid":"QLfWxCj0U0mLuO_R6p9Lhw"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="C5N.ar", tvg-logo="https://i.imgur.com/WbQUIDR.png", C5N
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JsNlBbKjRUIB3Mg3DeDuBw","kid":"Y7uQr-elXKuwH8rCBTU7JQ"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="Canal26.ar", tvg-logo="https://i.imgur.com/UxJf0KO.png", Canal 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YR0e0p.png", IP
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-
-#EXTINF:-1 tvg-id="CNNenEspanol.us", tvg-logo="https://i.imgur.com/rTROakk.png", CNN Es
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UMWNVomRd30Lw//I9oA8kg","kid":"NbE4MSDaWZmC26fVtFZfDg"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W6UAt4h.png", TC Ecuador
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -174,6 +187,19 @@ https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rFHj_VTIecdJJIeViY6-SA","kid":"XtckypWNV6S5opQv6PqH1g"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1186/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HthW7kl.png", Ecuador TV
+https://streaming.ecuadortv.ec/hls/key-0a1dbc53-65b9-4207-a796-2ad2afff4666lfuQfxKbLr_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Br23LCq.png", Teleamazonas Ecuador
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-08tt84qQWGG1ZewfFnISg","k":"QpUCfEtGcjKXcuqh1zr2gA"}]}
+https://b42747.2.cdn.telefonica.com/live/disk1/Teleamazonas/DASH/Teleamazonas.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SCrWq1o.png", ATV Peru
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
 #EXTINF:-1 tvg-id="Latina.pe", tvg-logo="https://i.imgur.com/TmQwVfw.png", Latina Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -195,6 +221,13 @@ https://api58.tvgratis.live/streams/1011/manifest.mpd|User-Agent="Mozilla/5.0 (W
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9oLcsgxwaCdYQEEZFredhQ","kid":"4BQOjGDSNiqZgvlydtDhpA"}],"type":"temporary"}
 https://api58.tvgratis.live/streams/1249/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rknjTyi.png", Global Peru
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cyOskVNva1B0CbgGCJPXgg","kid":"3LrhaHs4UReZa8Lcxl85Kg"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1133/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9E0sBNn.png", RPP Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -209,7 +242,7 @@ https://b41832.2.cdn.telefonica.com/live/disk1/RPP/DASH/RPP.mpd|User-Agent="Mozi
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nDUNBbWlQ02qNpdwH384yA","k":"elXCgLb84Ke2CcxcjX7mRg"}]}
 https://b41835.2.cdn.telefonica.com/live/disk1/Panamericana/DASH/Panamericana.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5hKOz3c.png", Canal N Peru
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZsZUSD.png", Canal N Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -262,8 +295,8 @@ https://edge-live15-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VAMaJ82U6nXegn4xRPe+Rw","kid":"uWFlFQijrHX+Mw7AKJ4DQQ"}],"type":"temporary"}
-https://edge-live15-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b7l0Z8Dw6hP4bUGnDgKcUQ","kid":"jdNHgtdU+Pyx6LONqf+tCw"}],"type":"temporary"}
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKPoInD.png", Canal 12 Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -440,6 +473,13 @@ https://api58.tvgratis.live/streams/1251/manifest.mpd|User-Agent="Mozilla/5.0 (W
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p_1JgI-JDCUAvyGAqvQjBw","kid":"MwO0xpgvOB6p4wkAn7s_Jw"}],"type":"temporary"}
 https://api58.tvgratis.live/streams/1134/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dWcSKbT.png", IVC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2Bd+vRX4k/xrucUSKo1z8w","kid":"TFY1yo+LUyuw8GEXnAveOg"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1153/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="NBATVHD.us", tvg-logo="https://i.imgur.com/MpMtUlK.png", NBA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -538,7 +578,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rkPz4lRSN+vaWLE4E7XTKA","kid":"eCGyZiFI/jM9UZGsu4pcHw"}],"type":"temporary"}
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 , DreamWorks
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YC9C1P.png", DreamWorks
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -921,49 +961,10 @@ https://tvup-live.secure.footprint.net/la1-neutra/la1-neutra.mpd|User-Agent="Moz
 #EXTINF:-1 , Alternativos
 <<<<<<<<<<<---------->>>>>>>>>>
 
-#EXTINF:-1 , America TV
-https://cvi.cdn.rcs.net.ar/mnp/america/output.mpd
-
-#EXTINF:-1, TVP
-https://cvi.cdn.rcs.net.ar/mnp/tvp/output.mpd
-
-#EXTINF:-1, Canal 9
-https://cvi.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-
 #EXTINF:-1, El Trece
 http://181.30.129.66:80/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 
-#EXTINF:-1, El 13
-https://cvi.cdn.rcs.net.ar/mnp/el13/output.mpd
-
-#EXTINF:-1, TN
-https://cvi.cdn.rcs.net.ar/mnp/tn/output.mpd
-
-#EXTINF:-1, Cronica
-https://cvi.cdn.rcs.net.ar/mnp/cronica/output.mpd
-
-#EXTINF:-1, Fox Sports 2 Arg. 2
-https://cvi.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
-
-#EXTINF:-1, ESPN Arg. Op2
-https://cvi.cdn.rcs.net.ar/mnp/espn/output.mpd
-
-#EXTINF:-1, ESPN 2 Arg. Op2
-https://cvi.cdn.rcs.net.ar/mnp/espn2/output.mpd
-
-#EXTINF:-1, ESPN 3 Arg. Op2
-https://cvi.cdn.rcs.net.ar/mnp/espn3/output.mpd
-
-#EXTINF:-1, ESPN Extra
-https://cvi.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
-
-#EXTINF:-1, ESPN Premium Op2
-https://cvi.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-
-#EXTINF:-1, TNT Sports Arg. Op1
-https://cvi.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-
-#EXTINF:-1, TNT Sports 3 (Opcion 2)
+#EXTINF:-1, TNT Sports 3 (Chile)
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1, BeIn Sports Xtra Eng.
@@ -976,12 +977,6 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1, CNN International
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-
-#EXTINF:-1, Trece Colombia
-https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1, Telepacifico Colombia
-https://stream.logicideas.media/telepacifico-live/live.smil/.m3u8
 
 #EXTINF:-1, Pluto Classic Music
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=64c9&deviceDNT=0&deviceModel=0
@@ -1083,7 +1078,7 @@ https://1125-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZfgC1Anifc3hxJpzcYSRBA","kid":"eFn5l4WTMi+Q1vRx0lgn+A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"eFn5l4WTMi-Q1vRx0lgn-A","k":"ZfgC1Anifc3hxJpzcYSRBA"}]}
 https://1039-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, TyC
