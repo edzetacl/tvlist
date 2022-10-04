@@ -736,6 +736,9 @@ https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8?Playlist
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal Alterna 3
 https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r55JJN0/Logo-C24-H.png", 24HTVN Senal Alterna 4
+https://mdstrm.com/live-stream-playlist-v/5653641561b4eba30a7e4929.m3u8?
+
 #EXTINF:-1  tvg-id="TVN.cl", tvg-logo="https://i.imgur.com/2Z1f7cH.png", TV Chile Internacional
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
