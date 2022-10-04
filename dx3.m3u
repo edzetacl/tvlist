@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
-#EXTINF:-1, ADNTV
-https://mdstrm.com/live-stream-playlist/5f75ce917d38710784c471a6.m3u8?uid=yooAsplHqXAEK4Rams6QD3EUK6Uq6O4q&sid=JBnsL5zowwuz0l7BkukHLgaMNA2ZEZQg&pid=mEdXSTiQcPQ1Ig0jGlR3cw1eFk41hT57&an=screen&at=web-app&av=v5.2.279&ref=https%3A%2F%2Flive.amplificador.cl%2F&res=351x197&without_cookies=false&listenerid=&dnt=true&access_token=ZBpYsqOGDxKohzezBA4kXqciE8Q5amdoIIhVJqrR31Clc2Ph8934iGb44vxmRHa20bvt7HzYuBN
-
 #EXTINF:-1, Eventos Flow 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
