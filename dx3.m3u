@@ -175,21 +175,21 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluelooksport/Manifest.mpd|User
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"pN1fqMUrSH2fK6dJVe9jwg","k":"Y8aR2nK3hTCmfOi16iZyCA"},{"kty":"oct","kid":"EuhjOcclSmuM23Mzp46WuQ","k":"eRur-hflm3QeLTWUVbCrrA"}]}
-https://hls-m009.live-lv3.canalplus-cdn.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://hls-m009.live-lv3.canalplus-cdn.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd
 
 #EXTINF:-1, BeIn France 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bjWSeNTtQuaPt-ihkvRxSQ","k":"-fJinyybe9R24z_a5lvBrw"},{"kty":"oct","kid":"odgaKR6PQtKCvANE2jVJtA","k":"9k6lWV5WpdLStZ0E54-TvQ"},{"kty":"oct","kid":"uwCs2m96TGuGIxF_T2IhVg","k":"zlghf7ylNm4WUtV1T3xvgg"},{"kty":"oct","kid":"pnZtqCTASnm3dNM3yDSNgQ","k":"46QXd3V0K-BowgKYrCUK1w"}]}
-https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/beinsports2-hd/dash-fhddvr/beinsports2-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/beinsports2-hd/dash-fhddvr/beinsports2-hd.mpd
 
-#EXTINF:-1, BeIn Max 6
+#EXTINF:-1, BeIn France 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wI9htR0ARzi9yP-djmZzBA","k":"5GYL5CXWYo4abikDvEBIaw"},{"kty":"oct","kid":"OXHswVD-RxSJtmbVJlVhzg","k":"ltIYoOkiG1Xm3ybYGdAMcw"}]}
-https://hls-m008.live-lv3.canalplus-cdn.net/live/disk/beinsportsmax6-hd/dash-fhddvr/beinsportsmax6-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"YcwvCeOmQYGX5Kpq8EGjRA","k":"aEssYNnsYAshMldERkt-Vw"},{"kty":"oct","kid":"8AUZe7pFQp2XtYD8aNSWbQ","k":"E4vVj8SO0ymqtjFy30EvJg"}]}
+https://hls-m003.live-lv3.canalplus-cdn.net/live/disk/beinsports3-hd/dash-fhddvr/beinsports3-hd.mpd
 
 #EXTINF:-1, Canal + France
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -616,6 +616,13 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyC
 
 #EXTINF:-1 tvg-id="TyCSports.ar", tvg-logo="https://i.imgur.com/KKrgzI3.png", TyC Sports Internacional
 http://181.65.199.218:8000/play/a0c0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKrgzI3.png", TyC Sports Internacional (Flow)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WOHr512UT2qY6mexx8Clcg","kid":"HDEbBp284xzo5ipufiQz6w"}],"type":"temporary"}
+https://edge-live14-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="VTV.uy", tvg-logo="https://i.imgur.com/NIXBKFF.png", VTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
