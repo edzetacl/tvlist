@@ -8,14 +8,20 @@ tvg-shift=0 catchup="shift" catchup-days=6
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
-#EXTINF:-1, Europa League 3
+#EXTINF:-1, Eventos 2
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
-#EXTINF:-1, Europa League 4
+#EXTINF:-1, Eventos 3
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
-#EXTINF:-1, Europa League 5
+#EXTINF:-1, Eventos 4
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
+
+#EXTINF:-1, Eventos 5
+https://piratilla.com/693016/hls/eurosport1.m3u8
+
+#EXTINF:-1, Eventos 6
+https://piratilla.com/693016/hls/eurosport2.m3u8
 
 #EXTINF:-1, V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
