@@ -155,6 +155,13 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluelookplus/Manifest.mpd|User-
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZCeWlctvT6enGPSig8ykmw","k":"7gmZOAktoBawJuH53Dj59A"}]}
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluelooksport/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, Prima Sports 3 RO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8pnvm2Z2T5Kn8cR1dZ-z0A","k":"AP4q2HTk07IgXEzLDGUGyw"}]}
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluelooksport3ro/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1, BeIn France 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
