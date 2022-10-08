@@ -197,6 +197,13 @@ https://hls-m011.live-lv3.canalplus-cdn.net/live/disk/canalplus-hd/dash-fhddvr/c
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gfjmkHa6TvOuAL_nf99sWA","k":"RbpZ-DUcFPywiupCbKRrNQ"}]}
 https://ls4-hls-live.akamaized.net/out/u/733179.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, TV2 Sports X
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ANgRaAWrNXiqmM3p55umDQ","k":"erIrpejLjE1n9mbxtwMYnw"}]}
+https://tv2-play-ew-live-aws-arn-dash.secure.footprint.net/__cl/cg:live/__c/tv2_sport_x/__op/cenc/__f/single.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN NL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
