@@ -1,57 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
-#EXTINF:-1, Setanta Sport
-https://livetv.mylifeisgood.ml/channels/setantahd
-
-#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
-https://bit.ly/sportbein1
-
-#EXTINF:-1, BEIN SPORT 2 HD 🇶🇦
-https://bit.ly/sportbein22
-
-#EXTINF:-1, BEIN SPORT 3 HD 🇶🇦
-https://bit.ly/sportbein3
-
-#EXTINF:-1, BEIN SPORT 4 HD 🇶🇦
-https://bit.ly/sportbein4
-
-#EXTINF:-1, BEIN SPORT 5 HD 🇶🇦
-https://bit.ly/sportbein5
-
-#EXTINF:-1, BEIN SPORT 6 HD 🇶🇦
-https://bit.ly/sportbein6
-
-#EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
-https://bit.ly/sportbein7
-
-#EXTINF:-1, BEIN SPORT 1 🇬🇧
-http://golive.yn.lt/live/ucl/02.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 🇬🇧
-http://golive.yn.lt/live/bola/07.m3u8
-
-#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-
-#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-
-#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-
-#EXTINF:-1,ELEVEN SPORTS 4 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-
-#EXTINF:-1,ELEVEN SPORTS 5 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
-
-#EXTINF:-1,ELEVEN SPORTS 6 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
-
-#EXTINF:-1, TUDN 🇲🇽
-http://54.39.19.162:8081/live/dream1/playlist.m3u8
-
 #EXTINF:-1, Eventos Flow 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -213,33 +162,40 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluelooksport/Manifest.mpd|User
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8pnvm2Z2T5Kn8cR1dZ-z0A","k":"AP4q2HTk07IgXEzLDGUGyw"}]}
 https://m7rovideolive.solocoo.tv/blueskylive2dash/bluelooksport3ro/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, Prima Sports 4 RO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NtxA4MrbQ46sHx9_Ic9PYQ","k":"uukDyDKMpkYiTrs8FsJZ4Q"}]}
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluelooksport2ro/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1, BeIn France 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"pN1fqMUrSH2fK6dJVe9jwg","k":"Y8aR2nK3hTCmfOi16iZyCA"},{"kty":"oct","kid":"EuhjOcclSmuM23Mzp46WuQ","k":"eRur-hflm3QeLTWUVbCrrA"}]}
-https://hls-m009.live-lv3.canalplus-cdn.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd
+https://hls-m009.live-lv3.canalplus-cdn.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, BeIn France 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bjWSeNTtQuaPt-ihkvRxSQ","k":"-fJinyybe9R24z_a5lvBrw"},{"kty":"oct","kid":"odgaKR6PQtKCvANE2jVJtA","k":"9k6lWV5WpdLStZ0E54-TvQ"},{"kty":"oct","kid":"uwCs2m96TGuGIxF_T2IhVg","k":"zlghf7ylNm4WUtV1T3xvgg"},{"kty":"oct","kid":"pnZtqCTASnm3dNM3yDSNgQ","k":"46QXd3V0K-BowgKYrCUK1w"}]}
-https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/beinsports2-hd/dash-fhddvr/beinsports2-hd.mpd
+https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/beinsports2-hd/dash-fhddvr/beinsports2-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, BeIn France 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"YcwvCeOmQYGX5Kpq8EGjRA","k":"aEssYNnsYAshMldERkt-Vw"},{"kty":"oct","kid":"8AUZe7pFQp2XtYD8aNSWbQ","k":"E4vVj8SO0ymqtjFy30EvJg"}]}
-https://hls-m003.live-lv3.canalplus-cdn.net/live/disk/beinsports3-hd/dash-fhddvr/beinsports3-hd.mpd
+https://hls-m003.live-lv3.canalplus-cdn.net/live/disk/beinsports3-hd/dash-fhddvr/beinsports3-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, Canal + France
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"f9V7h3OpQuOnj2l-g65i6w","k":"ZmvCI6m-u1UcaZMMn-7pDQ"},{"kty":"oct","kid":"Hin9IMK_SRiaxF3rf4k9jg","k":"AQijZoELzlFNWaxVFiEphQ"},{"kty":"oct","kid":"rpFy5fYiT4quga3h0NszcA","k":"yMHViSJlISmO_yj37mK02w"},{"kty":"oct","kid":"7CkJRDpiSr2JWJDXMPrL_w","k":"O9MfnAs7qLW7mdcT53aLBw"}]}
-https://hls-m011.live-lv3.canalplus-cdn.net/live/disk/canalplus-hd/dash-fhddvr/canalplus-hd.mpd
+https://hls-m011.live-lv3.canalplus-cdn.net/live/disk/canalplus-hd/dash-fhddvr/canalplus-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, TV2 Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -886,6 +842,58 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+#EXTINF:-1, Setanta Sport
+https://livetv.mylifeisgood.ml/channels/setantahd
+
+#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
+https://bit.ly/sportbein1
+
+#EXTINF:-1, BEIN SPORT 2 HD 🇶🇦
+https://bit.ly/sportbein22
+
+#EXTINF:-1, BEIN SPORT 3 HD 🇶🇦
+https://bit.ly/sportbein3
+
+#EXTINF:-1, BEIN SPORT 4 HD 🇶🇦
+https://bit.ly/sportbein4
+
+#EXTINF:-1, BEIN SPORT 5 HD 🇶🇦
+https://bit.ly/sportbein5
+
+#EXTINF:-1, BEIN SPORT 6 HD 🇶🇦
+https://bit.ly/sportbein6
+
+#EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
+https://bit.ly/sportbein7
+
+#EXTINF:-1, BEIN SPORT 1 🇬🇧
+http://golive.yn.lt/live/ucl/02.m3u8
+
+#EXTINF:-1, BEIN SPORT 3 🇬🇧
+http://golive.yn.lt/live/bola/07.m3u8
+
+#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+
+#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+
+#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+
+#EXTINF:-1,ELEVEN SPORTS 4 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+
+#EXTINF:-1,ELEVEN SPORTS 5 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+
+#EXTINF:-1,ELEVEN SPORTS 6 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
+
+#EXTINF:-1, TUDN 🇲🇽
+http://54.39.19.162:8081/live/dream1/playlist.m3u8
 
 
 
