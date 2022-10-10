@@ -8,6 +8,30 @@ tvg-shift=0 catchup="shift" catchup-days=6
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
+#EXTINF:-1, Panam Sports 1
+https://streannlivepanamsports.cachefly.net/panamsports1/panamsports1/playlist.m3u8
+
+#EXTINF:-1, Panam Sports 2
+https://streannlivepanamsports.cachefly.net/panamsports2/panamsports2/playlist.m3u8
+
+#EXTINF:-1, Panam Sports 3
+https://streannlivepanamsports.cachefly.net/panamsports3/panamsports3/playlist.m3u8
+
+#EXTINF:-1, Panam Sports 4
+https://streannlivepanamsports.cachefly.net/panamsports4/panamsports4/playlist.m3u8
+
+#EXTINF:-1, Panam Sports 5
+https://streannlivepanamsports.cachefly.net/panamsports5/panamsports5/playlist.m3u8
+
+#EXTINF:-1, Panam Sports 6
+https://streannlivepanamsports.cachefly.net/panamsports6/panamsports6/playlist.m3u8
+
+#EXTINF:-1, Panam Sports 7
+https://streannlivepanamsports.cachefly.net/panamsports7/panamsports7/playlist.m3u8
+
+#EXTINF:-1, Panam Sports 8
+https://streannlivepanamsports.cachefly.net/panamsports8/panamsports8/playlist.m3u8
+
 #EXTINF:-1, V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
