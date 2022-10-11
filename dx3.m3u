@@ -8,6 +8,48 @@ tvg-shift=0 catchup="shift" catchup-days=6
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
+#EXTINF:-1, Champions 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQHzhroUY18IJPiAaJ_vQg","k":"CZbZUECLFdAr9Ay6EWrRxg"}]}
+https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031612/dash/cenc/27997/master.mpd
+
+#EXTINF:-1, Champions 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQEHjpGU1eKGV2Ury_AJZg","k":"ESxQPrsAI1Axg2lccq-j-A"}]}
+https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031615/dash/cenc/27994/master.mpd
+
+#EXTINF:-1, Champions 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQGGK4-9wTmH1n8ujma_kA","k":"PNDoJ1ouegMwZALRrjYYgQ"}]}
+https://live.fly.latam.hbomaxcdn.com/cmaf/live/2031616/dash/cenc/27993/master.mpd
+
+#EXTINF:-1, Champions 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQFwIhwNWcYSVKR0Tagmpw","k":"RhCcKKV5l7_psBTd1kWpRw"}]}
+https://live.lln.latam.hbomaxcdn.com/cmaf/live/2031682/dash/cenc/27996/master.mpd
+
+#EXTINF:-1, Champions 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQHvTsSRDE8CBSD80B1-xA","k":"upxgIF3z3fG0HF5hKWAo5Q"}]}
+https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031683/dash/cenc/27992/master.mpd
+
+#EXTINF:-1, Champions 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQHzhroUY18IJPiAaJ_vQg","k":"CZbZUECLFdAr9Ay6EWrRxg"}]}
+https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031612/dash/cenc/27997/master.mpd
+
 #EXTINF:-1, Panam Sports 1
 https://streannlivepanamsports.cachefly.net/panamsports1/panamsports1/playlist.m3u8
 
