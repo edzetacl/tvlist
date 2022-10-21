@@ -682,7 +682,7 @@ https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VEIP9xu1gFkxrG7vfZgWyQ","kid":"7HrJarX4pdJE4hNhTLtEOA"}],"type":"temporary"}
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TyCSports.ar", tvg-logo="https://i.imgur.com/KKrgzI3.png", TyC Sports Internacional
 http://181.65.199.218:8000/play/a0c0/index.m3u8
