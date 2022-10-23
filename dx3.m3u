@@ -259,12 +259,12 @@ https://edge-live15-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/T
 #EXTINF:-1 tvg-id="TNTSports3Chile.cl", tvg-logo="https://i.imgur.com/dcIUP0O.png",TNT Sports 3 (e)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/82
-http://live.entel.cl/2287/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
+http://live.entel.cl/2287/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/XeAMtAW.png",TNT Sports 2 (e)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/84
-http://live.entel.cl/2288/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
+http://live.entel.cl/2288/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/XeAMtAW.png", TNT Sports 2 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -286,10 +286,24 @@ https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD (e)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/85
-http://live.entel.cl/2359/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
+http://live.entel.cl/2359/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD
 http://45.232.210.1:47000/play/cdfhd
+
+#EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/FK5L1nW.png", TNT Sports (DTV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x+inJX7IUb9SONuwwow2oQ","kid":"vsUAmNCvUY672p258BhL7g"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1049/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="TNTSports3Chile.cl", tvg-logo="https://i.imgur.com/dcIUP0O.png", TNT Sports 3 Chile
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zzjSAn3jr/zpUa/L1YNFjQ","kid":"F0PNcQHHPimDupKPv87DBw"}],"type":"temporary"}
+https://1231-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="ESPNChile.cl", tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Chile (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -301,7 +315,7 @@ https://dtvott-abc.akamaized.net/dash_live_1105/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="ESPNChile.cl", tvg-logo="https://i.imgur.com/4zbQAOF.png" ,ESPN Chile (e)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/80
-http://live.entel.cl/3032/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
+http://live.entel.cl/3032/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/OHR99lF.png", ESPN2 Chile (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
