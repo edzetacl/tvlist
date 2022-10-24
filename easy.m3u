@@ -3,176 +3,176 @@
 #EXTINF:-1, Canal Izzi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
 
 #EXTINF:-1, Azteca Uno
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live3-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 
 #EXTINF:-1, Las Estrellas
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 
 #EXTINF:-1, Foro TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
 
 #EXTINF:-1, Canal 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 
 #EXTINF:-1, Multimedios Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
 
 #EXTINF:-1, Azteca Siete
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 
 #EXTINF:-1, Canal Nueve
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
 
 #EXTINF:-1, Canal Once
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live1-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
 
 #EXTINF:-1, Milenio TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
 
 #EXTINF:-1, Unicable
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/dash/default.mpd
 
 #EXTINF:-1, Bit Me
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 
 #EXTINF:-1, 24 Horas España
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://live4-ott.izzigo.tv/out/u/dash/24-HRS-SD/default.mpd
 
 #EXTINF:-1, Al Jazeera
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd
 
 #EXTINF:-1, BBC World News
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd
 
 #EXTINF:-1, DW Amerika
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd
 
 #EXTINF:-1, DW Español
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd
 
 #EXTINF:-1, Euronews
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
 
 #EXTINF:-1, HLN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd
 
 #EXTINF:-1, CNN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://live4-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd
 
 #EXTINF:-1, CNN Iinternacional
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://live4-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd
 
 #EXTINF:-1, CNN en Español
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 http://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
 
 #EXTINF:-1, Fox News
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=blackghoooooooost
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd
 
 #EXTINF:-1, RT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live2/out/u/dash/RT-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd
 
 #EXTINF:-1, Rai Italia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live5/out/u/dash/RAI-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
 
 #EXTINF:-1, TV5 Monde
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live3/out/u/dash/TV5-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
 
 #EXTINF:-1, TVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live5/out/u/dash/TVE-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live5-ott.izzigo.tv/out/u/dash/TVE-SD/default.mpd
 
 #EXTINF:-1, Star TVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live2/out/u/dash/STAR-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
 
 #EXTINF:-1, Telefe Internacional
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/TELEFE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
 
 #EXTINF:-1, Telemundo Internacional
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -621,200 +621,200 @@ https://edge1-zapopan.izzigo.tv/live2/out/u/dash/UNIVERSAL-COMEDY-HD/dash/defaul
 #EXTINF:-1, HBO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 
 #EXTINF:-1, HBO Xtreme
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-XTREME-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 
 #EXTINF:-1, HBO Pop
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-POP-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 
 #EXTINF:-1, HBO Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-PLUS-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 
 #EXTINF:-1, HBO 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO2-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 
 #EXTINF:-1, HBO Signature
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-SIGNATURE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 
 #EXTINF:-1, HBO Family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-FAMILY-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
 
 #EXTINF:-1, HBO Mundi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live5/out/u/dash/HBO-MUNDI-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 #EXTINF:-1, ESPN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-HD/dash/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/dash/default.mpd
 
 #EXTINF:-1, ESPN 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-2-HD/dash/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/dash/default.mpd
 
 #EXTINF:-1, ESPN 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-3-HD/dash/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/dash/default.mpd
 
 #EXTINF:-1, ESPN Extra
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-PLUS-HD/dash/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/dash/default.mpd
 
 #EXTINF:-1, Fox Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-HD/dash/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/dash/default.mpd
 
 #EXTINF:-1, Fox Sports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live4/out/u/dash/FOX-SPORTS-2-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 
 #EXTINF:-1, Fox Sports 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/FOX-SPORTS-3-HD/dash/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/dash/default.mpd
 
 #EXTINF:-1, TUDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/TUDN-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 
 #EXTINF:-1, Afizzionados
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/AFIZZIONADOS-HD/dash/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/dash/default.mpd
 
 #EXTINF:-1, NFL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/NFL-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
 
 #EXTINF:-1, Adrenalina
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ADRENALINA-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
 
 #EXTINF:-1, Real Madrid
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live4/out/u/dash/REAL-MADRID-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
 
 #EXTINF:-1, Golf Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live1/out/u/dash/GOLF-CHANNEL-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd
 
 #EXTINF:-1, MTV HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live2/out/u/dash/MTV-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd
 
 #EXTINF:-1, Nick Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live4/out/u/dash/NICKTOONS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
 
 #EXTINF:-1, Telehit
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live1/out/u/dash/TELEHIT-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live1-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
 
 #EXTINF:-1, Telehit Musica
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live2/out/u/dash/TELEHIT-URBANO-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 
 #EXTINF:-1, Telehit Musica Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live2/out/u/dash/TELEHIT-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
 
 #EXTINF:-1, Bandamax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live2/out/u/dash/BANDAMAX-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
 
 #EXTINF:-1, Club MTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live4/out/u/dash/MTV-DANCE-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
 
 #EXTINF:-1, MTV Hits
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live4/out/u/dash/MTV-HITS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://kive4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
 
 #EXTINF:-1, MTV Live
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live4/out/u/dash/MTV-LIVE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
 
 #EXTINF:-1, MTV 00s
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live3/out/u/dash/VH1-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
 
 #EXTINF:-1, MTV 80s
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-https://edge1-zapopan.izzigo.tv/live4/out/u/dash/VH1-CLASSIC-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 
-#EXTINF:-1, MTV 80s
+#EXTINF:-1, MTV 90s
 http://myott.top/stream/P4H2M76YRH/88.m3u8
 
 #EXTINF:-1, Much Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
-http://edge1-zapopan.izzigo.tv/live3/out/u/dash/MUCH-MUSIC-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
