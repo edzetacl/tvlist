@@ -256,15 +256,25 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"f9slO/SnSjGH2F9vKT9eGg","kid":"z8ZYW9MR3F+IFdsSJwEitg"}],"type":"temporary"}
 https://edge-live15-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="TNTSports3Chile.cl", tvg-logo="https://i.imgur.com/dcIUP0O.png",TNT Sports 3 (e)
+#EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/v4csNOF.png", TNT Sports HD (DTV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/bv1o5EJNJ17apl+g/ueSw","kid":"G5mE3GayWf6K5ZfLT8H0ww"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD (e)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/82
-http://live.entel.cl/2287/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/85
+http://live.entel.cl/2359/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
+
+#EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD
+http://45.232.210.1:47000/play/cdfhd
 
 #EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/XeAMtAW.png",TNT Sports 2 (e)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/84
-http://live.entel.cl/2288/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+http://live.entel.cl/2288/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/XeAMtAW.png", TNT Sports 2 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -276,34 +286,17 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/XeAMtAW.png",TNT Sports 2 HD
 http://iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/6818.ts
 
-#EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/v4csNOF.png", TNT Sports HD (DTV)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/bv1o5EJNJ17apl+g/ueSw","kid":"G5mE3GayWf6K5ZfLT8H0ww"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD (e)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/85
-http://live.entel.cl/2359/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD
-http://45.232.210.1:47000/play/cdfhd
-
-#EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/FK5L1nW.png", TNT Sports (DTV)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x+inJX7IUb9SONuwwow2oQ","kid":"vsUAmNCvUY672p258BhL7g"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1049/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="TNTSports3Chile.cl", tvg-logo="https://i.imgur.com/dcIUP0O.png", TNT Sports 3 Chile
+#EXTINF:-1 tvg-id="TNTSports3Chile.cl", tvg-logo="https://i.imgur.com/dcIUP0O.png", TNT Sports 3 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zzjSAn3jr/zpUa/L1YNFjQ","kid":"F0PNcQHHPimDupKPv87DBw"}],"type":"temporary"}
 https://1231-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="TNTSports3Chile.cl", tvg-logo="https://i.imgur.com/dcIUP0O.png",TNT Sports 3 (e)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/82
+http://live.entel.cl/2287/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1 tvg-id="ESPNChile.cl", tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Chile (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -315,7 +308,7 @@ https://dtvott-abc.akamaized.net/dash_live_1105/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="ESPNChile.cl", tvg-logo="https://i.imgur.com/4zbQAOF.png" ,ESPN Chile (e)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/80
-http://live.entel.cl/3032/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+http://live.entel.cl/3032/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/OHR99lF.png", ESPN2 Chile (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -442,6 +435,9 @@ https://edge-live15-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_da
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ea1p0shPQdu1IKv+OLGf5w","kid":"TLSd80FCPLWXvz55t48qUg"}],"type":"temporary"}
 https://1125-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/14002
+
 #EXTINF:-1, ESPN 🇧🇷
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 
@@ -452,7 +448,7 @@ http://189.91.128.146:4444/udp/227.10.20.152:1234
 http://189.91.128.146:4444/udp/227.10.20.153:1234
 
 #EXTINF:-1, ESPN4 🇧🇷  
-#http://189.91.128.146:4444/udp/227.10.20.116:1234
+http://189.91.128.146:4444/udp/227.10.20.116:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Mx (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -649,12 +645,18 @@ https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jc5PbNPuVhOSL5x/b24HvQ","kid":"FBPKoD4EV0O2SWIysJ5o+g"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="DirecTVSports2.us", tvg-logo="https://i.imgur.com/CaChyS8.png", DIRECTV Sports 2 (TS)
+http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/42
+
 #EXTINF:-1 tvg-id="DirecTVSportsPlus.us", tvg-logo="https://i.imgur.com/jbIvUf0.png", DIRECTV Sports +
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5Pq/OdI81lV/pxtudU7x5w","kid":"8Zw6jGONUsKrd7lWa8splg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="DirecTVSportsPlus.us", tvg-logo="https://i.imgur.com/jbIvUf0.png", DIRECTV Sports + (TS)
+http://line.powerdino.com:80/4375a1dd43/649f75a876/628275
 
 #EXTINF:-1 tvg-id="DirecTVSportsFightHD.us", tvg-logo="https://i.imgur.com/bzvS5yL.png", DIRECTV Sports Fight
 #KODIPROP:inputstreamaddon=inputstream.adaptive
