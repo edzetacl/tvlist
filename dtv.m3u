@@ -592,8 +592,8 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_M
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QEzE+0X4LJp9/9PSSWzKIA","kid":"olXhOE2z6c5+A0noqpufdw"}],"type":"temporary"}
-https://edge2-zapopan.izzigo.tv/live2/out/u/dash/DREAM-WORKS-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fzDEPkdURBIiH9ZCAdkvSw","k":"-D0J11oJRrHXGqSMIBtNiw"}]}
+https://edge-live17-sl.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_2A/Dreamworks.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="StarChannelSouth.us", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
