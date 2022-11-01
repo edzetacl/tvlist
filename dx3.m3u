@@ -728,7 +728,7 @@ https://1246-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wwgdCaNSMn6+zOIDDKxoDQ","kid":"68jT6sGtS+yIjSPS/w/U6Q"}],"type":"temporary"}
-https://b41893.4.cdn.telefonica.com/sdash/LIVE$WinSportsHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc
+https://b41893-p1-h94-tf5089e.4.cdn.telefonica.com/_41893/sdash/LIVE$WinSportsHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pxWFeQ.png", Win Sports Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
