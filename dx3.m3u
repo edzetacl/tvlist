@@ -8,9 +8,6 @@ tvg-shift=0 catchup="shift" catchup-days=6
 #KODIPROP:inputstream.adaptive.license_key=http://goalmatch.webcindario.com/li.php
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
-#EXTINF:-1, Pluto Libertadores
-https://siloh-latam-aka.plutotv.net/lilo/production/Libertadores/LATAM/master.m3u8
-
 #EXTINF:-1, V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -450,6 +447,9 @@ http://189.91.128.146:4444/udp/227.10.20.153:1234
 #EXTINF:-1, ESPN4 🇧🇷  
 http://189.91.128.146:4444/udp/227.10.20.116:1234
 
+#EXTINF:-1, ESPNExtra 🇧🇷 
+http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5214
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Mx (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -550,6 +550,9 @@ https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nh0ICbXpZph96u1V_SYxrQ","kid":"KQHEHb_IWqaibbKcxWvCxg"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2 Brazil
+http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5224
 
 #EXTINF:-1 tvg-id="FoxSportsMexico.mx", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports Mx (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -885,14 +888,14 @@ https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd|User-Age
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zrMexqbZAJD0kLVPUkontA","kid":"KYUoKdNz37Nd+Axfodm/8A"}],"type": "temporary"}
 https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Multishow Br.
-http://cdn.liveboxtv.xyz:80/D070222707/D070222708/108161
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQX4MjC.png", Globo Nacional
+http://189.91.128.146:4444/udp/227.10.20.109:1234
 
-#EXTINF:-1, Multi4k
-http://cdn.liveboxtv.xyz:80/D070222707/D070222708/281047
+#EXTINF:-1, Multishow Br.
+http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5244
 
 #EXTINF:-1, Bis
-http://cdn.liveboxtv.xyz:80/D070222707/D070222708/107850
+http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5195
 
 #EXTINF:-1, NBC Universo
 http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
