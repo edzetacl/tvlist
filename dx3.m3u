@@ -231,12 +231,12 @@ https://hls-m003.live-lv3.canalplus-cdn.net/live/disk/beinsports3-hd/dash-fhddvr
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"f9V7h3OpQuOnj2l-g65i6w","k":"ZmvCI6m-u1UcaZMMn-7pDQ"},{"kty":"oct","kid":"Hin9IMK_SRiaxF3rf4k9jg","k":"AQijZoELzlFNWaxVFiEphQ"},{"kty":"oct","kid":"rpFy5fYiT4quga3h0NszcA","k":"yMHViSJlISmO_yj37mK02w"},{"kty":"oct","kid":"7CkJRDpiSr2JWJDXMPrL_w","k":"O9MfnAs7qLW7mdcT53aLBw"}]}
 https://hls-m011.live-lv3.canalplus-cdn.net/live/disk/canalplus-hd/dash-fhddvr/canalplus-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, TV2 Sports Premium
+#EXTINF:-1, Canal + Sport PL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gfjmkHa6TvOuAL_nf99sWA","k":"RbpZ-DUcFPywiupCbKRrNQ"}]}
-https://ls4-hls-live.akamaized.net/out/u/733179.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TpQrHa2SQ2uq0MamkB9tEw","k":"Wt79s_Tt1c7uI9N8EMN-XA"},{"kty":"oct","kid":"X7klddfaRSGemohkbNPiQw","k":"MdHx35wkbrc03hvg9r9qzw"},{"kty":"oct","kid":"fNab7RzFTYO9f5iPYiwRVw","k":"My4KhWzfzXodbabc-EYzpw"}]}
+https://opl-n02.cdn-ncplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, TV2 Sports X
 #KODIPROP:inputstreamaddon=inputstream.adaptive
