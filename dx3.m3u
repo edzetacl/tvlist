@@ -18,6 +18,13 @@ https://betistv-live.flumotion.com/N3UI5ay13IxhO43TllvVlA/1668368998/betistv/liv
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gycXR1sqURW3-VsAWgzgpw","k":"EDMcSqASkkZXJhpPkI-sIw"},{"kty":"oct","kid":"ouM52dqBV9-QsE6xKw7wgg","k":"43f2pxhvIro1sLVrr2XQ9Q"},{"kty":"oct","kid":"6LmGYdzuVwa6PpwxnaXu_A","k":"CJFMPdStFajMbqqlqy6spg"}]}
 https://tvup-live.secure.footprint.net/la1-neutra/la1-neutra.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1, Globo Brasil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zSw/fGLTJsB6sMk9pbVoCQ","kid":"MqKkeImcWwSYT33WoQJFxQ"}],"type":"temporary"}
+https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1, V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
