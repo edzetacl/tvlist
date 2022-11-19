@@ -909,6 +909,9 @@ http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
 #EXTINF:-1, NBC Sports Philadelphia
 http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8
 
+#EXTINF:-1, NBC Sports Chicago
+http://89.187.175.143/3116/mpegts
+
 #EXTINF:-1, Setanta Sport
 https://livetv.mylifeisgood.ml/channels/setantahd
 
