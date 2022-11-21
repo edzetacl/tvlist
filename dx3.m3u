@@ -27,14 +27,7 @@ https://dtvott-abc.akamaized.net/dash_live_1065/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g0xwgtKNhfXaON3pSbZsmg","kid":"qM9Svg6zWMmov80fyU18tQ"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1069/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, Eventos
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6prlOMDxj4P64Cik782hgA","kid":"ZVvkbb4RRYOddgFlCOwUUA"}],"type":"temporary"}
-https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2022/11/19/Betis_vs_Colo_Colo_20221119_1668877239015/ctr-all-complete.m3u8
+https://dtvott-cbc.akamaized.net/dash_live_1069/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kfyd8Bz.png", La 1 España
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -88,7 +81,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zjfiA3TlW-a7TSaDevJ2BQ","k":"UsxTL3SPy_K4BtrUKJv4TA"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
-#EXTINF:-1, V Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", V Sports 1
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/97658
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcZ6VfT.png", Dazn 1 De
@@ -259,42 +252,42 @@ https://m7rovideolive.solocoo.tv/blueskylive2dash/bluelooksport3ro/Manifest.mpd|
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NtxA4MrbQ46sHx9_Ic9PYQ","k":"uukDyDKMpkYiTrs8FsJZ4Q"}]}
 https://m7rovideolive.solocoo.tv/blueskylive2dash/bluelooksport2ro/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, BeIn France 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BeIn France 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"pN1fqMUrSH2fK6dJVe9jwg","k":"Y8aR2nK3hTCmfOi16iZyCA"},{"kty":"oct","kid":"EuhjOcclSmuM23Mzp46WuQ","k":"eRur-hflm3QeLTWUVbCrrA"}]}
 https://hls-m009.live-lv3.canalplus-cdn.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, BeIn France 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BeIn France 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bjWSeNTtQuaPt-ihkvRxSQ","k":"-fJinyybe9R24z_a5lvBrw"},{"kty":"oct","kid":"odgaKR6PQtKCvANE2jVJtA","k":"9k6lWV5WpdLStZ0E54-TvQ"},{"kty":"oct","kid":"uwCs2m96TGuGIxF_T2IhVg","k":"zlghf7ylNm4WUtV1T3xvgg"},{"kty":"oct","kid":"pnZtqCTASnm3dNM3yDSNgQ","k":"46QXd3V0K-BowgKYrCUK1w"}]}
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/beinsports2-hd/dash-fhddvr/beinsports2-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, BeIn France 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BeIn France 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"YcwvCeOmQYGX5Kpq8EGjRA","k":"aEssYNnsYAshMldERkt-Vw"},{"kty":"oct","kid":"8AUZe7pFQp2XtYD8aNSWbQ","k":"E4vVj8SO0ymqtjFy30EvJg"}]}
 https://hls-m003.live-lv3.canalplus-cdn.net/live/disk/beinsports3-hd/dash-fhddvr/beinsports3-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Canal + France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Canal + France
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"f9V7h3OpQuOnj2l-g65i6w","k":"ZmvCI6m-u1UcaZMMn-7pDQ"},{"kty":"oct","kid":"Hin9IMK_SRiaxF3rf4k9jg","k":"AQijZoELzlFNWaxVFiEphQ"},{"kty":"oct","kid":"rpFy5fYiT4quga3h0NszcA","k":"yMHViSJlISmO_yj37mK02w"},{"kty":"oct","kid":"7CkJRDpiSr2JWJDXMPrL_w","k":"O9MfnAs7qLW7mdcT53aLBw"}]}
 https://hls-m011.live-lv3.canalplus-cdn.net/live/disk/canalplus-hd/dash-fhddvr/canalplus-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Canal + Sport PL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Canal + Sport PL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TpQrHa2SQ2uq0MamkB9tEw","k":"Wt79s_Tt1c7uI9N8EMN-XA"},{"kty":"oct","kid":"X7klddfaRSGemohkbNPiQw","k":"MdHx35wkbrc03hvg9r9qzw"},{"kty":"oct","kid":"fNab7RzFTYO9f5iPYiwRVw","k":"My4KhWzfzXodbabc-EYzpw"}]}
 https://opl-n02.cdn-ncplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, TV2 Sports X
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", TV2 Sports X
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -918,34 +911,34 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zrMexqbZAJD0kLVPUkontA","kid":"KYUoKdNz37Nd+Axfodm/8A"}],"type": "temporary"}
 https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, Multishow Br.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Multishow Br.
 http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5244
 
-#EXTINF:-1, Bis
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Bis
 http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5195
 
-#EXTINF:-1, NBC Universo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", NBC Universo
 http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1196.m3u8
 
-#EXTINF:-1, NBC Sports Philadelphia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", NBC Sports Philadelphia
 http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/chunks.m3u8
 
-#EXTINF:-1, NBC Sports Chicago
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", NBC Sports Chicago
 http://89.187.175.143/3116/mpegts
 
-#EXTINF:-1, Setanta Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Setanta Sport
 https://livetv.mylifeisgood.ml/channels/setantahd
 
-#EXTINF:-1, Setanta Sport Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Setanta Sport Plus
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
-#EXTINF:-1, Viasat Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Viasat Sports
 http://myott.top/stream/P4H2M76YRH/333.m3u8
 
-#EXTINF:-1, beIN SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", beIN SPORTS 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
-#EXTINF:-1, beIN SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", beIN SPORTS 2
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
 
