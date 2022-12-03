@@ -406,7 +406,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+4XQWWh6sPxngFgGIE7b3w","kid":"zI1EQG7WvxiYrZ96LWTyng"}],"type":"temporary"}
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+http://177.68.156.60:5050/https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -418,7 +418,13 @@ https://1125-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium (TS)
 http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/14002
 
-#EXTINF:-1, ESPNExtra 🇧🇷 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ueWqK2y.png", ESPN 🇧🇷 
+http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5215
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HdOJEPO.png", ESPN 2 🇧🇷 
+http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5216
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mbMTsR.png", ESPNExtra 🇧🇷 
 http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5214
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN Mx (DTV)
