@@ -715,6 +715,9 @@ https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="I854.73070.schedulesdirect.org", tvg-logo="https://i.imgur.com/dk3yW5a.png", Telehit Musica Plus
 https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/THSFKFG.png", Bandamax
+https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar", tvg-logo="https://i.imgur.com/Wnxp3FA.png", CM
 http://g3.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
