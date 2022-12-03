@@ -415,19 +415,19 @@ http://live.entel.cl/2337/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 http://live.entel.cl/2230/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx", tvg-logo="https://i.imgur.com/mclchDV.png", Golden Edge
-https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
+https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPlus.mx", tvg-logo="https://i.imgur.com/k7uCDly.png", Golden Plus
-https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1NLMorj.png", Golden Premier
-https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://i.imgur.com/G8LoY9S.png", De Pelicula
-https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G8LoY9S.png", De Pelicula
+https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDrzqx8.png", De Pelicula Plus
-https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
+https://linear-404.frequency.stream/dist/vix/404/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FXChile.cl", tvg-logo="https://i.imgur.com/ieshmNx.png",FX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -467,7 +467,7 @@ http://live.entel.cl/3025/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XrcxyED.png", Distrito Comedia
-https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
+https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AtrescineInternacionalHD.es", tvg-logo="https://i.imgur.com/5ISleJ6.png" ,ATRESCINE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
