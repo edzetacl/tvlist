@@ -657,7 +657,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd|User-Agent="Mozilla
 https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us", tvg-logo="https://i.imgur.com/uwiZk8F.png", Bein Sports Xtra Es
-https://linear-256.frequency.stream/256/hls/master/playlist.m3u8
+https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwiZk8F.png", BeIn Sports Xtra Eng.
 https://bit.ly/BeinSportXtra?/master.m3u8
