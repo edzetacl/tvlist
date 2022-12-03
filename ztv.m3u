@@ -132,6 +132,9 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr", tvg-logo="https://i.imgur.com/LK9dKQy.png",EURONEWS
 https://siloh.pluto.tv/lilo/production/Euronews/master_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh6zs7G.png", The Weather Channel Es
+https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp", tvg-logo="https://i.imgur.com/2joZfb5.png",Nhk World (Japanese)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/63
