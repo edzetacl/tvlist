@@ -847,6 +847,9 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd|User-Ag
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"x1-gd_MYXkiZpcCEWP_41w","k":"vYgX5wDnI70DZv2CtdAqRQ"},{"kty":"oct","kid":"U_REmizjXByRostr1Gfipg","k":"_FIgdiAjiAaMz-GpYfOr0Q"},{"kty":"oct","kid":"VR26yQDaU_OyswtYnl-5mQ","k":"HG3xpqXKiqoWoA9Ij6ADIg"}]}
 https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://zws.im/󠁲󠁤󠁰󠁶󠁳󠁴󠁴", Real Madrid TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JuR7KS.png", Claro Sports
 https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/live.m3u8
 
