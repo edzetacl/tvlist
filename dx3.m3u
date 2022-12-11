@@ -889,6 +889,9 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JuR7KS.png", Claro Sports
 https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JuR7KS.png", Claro Sports (op2)
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQT8Ca9.png", Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8 
 
