@@ -43,6 +43,13 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c06
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Sport Kanale
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qeDs6mQJWcauyQSh80k0pQ","k":"KE6o5foN5LyQwXwhFI296g"}]}
+https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcZ6VfT.png", Dazn 1 De
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -361,23 +368,23 @@ https://dtvott-cbc.akamaized.net/dash_live_1107/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ea1p0shPQdu1IKv+OLGf5w","kid":"TLSd80FCPLWXvz55t48qUg"}],"type":"temporary"}
 https://1125-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium 🇦🇷 (TS)
-http://live.iptv.wtf:80/tjpyuhim/Mfy33Xhs96/14002
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ueWqK2y.png", ESPN 🇧🇷 
-http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5215
+http://bagainhead.b-cdn.net/live/espn/chunks.m3u8?token=K1svyqT_YSyuNX3oe-8SlvEOKHfsBHqcdbKhR03X-b4&expires=1672628376
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ueWqK2y.png", ESPN 🇧🇷 (2)
+http://tbsrv.me:8880/marcusmesquita1/58264726/846
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HdOJEPO.png", ESPN 2 🇧🇷 
-http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5216
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VHVxt5f.png", ESPN 3 🇧🇷 
-http://axr.life:80/Ronaldo/ronaldo123/465905
+http://tbsrv.me:8880/marcusmesquita1/58264726/77695
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bK2BRiE.png", ESPN 4 🇧🇷 
-http://axr.life:80/Ronaldo/ronaldo123/465908
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159602
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mbMTsR.png", ESPNExtra 🇧🇷 
-http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5214
+http://tbsrv.me:8880/marcusmesquita1/58264726/77693
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN 🇲🇽 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -755,7 +762,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-023/stream.mpd|User-Ag
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-026/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, BeIn Sports English
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", BeIn Sports English
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -839,10 +846,10 @@ https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd|User-Agent="Mozilla/5
 #EXTINF:-1 tvg-logo="https://zws.im/󠁲󠁤󠁰󠁶󠁳󠁴󠁴", Real Madrid TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
-#EXTINF:-1, Real Madrid TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
-#EXTINF:-1, Real Madrid TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1741
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JuR7KS.png", Claro Sports
@@ -923,4 +930,12 @@ https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://zws.im/󠁲󠁤󠁰󠁶󠁳󠁴󠁴", TUDN V!X
 https://linear-402.frequency.stream/dist/vix/402/hls/master/playlist.m3u8
+
+
+
+#EXTINF:-1, La2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmnew.tvup.cloud/license/GNA02
+https://tvup-live.secure2.footprint.net/la2/la2.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
