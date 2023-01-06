@@ -632,7 +632,7 @@ https://dtvott-abc.akamaized.net/dash_live_1067/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g0xwgtKNhfXaON3pSbZsmg","kid":"qM9Svg6zWMmov80fyU18tQ"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1069/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://dtvott-cbc.akamaized.net/dash_live_1069/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwDYJ2w.png", Teledeporte
 #KODIPROP:inputstreamaddon=inputstream.adaptive
