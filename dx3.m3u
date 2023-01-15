@@ -190,34 +190,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd|User-Ag
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FxZ5lxLHRBmOGhydNU3abQ","k":"oUjlXlU1u_t9wkwiTSaD5A"}],"type":"temporary"}
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7WLvHlS.png", Prima Sports 1 RO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oCg7JaBzTHKVsnW7Qq9fWg","k":"71qFVyEgFS4GTPuGJ617_g"}]}
-https://m7rovideolive.solocoo.tv/blueskylivedash/bluelookplus/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7WLvHlS.png", Prima Sports 2 RO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZCeWlctvT6enGPSig8ykmw","k":"7gmZOAktoBawJuH53Dj59A"}]}
-https://m7rovideolive.solocoo.tv/blueskylivedash/bluelooksport/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7WLvHlS.png", Prima Sports 3 RO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8pnvm2Z2T5Kn8cR1dZ-z0A","k":"AP4q2HTk07IgXEzLDGUGyw"}]}
-https://m7rovideolive.solocoo.tv/blueskylive2dash/bluelooksport3ro/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7WLvHlS.png", Prima Sports 4 RO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NtxA4MrbQ46sHx9_Ic9PYQ","k":"uukDyDKMpkYiTrs8FsJZ4Q"}]}
-https://m7rovideolive.solocoo.tv/blueskylive2dash/bluelooksport2ro/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN NL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -253,6 +225,9 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn4/Manifest.mpd|User
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pN7ndhUnnIWLGeW7aatnVQ","kid":"xGl79FjaUvi5azbM52HVcQ"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar", tvg-logo="https://i.imgur.com/FK5L1nW.png", TNT Sports 🇦🇷 (RCS)
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
 #EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/v4csNOF.png", TNT Sports HD 🇨🇱 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -270,12 +245,18 @@ http://45.232.210.1:47000/play/cdfhd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Mgduj0idcq4IR-syVs6tHQ","kid":"uUr354epW_C32Dj7NPJ4Qg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="TNTSports3Chile.cl", tvg-logo="https://i.imgur.com/dcIUP0O.png", TNT Sports 3 🇨🇱
+#EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/XeAMtAW.png", TNT Sports 2 🇨🇱 (SD)
+http://45.232.210.1:8062/play/a08a/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports3Chile.cl", tvg-logo="https://i.imgur.com/dcIUP0O.png", TNT Sports 3 🇨🇱 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zzjSAn3jr/zpUa/L1YNFjQ","kid":"F0PNcQHHPimDupKPv87DBw"}],"type":"temporary"}
 https://1231-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="TNTSports3Chile.cl", tvg-logo="https://i.imgur.com/dcIUP0O.png", TNT Sports 3 🇨🇱 (SD)
+http://45.232.210.1:8062/play/a08x/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNChile.cl", tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN 🇨🇱 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -375,23 +356,20 @@ https://dtvott-cbc.akamaized.net/dash_live_1107/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ea1p0shPQdu1IKv+OLGf5w","kid":"TLSd80FCPLWXvz55t48qUg"}],"type":"temporary"}
 https://1125-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ueWqK2y.png", ESPN 🇧🇷 
-http://bagainhead.b-cdn.net/live/espn/chunks.m3u8?token=K1svyqT_YSyuNX3oe-8SlvEOKHfsBHqcdbKhR03X-b4&expires=1672628376
+#EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium 🇦🇷 (RCS)
+https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ueWqK2y.png", ESPN 🇧🇷 (2)
-http://tbsrv.me:8880/marcusmesquita1/58264726/846
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ueWqK2y.png", ESPN 🇧🇷 
+http://johnywalkr.b-cdn.net/live/espn/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HdOJEPO.png", ESPN 2 🇧🇷 
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598
+http://johnywalkr.b-cdn.net/live/espn2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VHVxt5f.png", ESPN 3 🇧🇷 
-http://tbsrv.me:8880/marcusmesquita1/58264726/77695
+http://johnywalkr.b-cdn.net/live/espn3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bK2BRiE.png", ESPN 4 🇧🇷 
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159602
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9mbMTsR.png", ESPNExtra 🇧🇷 
-http://tbsrv.me:8880/marcusmesquita1/58264726/77693
+http://johnywalkr.b-cdn.net/live/espn4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN 🇲🇽 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
