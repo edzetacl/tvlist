@@ -22,6 +22,13 @@ https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key=4f62db627bd93b718154cc8629e92976:09e37739a090140734904513ee2f4ce3
 https://0068-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fvvVUWL.png", SporTV 2 Brasil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2d6a8c7c95b376db64b06896d730a2f:66e956cb531a00d163da476535b90339
+https://0069-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Jaid7.png", V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
