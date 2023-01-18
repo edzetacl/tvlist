@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
-#EXTINF:-1, Liga Saudi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Liga Saudi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -28,6 +28,9 @@ https://0068-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2d6a8c7c95b376db64b06896d730a2f:66e956cb531a00d163da476535b90339
 https://0069-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Band Sports Brasil
+https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOBSPHD/dsc3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Jaid7.png", V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -385,6 +388,9 @@ https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd|User-Agent="Mozilla/5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ueWqK2y.png", ESPN 🇧🇷 
 http://johnywalkr.b-cdn.net/live/espn/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ueWqK2y.png", ESPN 🇧🇷 (CLR)
+https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOESBHD/dsc1/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HdOJEPO.png", ESPN 2 🇧🇷 
 http://johnywalkr.b-cdn.net/live/espn2/chunks.m3u8
