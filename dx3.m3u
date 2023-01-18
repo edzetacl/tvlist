@@ -398,6 +398,9 @@ http://johnywalkr.b-cdn.net/live/espn2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VHVxt5f.png", ESPN 3 🇧🇷 
 http://johnywalkr.b-cdn.net/live/espn3/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHVxt5f.png", ESPN 3 🇧🇷 (CLR)
+https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOESPHD/dsc2/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bK2BRiE.png", ESPN 4 🇧🇷 
 http://johnywalkr.b-cdn.net/live/espn4/chunks.m3u8
 
@@ -909,6 +912,9 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zrMexqbZAJD0kLVPUkontA","kid":"KYUoKdNz37Nd+Axfodm/8A"}],"type": "temporary"}
 https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMggelI.png", TNT Brasil
+https://ctr-01277-claro-br.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOTNTHD/dsc3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", NBC Universo
 http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoqdh9IffL6x-VIh_QkkbIII
