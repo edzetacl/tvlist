@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test
+http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323634.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Liga Saudi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -31,6 +34,13 @@ https://0069-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Band Sports Brasil
 https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOBSPHD/dsc3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Premiere Brasil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50653a20839a57c8b2d3cde6ddc46cdb:892cc6b38a57fc61c20a1b48592a7412
+https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Jaid7.png", V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
