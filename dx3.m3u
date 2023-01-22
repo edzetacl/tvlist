@@ -4,6 +4,12 @@ tvg-shift=0 catchup="shift" catchup-days=6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test
 http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323634.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test 2
+http://xone8.1222908.net/live/559912B0380379ED95C397C46957B9DF/337813.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test 3
+http://xone8.1222908.net/live/559912B0380379ED95C397C46957B9DF/337812.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Liga Saudi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -274,9 +280,6 @@ https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd|User-Agent="Mozilla
 
 #EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD 🇨🇱
 http://45.232.210.1:47000/play/cdfhd
-
-#EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD 🇨🇱 (op2)
-http://179.56.9.218:9001/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/XeAMtAW.png", TNT Sports 2 🇨🇱 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
