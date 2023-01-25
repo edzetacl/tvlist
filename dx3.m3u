@@ -776,7 +776,7 @@ https://dtvott-akaws.akamaized.net/live_1251/DASH/manifest.mpd|User-Agent="Mozil
 https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vOoGqSn.jpg", GOL Peru
-http://186.101.207.117:9955/play/a087/index.m3u8
+http://209.45.52.14:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvgid="IVCPanregional.ve", tvg-logo="https://i.imgur.com/dWcSKbT.png", IVC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
