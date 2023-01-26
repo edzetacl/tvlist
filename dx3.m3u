@@ -1019,9 +1019,5 @@ https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Multishow Brasil
 http://johnywalkr.b-cdn.net/live/multishow/chunks.m3u8
 
-#EXTINF:-1, La2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmnew.tvup.cloud/license/GNA02
-https://tvup-live.secure2.footprint.net/la2/la2.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Bis Brasil
+https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOMSHD/dsc3/manifest.mpd
