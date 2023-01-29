@@ -186,19 +186,26 @@ https://tvup-live.secure.footprint.net/laliga1/laliga1.mpd|User-Agent="Mozilla/5
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yj235js.png", Dazn IT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JxwHSE5.png", Dazn CH81
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dca-or-livedazn.cdns.cdn.orangetv.orange.es/kup714qtir11h1mndlff8nla/web/stream.mpd?channel=3720&mta=en&outlet=dazn-italy&plang=en&tsb=true|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-019/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yj235js.png", Dazn IT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JxwHSE5.png", Dazn CH82
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ThAAbYF2WPSYNPkPJYH3xQ","k":"WTV34_XfyuQhooPuz9TgdQ"},{"kty":"oct","kid":"mw2dTtO1UsSymGxR33XzKQ","k":"2NAMXmyISzoWYLFEa351tQ"},{"kty":"oct","kid":"xLfsWfpSVcWna3iwdLy56g","k":"WjUw0E3svr-TWShVp7f6_Q"},{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"},{"kty":"oct","kid":"1iKe18IIWHWD17TviUrWmw","k":"eCW_Gi4QOaoNxeRbVTZhjg"}]}
-https://dca-or-livedazn.cdns.cdn.orangetv.orange.es/kup714qtir11h1mndlff8nla/web/stream.mpd?channel=3720&mta=en&outlet=dazn-italy&plang=en&tsb=true|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-020/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JxwHSE5.png", Dazn CH83
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-021/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FcB1Bt2.png", Eurosport 1 It
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -311,8 +318,11 @@ https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD 🇨🇱
 http://45.232.210.1:47000/play/cdfhd
 
-#EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD LL 🇨🇱
+#EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD 🇨🇱 (2)
 http://45.232.210.1:8062/play/a05l/index.m3u8
+
+#EXTINF:-1 tvg-id="CDFHD.cl", tvg-logo="https://i.imgur.com/v4csNOF.png",TNT Sports HD 🇨🇱 (3)
+http://170.79.235.29:8000/play/233
 
 #EXTINF:-1 tvg-id="TNTSports2Chile.cl", tvg-logo="https://i.imgur.com/XeAMtAW.png", TNT Sports 2 🇨🇱 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -534,9 +544,6 @@ https://1117-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYb3ifm.png", Fox Sports 1 🇨🇱 (OP2)
 http://45.232.210.1:47000/play/a07k
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CYb3ifm.png", Fox Sports 1 🇨🇱 (OP3)
-http://179.56.9.218:9001/play/a022/index.m3u8
-
 #EXTINF:-1 tvg-id="FoxSports2South.us", tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2 Sur
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -547,9 +554,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="FoxSports2South.us", tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2 (OP2)
 http://170.79.235.29:8000/play/210
 
-#EXTINF:-1 tvg-id="FoxSports2South.us", tvg-logo="https://i.imgur.com/yedU8Gq.png", Fox Sports 2 (OP3)
-http://179.56.9.218:9001/play/a03g/index.m3u8
-
 #EXTINF:-1 tvg-id="FoxSports3HDPanregional.us", tvg-logo="https://i.imgur.com/GvWFYrE.png", Fox Sports 3 Sur
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -558,7 +562,7 @@ http://179.56.9.218:9001/play/a03g/index.m3u8
 https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="FoxSports3HDPanregional.us", tvg-logo="https://i.imgur.com/GvWFYrE.png", Fox Sports 3 Sur (op2)
-http://179.56.9.218:9001/play/a00v/index.m3u8
+http://45.232.210.1:48000/play/foxsports3hd
 
 #EXTINF:-1 tvg-id="FoxSportsMexico.mx", tvg-logo="https://i.imgur.com/TJsHUSM.png", Fox Sports 🇲🇽 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -870,27 +874,6 @@ https://v-px.mybtv.net/live/726.m3u8?
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-036/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JxwHSE5.png", Dazn CH81
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-019/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JxwHSE5.png", Dazn CH82
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-020/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JxwHSE5.png", Dazn CH83
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-021/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcZixSd.png", Milan TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -956,7 +939,7 @@ https://ctr-01277-claro-br.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", NBC Universo
 http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoqdh9IffL6x-VIh_QkkbIII
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", NBC Sports By Area
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", NBC Sports Bay Area
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", NBC Sports Philadelphia
@@ -978,7 +961,7 @@ https://livetv.mylifeisgood.ml/channels/setantahd
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Viasat Sports
-http://myott.top/stream/P4H2M76YRH/333.m3u8
+http://myott.top/stream/DEKA6YA5JRN/333.m3u8
 
 #EXTINF:-1 tvg-logo="https://zws.im/󠁲󠁤󠁰󠁶󠁳󠁴󠁴", Zona TUDN
 https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
