@@ -10,6 +10,12 @@ http://xone8.1222908.net/live/559912B0380379ED95C397C46957B9DF/337813.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test 3
 http://xone8.1222908.net/live/559912B0380379ED95C397C46957B9DF/337812.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test 4
+http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323597.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test 4
+http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323598.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Liga Saudi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
