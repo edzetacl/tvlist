@@ -1,22 +1,22 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Deportes x M+(Test)
 http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323634.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", #Vamos (Test)
 http://xone8.1222908.net/live/559912B0380379ED95C397C46957B9DF/337813.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", #0 (Test)
 http://xone8.1222908.net/live/559912B0380379ED95C397C46957B9DF/337812.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", La Liga TV x M+ (Test)
 http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323597.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Liga de Campeones c M+ (Test)
 http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323598.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Test 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", ESPN Deportes (Test)
 http://h7lya1.2embed.sbs/cdn/pQK39rfalBkx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Liga Saudi
@@ -437,7 +437,7 @@ https://1103-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WbJpuAvs0DYwemBdmTgWDw","kid":"UiK9jCiYWTmC_CVQ5JOqaQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us", tvg-logo="https://i.imgur.com/9mbMTsR.png", ESPN Extra
+#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us", tvg-logo="https://i.imgur.com/mem4GJi.png", ESPN Extra
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -464,7 +464,10 @@ https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Chann
 https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOESPHD/dsc2/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bK2BRiE.png", ESPN 4 🇧🇷 
-http://johnywalkr.b-cdn.net/live/espn4/chunks.m3u8
+https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOFSTHD/dsc2/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mem4GJi.png", ESPN Extra 🇧🇷 
+https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOESTHD/dsc3/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN 🇲🇽 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1009,7 +1012,11 @@ https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Multishow Brasil
-http://johnywalkr.b-cdn.net/live/multishow/chunks.m3u8
+https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOMTSHD/dsc1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Bis Brasil
 https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOMSHD/dsc3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", MTV Brasil
+https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOMTVHD/dsc1/manifest.mpd
+
