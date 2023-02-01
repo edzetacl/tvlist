@@ -43,14 +43,14 @@ https://0068-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K5y8MsI.png", SporTV Brasil (CLR)
 https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOSPTHD/dsc2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fvvVUWL.png", SporTV 2 Brasil (DTV)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1IrrYFT.png", SporTV 2 Brasil (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2d6a8c7c95b376db64b06896d730a2f:66e956cb531a00d163da476535b90339
 https://0069-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fvvVUWL.png", SporTV 2 Brasil (CLR)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1IrrYFT.png", SporTV 2 Brasil (CLR)
 https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOSP2HD/dsc2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rnCZmKC.png", SporTV 3 Brasil (CLR)
@@ -496,16 +496,16 @@ https://1125-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium 🇦🇷 (RCS)
 https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ueWqK2y.png", ESPN 🇧🇷
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQyx12m.png", ESPN 🇧🇷
 https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOESBHD/dsc1/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HdOJEPO.png", ESPN 2 🇧🇷 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/doWnNfW.png", ESPN 2 🇧🇷 
 https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOESIHD/dsc3/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VHVxt5f.png", ESPN 3 🇧🇷
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aV1aBmp.png", ESPN 3 🇧🇷
 https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOESPHD/dsc2/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bK2BRiE.png", ESPN 4 🇧🇷 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQzKZzP.png", ESPN 4 🇧🇷 
 https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOFSTHD/dsc2/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mem4GJi.png", ESPN Extra 🇧🇷 
