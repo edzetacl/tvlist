@@ -69,6 +69,13 @@ https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Chann
 #KODIPROP:inputstream.adaptive.license_key=50653a20839a57c8b2d3cde6ddc46cdb:892cc6b38a57fc61c20a1b48592a7412
 https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Premiere 2 Brasil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fc08bc02c90500ba511d93a54d261c4:184832a5c70ebffcbc42c0243df398f3
+https://dtvott-jbc.akamaized.net/dash_live_0080/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Jaid7.png", V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -469,6 +476,13 @@ https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Chann
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mem4GJi.png", ESPN Extra 🇧🇷 
 https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOESTHD/dsc3/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mem4GJi.png", ESPN Extra 🇧🇷 (DTV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0652911b7015750aa0571fc60d8d875:be5ab7662bf62a47fd68a229ff5985d1
+https://dtvott-jbc.akamaized.net/dash_live_0091/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", ESPN 🇲🇽 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -723,6 +737,13 @@ https://dtvott-cbc.akamaized.net/dash_live_1070/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8NIlT4W3Nxf0ws2BvacYiQ","kid":"NrLGt3NqWQG/QIkWpFSr+Q"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Brasil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=533de0c3a6fd523bbcdd1d450ef0ed21:22b927dc058479797c93cc9573b8c1cf
+https://dtvott-jbc.akamaized.net/dash_live_0135/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwDYJ2w.png", Teledeporte
 #KODIPROP:inputstreamaddon=inputstream.adaptive
