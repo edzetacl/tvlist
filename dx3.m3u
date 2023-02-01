@@ -1111,3 +1111,71 @@ https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Chann
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", MTV Brasil
 https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOMTVHD/dsc1/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Globo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7efd51f9cf6837ad9acc133809565b04:378f9eebeb76a912f8774069adb68fad
+https://0103-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Globo 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=145d4dd272f53fa0bc15daa206f0b159:e2e8de6b5c4123c4fcfba2c63b70fd09
+https://0104-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Globo 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b739e19fd21037418d66f989473d9755:b6da50bf5281d7fefa01c7e66b97b567
+https://0119-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Globo 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e8f77edda9a34f09c8f956bdd975d49:df80b12b17a4163884ff92db98d66185
+https://0120-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Globo 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=afc03cecdfcc304da06f1f390bc4272a:be8805177bd2d3c5d2c6f7a7de83be2a
+https://0121-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Globo 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b48fb1cad5374a8a48a5bc71f9628a:e014f687c14c65c5e931e61ef2cb2f42
+https://0122-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Globo 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=67f6ac9d4ad63c2896554524454872d9:4e6e45f78ccc9ae9a5638de8085f46dc
+https://0123-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Globo 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5cac6b12cf8c3738a660b18b9ebe943a:104e68f99255baf4939e233f9160bda4
+https://0124-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Premiere
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34dc14b5497f3a0faca742240cac20c8:0a6e1d0ba9f6b467f39cc51ba4cc9794
+https://0108-vos.dtvott.com/DASH/manifest.mpd
+
+
+
+
+
+
