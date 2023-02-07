@@ -61,6 +61,20 @@ https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GEgypccOv/y8QsAkPfOY8w","kid":"n8CLwCyQUAulEdk6VNJhxA"}],"type":"temporary"}
 https://dtvott-jbc.akamaized.net/dash_live_0080/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Paramount 1 (TEST)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3df0c13133263606a972e24c29cbd20c:5d2dc2c87187944806a86697c5875aec
+https://1268-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Paramount 2 (TEST)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b31dbd9f14963d0bb08f365e5edccf43:3ec858ac2e621d293d10d014563e1260
+https://1268-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Paramount 3 (TEST)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
