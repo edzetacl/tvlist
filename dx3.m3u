@@ -19,6 +19,9 @@ http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323598.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", ESPN Deportes (Test)
 http://h7lya1.2embed.sbs/cdn/pQK39rfalBkx/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", FOX Deportes (Test)
+http://143.244.60.30/FOXDEPORTES/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Liga Saudi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
