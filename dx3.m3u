@@ -66,7 +66,7 @@ https://dtvott-jbc.akamaized.net/dash_live_0080/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3df0c13133263606a972e24c29cbd20c:5d2dc2c87187944806a86697c5875aec
-https://1268-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://1267-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Paramount 2 (TEST)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -79,15 +79,15 @@ https://1268-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SO+8mnx3+OUddCO20z2zbQ","kid":"60v1HjqjX6+pdVGHJuxa3w"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1270/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NSBaNbcGsyDi9uw6s5abXg","kid":"GvQLcNRAXLSRnhhmBWRLYA"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1269/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Paramount 4 (TEST)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NSBaNbcGsyDi9uw6s5abXg","kid":"GvQLcNRAXLSRnhhmBWRLYA"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1269/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SO+8mnx3+OUddCO20z2zbQ","kid":"60v1HjqjX6+pdVGHJuxa3w"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1270/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Jaid7.png", V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
