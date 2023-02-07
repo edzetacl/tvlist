@@ -40,27 +40,12 @@ https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key=4f62db627bd93b718154cc8629e92976:09e37739a090140734904513ee2f4ce3
 https://0068-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K5y8MsI.png", SporTV Brasil (CLR)
-https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOSPTHD/dsc2/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1IrrYFT.png", SporTV 2 Brasil (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2d6a8c7c95b376db64b06896d730a2f:66e956cb531a00d163da476535b90339
 https://0069-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1IrrYFT.png", SporTV 2 Brasil (CLR)
-https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOSP2HD/dsc2/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rnCZmKC.png", SporTV 3 Brasil (CLR)
-https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOSP3HD/dsc1/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Band Brasil
-https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOBNHD/dsc2/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Band Sports Brasil
-https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOBSPHD/dsc3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Premiere Brasil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -75,6 +60,20 @@ https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GEgypccOv/y8QsAkPfOY8w","kid":"n8CLwCyQUAulEdk6VNJhxA"}],"type":"temporary"}
 https://dtvott-jbc.akamaized.net/dash_live_0080/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Paramount 3 (TEST)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SO+8mnx3+OUddCO20z2zbQ","kid":"60v1HjqjX6+pdVGHJuxa3w"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1270/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Paramount 4 (TEST)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NSBaNbcGsyDi9uw6s5abXg","kid":"GvQLcNRAXLSRnhhmBWRLYA"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1269/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Jaid7.png", V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1036,9 +1035,6 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zrMexqbZAJD0kLVPUkontA","kid":"KYUoKdNz37Nd+Axfodm/8A"}],"type": "temporary"}
 https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gMggelI.png", TNT Brasil
-https://ctr-01277-claro-br.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOTNTHD/dsc3/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", NBC Universo
 http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoqdh9IffL6x-VIh_QkkbIII
 
@@ -1101,15 +1097,6 @@ https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://zws.im/󠁲󠁤󠁰󠁶󠁳󠁴󠁴", Adrenalina Sports
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Multishow Brasil
-https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOMTSHD/dsc1/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Bis Brasil
-https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOMSHD/dsc3/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", MTV Brasil
-https://qn-01277-snejc-1-01-2.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOMTVHD/dsc1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png", Globo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
