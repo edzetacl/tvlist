@@ -518,21 +518,6 @@ https://1125-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #EXTINF:-1 tvg-id="ESPNPremium.ar", tvg-logo="https://i.imgur.com/I0ECSpt.png", ESPN Premium 🇦🇷 (RCS)
 https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fQyx12m.png", ESPN 🇧🇷
-https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOESBHD/dsc1/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/doWnNfW.png", ESPN 2 🇧🇷 
-https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOESIHD/dsc3/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aV1aBmp.png", ESPN 3 🇧🇷
-https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOESPHD/dsc2/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQzKZzP.png", ESPN 4 🇧🇷 
-https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOFSTHD/dsc2/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mem4GJi.png", ESPN Extra 🇧🇷 
-https://qn-01277-paemf-1-01-1.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOESTHD/dsc3/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mem4GJi.png", ESPN Extra 🇧🇷 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -596,26 +581,21 @@ https://1261-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kIqT/kGs8HU4yIwbMCd2Vg","kid":"obgJm2Ryarx3I+F4KbQ6VQ"}],"type":"temporary"}
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar", tvg-logo="https://i.imgur.com/10df48I.png", Fox Sports 🇦🇷
+#EXTINF:-1 tvg-id="1605dtv.ar", tvg-logo="https://i.imgur.com/gxpQprg.png", Fox Sports Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dr6BBB5xM6OEV_CX0rAEHA","k":"jO2EbJ7_1W1-KpJ2IkuzxQ"}]}
 https://1118-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="FoxSports2South.us", tvg-logo="https://i.imgur.com/KGawfzU.png", Fox Sports 2 🇦🇷
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UIbTcOhAAQIyz0UysW4Zfw","kid":"yY3f/EcP5EmuGo1kkhFpdg"}],"type":"temporary"}
-http://177.68.156.60:5050/https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="1605dtv.ar", tvg-logo="https://i.imgur.com/gxpQprg.png", Fox Sports 🇦🇷 (Op2)
+https://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 
-#EXTINF:-1 tvg-id="FoxSports3Argentina.ar", tvg-logo="https://i.imgur.com/CaUmm5k.png", Fox Sports 3 🇦🇷
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+jnoVVQ8XXDzBgDVnl5MGw","kid":"VbRzkM+eSZfa5trIXgV4dQ"}],"type":"temporary"}
-http://177.68.156.60:5050/https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="606dtv.ar", tvg-logo="https://i.imgur.com/gXlnwgh.png", Fox Sports 2 🇦🇷
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3081dtv.cl", tvg-logo="https://i.imgur.com/muijUMb.png", Fox Sports 3 🇦🇷
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYb3ifm.png", Fox Sports 1 🇨🇱 (DTV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
