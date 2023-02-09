@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YQ7N6Pn.png", CHV Deportes (Pluto)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNr2Im6.png", CHV Deportes (Pluto)
 https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/CHILE/24-7/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YQ7N6Pn.png", CHVDeportes.cl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNr2Im6.png", CHVDeportes.cl
 https://mdstrm.com/live-stream-playlist-v/5c6c302a414cc5496c9d7d79.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YQ7N6Pn.png", Telefe Deportes (Pluto)
