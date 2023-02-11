@@ -1003,12 +1003,12 @@ http://g3.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044
 
 #EXTINF:-1,A01
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/101
+#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/0
 http://live.entel.cl/2245/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1,A02
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/102
+#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/0
 http://live.entel.cl/2298/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1,A03
@@ -1018,92 +1018,34 @@ http://live.entel.cl/2315/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1,A04
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/104
+#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/0
 http://live.entel.cl/2320/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1,A05
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/105
+#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/0
 http://live.entel.cl/2330/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1,A06
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/106
+#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/0
 http://live.entel.cl/2332/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1,A07
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/108
+#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/0
 http://live.entel.cl/2344/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1,A08
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/109
+#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/0
 http://live.entel.cl/3182/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
 #EXTINF:-1,A09
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/110
+#KODIPROP:inputstream.adaptive.license_key=https://callateguatonql.cam/Licence/0
 http://live.entel.cl/3183/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
 
-#EXTINF:-1 , Test Latam
-<<<<<<<<<<<---------->>>>>>>>>>
-
-#EXTINF:-1 , CNN Chile
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dtvgo.live.ott.irdeto.com/licenseServer/playready/v1/dtvgo/license?contentId=Live_1049
-https://dtvott-abc.akamaized.net/dash_live_1049/manifest.mpd
-
-#EXTINF:-1 , CHV Chile
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dtvgo.live.ott.irdeto.com/licenseServer/widevine/v1/dtvgo/license?contentId=Live_1040
-https://dtvott-akaws.akamaized.net/live_1040/DASH/manifest.mpd
-
-#EXTINF:-1 , Canal 26 Arg
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dtvgo.live.ott.irdeto.com/licenseServer/playready/v1/dtvgo/license?contentId=Live_1031
-https://dtvott-abc.akamaized.net/dash_live_1031/manifest.mpd
-
-#EXTINF:-1 , Canal 26 Arg
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dtvgo.live.ott.irdeto.com/licenseServer/playready/v1/dtvgo/license?contentId=Live_1031
-https://dtvott-abc.akamaized.net/dash_live_1031/manifest.mpd
-
-#EXTINF:-1 , FSP1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/Apj/U+4D9Z60lZGhXCC9Q","kid":"WAS3okyhMD2FEbbUknhhDA"}],"type":"temporary"}
-https://1117-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 , ESPNPrem.
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ea1p0shPQdu1IKv+OLGf5w","kid":"TLSd80FCPLWXvz55t48qUg"}],"type":"temporary"}
-https://1125-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, CDOP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"eFn5l4WTMi-Q1vRx0lgn-A","k":"ZfgC1Anifc3hxJpzcYSRBA"}]}
-https://1039-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1, TyC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qn+V9xo8/kCqWZBPkoWvcg","kid":"TUW3nUSHNDWJBYq0nd+M8A"}],"type":"temporary"}
-https://1240-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
 
